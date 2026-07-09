@@ -122,7 +122,7 @@
   width: 28px;
   height: 28px;
   margin-top: 2px;
-  background: #e31e24;
+  background: var(--color-primary);
   transition: transform 0.35s ease;
 }
 

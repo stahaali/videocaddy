@@ -4,7 +4,7 @@
 }
 
 .highlight {
-  border: 2px solid #f14b3c;
+  border: 2px solid var(--color-primary);
   padding: 7px 20px;
   border-radius: 30px;
   background: #000;
@@ -62,12 +62,7 @@
   max-width: min(750px, calc(100vw - 32px));
   padding: 20px;
   background: #fff;
-  box-shadow: 0 8px 16px rgba(37, 5, 0, 0.35);
-}
-
-.megaMenuAlignRight {
-  left: auto;
-  right: 0;
+  box-shadow: 0 8px 16px rgba(212, 175, 55, 0.15);
 }
 
 .megaMenuGrid {
@@ -77,11 +72,11 @@
 
 .megaMenuColumn {
   padding-left: 10px;
-  border-right: 1px solid #ff7575;
+  border-right: 1px solid var(--color-gold-border);
 }
 
 .megaMenuColumn:last-child {
-  border-right: 1px solid #ff7575;
+  border-right: 1px solid var(--color-gold-border);
 }
 
 .megaMenuList {
@@ -92,7 +87,7 @@
 
 .megaMenuList li {
   margin-bottom: 10px;
-  border-bottom: 1px dashed #e8c9c9;
+  border-bottom: 1px dashed var(--color-gold-pale);
 }
 
 .megaMenuList li:last-child {
@@ -113,11 +108,79 @@
 }
 
 .megaMenuLink:hover {
-  color: #f1483c;
+  color: var(--color-primary);
 }
 
 @media (max-width: 1279px) {
   .megaMenu {
     width: min(750px, calc(100vw - 32px));
   }
+}
+
+.searchWrap {
+  position: relative;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  width: 36px;
+  overflow: hidden;
+  border-bottom: 1px solid transparent;
+  transition: width 0.45s ease, border-color 0.35s ease;
+}
+
+.searchWrap:hover,
+.searchWrap:focus-within {
+  width: 220px;
+  border-bottom-color: var(--color-primary);
+}
+
+.searchInput {
+  flex: 1;
+  min-width: 0;
+  width: 0;
+  padding: 6px 10px 8px 0;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  font-family: var(--font-section);
+  font-size: 15px;
+  line-height: 1.2;
+  opacity: 0;
+  outline: none;
+  transition: opacity 0.35s ease 0.05s;
+}
+
+.searchWrap:hover .searchInput,
+.searchWrap:focus-within .searchInput {
+  opacity: 1;
+}
+
+.searchInput::placeholder {
+  color: var(--color-text-dim);
+}
+
+.searchBtn {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.searchIcon {
+  font-size: 18px;
+  line-height: 1;
+  opacity: 0.85;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.searchWrap:hover .searchIcon,
+.searchWrap:focus-within .searchIcon {
+  opacity: 1;
+  transform: scale(1.05);
 }

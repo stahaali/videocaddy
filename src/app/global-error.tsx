@@ -28,8 +28,8 @@ export default function GlobalError({
             type="button"
             onClick={reset}
             style={{
-              background: "#e31e24",
-              color: "#fff",
+              background: "#d4af37",
+              color: "#000",
               border: "none",
               padding: "0.75rem 1.5rem",
               cursor: "pointer",

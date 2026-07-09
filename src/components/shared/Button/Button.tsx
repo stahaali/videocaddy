@@ -18,13 +18,13 @@ const base =
 
 const variants = {
   primary:
-    "bg-primary text-white border-2 border-primary hover:bg-primary-dark hover:border-primary-dark hover:-translate-y-0.5 hover:shadow-[0_8px_24px_rgba(227,30,36,0.35)]",
+    "bg-primary text-black border-2 border-primary hover:bg-primary-dark hover:border-primary-dark hover:-translate-y-0.5 hover:shadow-[0_8px_24px_var(--color-gold-glow)]",
   secondary:
     "bg-transparent text-white border-2 border-white hover:bg-white hover:text-black hover:-translate-y-0.5",
   outline:
-    "bg-transparent text-primary border-2 border-primary hover:bg-primary hover:text-white hover:-translate-y-0.5",
+    "bg-transparent text-primary border-2 border-primary hover:bg-primary hover:text-black hover:-translate-y-0.5",
   portfolio:
-    "bg-transparent text-primary border-2 border-primary hover:bg-primary hover:text-white hover:-translate-y-0.5 hover:shadow-[0_8px_24px_rgba(227,30,36,0.35)]",
+    "bg-transparent text-primary border-2 border-primary hover:bg-primary hover:text-black hover:-translate-y-0.5 hover:shadow-[0_8px_24px_var(--color-gold-glow)]",
 };
 
 const sizes = {

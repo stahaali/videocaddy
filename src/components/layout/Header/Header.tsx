@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import Container from "@/components/shared/Container/Container";
@@ -14,9 +14,11 @@ export default function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
 
   const dropdownNavItems = headerMegaNav.filter((item) => item.hasDropdown);
-  const lastDropdownLabel = dropdownNavItems[dropdownNavItems.length - 1]?.label;
+  const activeDropdownItem = dropdownNavItems.find((item) => item.label === activeDropdown);
+  const megaMenuAnchorLabel = dropdownNavItems[0]?.label;
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 50);
@@ -69,8 +71,8 @@ export default function Header() {
                       className={cn(
                         "header-nav-link inline-flex items-center px-3.5 py-2 font-heading font-semibold uppercase tracking-wider transition-colors",
                         activeDropdown === item.label
-                          ? "text-[#f1483c]"
-                          : "text-white hover:text-[#f1483c]"
+                          ? "text-primary"
+                          : "text-white hover:text-primary"
                       )}
                     >
                       {item.label}
@@ -79,32 +81,25 @@ export default function Header() {
                       )}
                     </Link>
 
-                    {item.hasDropdown &&
-                      activeDropdown === item.label &&
-                      item.columns && (
-                        <div
-                          className={cn(
-                            styles.megaMenu,
-                            item.label === lastDropdownLabel && styles.megaMenuAlignRight
-                          )}
-                        >
-                          <div className={styles.megaMenuGrid}>
-                            {item.columns.map((column, colIndex) => (
-                              <div key={colIndex} className={styles.megaMenuColumn}>
-                                <ul className={styles.megaMenuList}>
-                                  {column.links.map((link) => (
-                                    <li key={link.label}>
-                                      <Link href={link.href} className={styles.megaMenuLink}>
-                                        {link.label}
-                                      </Link>
-                                    </li>
-                                  ))}
-                                </ul>
-                              </div>
-                            ))}
-                          </div>
+                    {item.label === megaMenuAnchorLabel && activeDropdownItem?.columns && (
+                      <div className={styles.megaMenu}>
+                        <div className={styles.megaMenuGrid}>
+                          {activeDropdownItem.columns.map((column, colIndex) => (
+                            <div key={colIndex} className={styles.megaMenuColumn}>
+                              <ul className={styles.megaMenuList}>
+                                {column.links.map((link) => (
+                                  <li key={link.label}>
+                                    <Link href={link.href} className={styles.megaMenuLink}>
+                                      {link.label}
+                                    </Link>
+                                  </li>
+                                ))}
+                              </ul>
+                            </div>
+                          ))}
                         </div>
-                      )}
+                      </div>
+                    )}
                   </div>
                 ))}
               </nav>
@@ -123,13 +118,25 @@ export default function Header() {
                     </a>
                   </div>
                 </div>
-                <button
-                  type="button"
-                  className="hidden text-lg text-text-muted hover:text-white xl:block"
-                  aria-label="Search"
-                >
-                  🔍
-                </button>
+                <div className={cn(styles.searchWrap, "hidden xl:flex")}>
+                  <input
+                    ref={searchInputRef}
+                    type="search"
+                    className={styles.searchInput}
+                    placeholder="Search.."
+                    aria-label="Search"
+                  />
+                  <button
+                    type="button"
+                    className={styles.searchBtn}
+                    aria-label="Search"
+                    onClick={() => searchInputRef.current?.focus()}
+                  >
+                    <span className={styles.searchIcon} aria-hidden="true">
+                      🔍
+                    </span>
+                  </button>
+                </div>
                 <button
                   type="button"
                   className="flex h-8 w-8 flex-col justify-center gap-1.5 p-1 xl:hidden"

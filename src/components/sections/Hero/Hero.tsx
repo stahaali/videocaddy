@@ -96,7 +96,7 @@ export default function Hero() {
                     alt="Video Caddy Showreel 2026"
                     fill
                     priority
-                    className="object-cover"
+                    className="hero-showreel object-cover"
                     sizes="(max-width: 1024px) 100vw, 620px"
                   />
                   <button

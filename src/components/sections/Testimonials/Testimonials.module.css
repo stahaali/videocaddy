@@ -16,7 +16,7 @@
   z-index: 0;
   width: 44%;
   height: 100%;
-  background: #0d0c11;
+  background: var(--color-bg-section);
 }
 
 .inner {
@@ -72,7 +72,7 @@
   height: 100%;
   min-height: 280px;
   padding: 40px 30px;
-  background: #1e1e28;
+  background: var(--color-bg-elevated);
 }
 
 .stars {
@@ -107,7 +107,7 @@
 .tcompany {
   margin-top: 6px !important;
   font-size: 13px;
-  color: #888;
+  color: var(--color-text-dim);
 }
 
 .eyebrow {
@@ -138,7 +138,7 @@
   font-size: 32px !important;
   font-weight: 600;
   line-height: 1;
-  color: #1f1e24 !important;
+  color: #1a1612 !important;
 }
 
 @media (min-width: 576px) {

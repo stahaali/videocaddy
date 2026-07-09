@@ -1,4 +1,27 @@
+:root {
   --container-max: 1200px;
   --container-padding: 1.25rem;
   --header-height: 88px;
   --header-total: var(--header-height);
+
+  /* Golden black palette */
+  --color-primary: #d4af37;
+  --color-primary-dark: #b8941f;
+  --color-primary-darker: #967812;
+  --color-accent: #e8c547;
+  --color-accent-muted: #c9a227;
+  --color-gold-light: #f0d060;
+  --color-gold-pale: #e8d5a3;
+  --color-gold-border: #c4a24e;
+  --color-gold-border-soft: rgba(212, 175, 55, 0.45);
+  --color-bg-dark: #000000;
+  --color-bg-section: #0a0908;
+  --color-bg-card: #12100e;
+  --color-bg-elevated: #1a1612;
+  --color-bg-warm: #141210;
+  --color-text-muted: #bfb092;
+  --color-text-dim: #8a8070;
+  --color-border-muted: #3d3528;
+  --color-border-hover: #6b5a32;
+  --color-gold-glow: rgba(212, 175, 55, 0.35);
+}

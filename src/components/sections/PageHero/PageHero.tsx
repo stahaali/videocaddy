@@ -25,7 +25,7 @@ export default function PageHero({
   return (
     <section className="page-hero-section spacing-section relative overflow-hidden bg-bg-section">
       <div
-        className="pointer-events-none absolute top-0 right-0 h-full w-[40%] bg-[radial-gradient(ellipse_at_top_right,rgba(227,30,36,0.12),transparent_70%)]"
+        className="pointer-events-none absolute top-0 right-0 h-full w-[40%] bg-[radial-gradient(ellipse_at_top_right,rgba(212,175,55,0.14),transparent_70%)]"
         aria-hidden="true"
       />
       <Container>

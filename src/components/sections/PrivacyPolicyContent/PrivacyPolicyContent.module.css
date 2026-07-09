@@ -55,7 +55,7 @@
 
 .breadcrumbCurrent {
   font-weight: 400;
-  color: #8b1f24;
+  color: var(--color-primary-darker);
 }
 
 .section {

@@ -39,7 +39,7 @@
 }
 
 .linksPanel {
-  background: #0d0d0d;
+  background: var(--color-bg-section);
   padding: 28px 24px;
 }
 
@@ -88,7 +88,7 @@
 }
 
 .footerLink:hover {
-  color: #e31e24;
+  color: var(--color-primary);
 }
 
 .address {
@@ -100,9 +100,9 @@
 }
 
 .contactBar {
-  background: #0d0d0d;
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: var(--color-bg-section);
+  border-top: 1px solid var(--color-gold-border-soft);
+  border-bottom: 1px solid var(--color-gold-border-soft);
 }
 
 .contactInner {
@@ -121,19 +121,24 @@
   font-family: var(--font-heading);
   font-size: 15px;
   font-weight: 700;
-  color: #fff;
+  color: var(--color-primary);
 }
 
 .getInTouchLine {
   flex: 1;
   height: 1px;
-  background: rgba(255, 255, 255, 0.35);
+  background: linear-gradient(90deg, var(--color-gold-border-soft), rgba(255, 255, 255, 0.15));
 }
 
 .contactItem {
   display: flex;
   align-items: center;
   gap: 14px;
+  transition: transform 0.2s ease;
+}
+
+.contactItem:hover {
+  transform: translateY(-1px);
 }
 
 .contactIcon {
@@ -141,6 +146,13 @@
   width: 42px;
   height: 42px;
   flex-shrink: 0;
+  filter: sepia(1) saturate(3.2) hue-rotate(358deg) brightness(1.05);
+  transition: filter 0.25s ease, transform 0.25s ease;
+}
+
+.contactItem:hover .contactIcon {
+  filter: sepia(1) saturate(4) hue-rotate(358deg) brightness(1.15);
+  transform: scale(1.05);
 }
 
 .contactMeta {
@@ -155,7 +167,7 @@
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: #fff;
+  color: var(--color-gold-pale);
 }
 
 .contactValue {
@@ -166,7 +178,7 @@
 }
 
 .contactValue:hover {
-  color: #e31e24;
+  color: var(--color-primary);
 }
 
 .emailRow {
@@ -191,6 +203,7 @@
 
 .copyBtn:hover {
   opacity: 1;
+  color: var(--color-primary);
 }
 
 .socialBlock {
@@ -225,7 +238,7 @@
   justify-content: center;
   width: 34px;
   height: 34px;
-  border: 2px solid #f1f1f1;
+  border: 2px solid var(--color-gold-pale);
   border-radius: 50px;
   font-size: 12px;
   line-height: 1;
@@ -235,8 +248,8 @@
 }
 
 .socialLink:hover {
-  background: #ee3c2d;
-  color: #fff;
+  background: var(--color-primary);
+  color: #000;
 }
 
 .bottomBar {

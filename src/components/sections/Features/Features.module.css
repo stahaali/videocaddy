@@ -82,7 +82,7 @@
   height: 48px;
   margin: 0 auto 20px;
   border-radius: 50%;
-  background: #2a1818;
+  background: #1a1610;
   font-size: 20px;
   line-height: 1;
 }
@@ -92,7 +92,7 @@
 }
 
 .iconAccent {
-  color: #f5a623;
+  color: var(--color-accent);
 }
 
 .cardTitle {
@@ -102,7 +102,7 @@
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #e31e24;
+  color: var(--color-primary);
 }
 
 .cardText {
