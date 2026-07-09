@@ -1,0 +1,169 @@
+.section {
+  background: #fff;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 28px;
+  margin-bottom: 48px;
+}
+
+@media (min-width: 576px) {
+  .header {
+    gap: 24px;
+  }
+}
+
+@media (min-width: 768px) {
+  .header {
+    margin-bottom: 40px;
+  }
+
+  .grid {
+    gap: 0 32px;
+  }
+}
+
+@media (min-width: 992px) {
+  .header {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 40px;
+    align-items: start;
+    margin-bottom: 48px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .intro {
+    padding-top: 36px;
+  }
+}
+
+@media (min-width: 1080px) {
+  .grid {
+    gap: 0 48px;
+  }
+}
+
+@media (max-width: 575px) {
+  .header {
+    margin-bottom: 32px;
+    gap: 20px;
+  }
+
+  .item {
+    margin-bottom: 24px;
+  }
+}
+
+.headerLeft {
+  text-align: left;
+}
+
+.eyebrow {
+  display: inline-block;
+  margin-bottom: 16px;
+  padding: 8px 14px;
+  background: #000;
+  font-family: var(--font-section);
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.title {
+  margin: 0;
+  font-family: var(--font-section);
+  font-size: clamp(1.75rem, 4vw, 40px);
+  font-weight: 600;
+  line-height: 1.15;
+  text-transform: uppercase;
+  color: #000;
+}
+
+.intro {
+  margin: 0;
+  font-family: var(--font-section);
+  font-size: 15px;
+  line-height: 1.7;
+  color: #333;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0 48px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.item:last-child {
+  margin-bottom: 0;
+}
+
+.icon {
+  position: relative;
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  margin-top: 2px;
+  background: #e31e24;
+  transition: transform 0.35s ease;
+}
+
+.icon::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 62%;
+  height: 2px;
+  background: #fff;
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+.item:hover .icon {
+  transform: rotate(90deg);
+}
+
+.itemTitle {
+  margin: 0 0 10px;
+  font-family: var(--font-heading);
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000;
+}
+
+.itemText {
+  margin: 0;
+  font-family: var(--font-section);
+  font-size: 14px;
+  line-height: 1.65;
+  color: #444;
+}
+
+@media (max-width: 1920px) {
+  .itemTitle {
+    font-size: clamp(13px, 0.75vw, 15px);
+  }
+
+  .itemText {
+    font-size: clamp(13px, 0.7vw, 14px);
+  }
+}

@@ -1,0 +1,165 @@
+.section {
+  background: #000;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  align-items: center;
+}
+
+.imageCol {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.contactSectionImg {
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 93%;
+  max-width: 688px;
+  height: auto;
+  filter: grayscale(100%);
+}
+
+.slowZoomIn {
+  animation: slowZoomIn 5s ease-in-out;
+}
+
+@keyframes slowZoomIn {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.06);
+  }
+}
+
+.rightCol {
+  width: 100%;
+}
+
+.contactContent {
+  text-align: left;
+}
+
+.title {
+  margin: 0 0 16px;
+  font-family: var(--font-section);
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 1.15;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.subtitle {
+  margin: 0;
+  font-family: var(--font-section);
+  font-size: 21px;
+  font-weight: 100;
+  line-height: 1.55;
+  color: #bcbbbb;
+}
+
+.buttonWrap {
+  margin: 0;
+  padding: 45px 0 55px;
+}
+
+.contactDetails {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+.contactDetailsCol {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 3px;
+}
+
+.phoneLabel {
+  text-transform: none !important;
+  letter-spacing: 0;
+}
+
+.buttonWrap :global(.btn-all) {
+  color: #fff;
+}
+
+@media (min-width: 576px) {
+  .grid {
+    gap: 32px;
+  }
+}
+
+@media (min-width: 768px) {
+  .grid {
+    gap: 36px;
+  }
+}
+
+@media (min-width: 992px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px;
+    align-items: center;
+  }
+
+  .image {
+    width: 93%;
+  }
+}
+
+@media (min-width: 1080px) {
+  .grid {
+    gap: 40px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .title {
+    font-size: 40px;
+  }
+
+  .subtitle {
+    font-size: 21px;
+  }
+}
+
+@media (max-width: 991px) {
+  .contactDetailsCol {
+    flex: 1 1 calc(50% - 6px);
+    min-width: calc(50% - 6px);
+  }
+}
+
+@media (max-width: 575px) {
+  .title {
+    font-size: 28px;
+  }
+
+  .subtitle {
+    font-size: 16px;
+  }
+
+  .buttonWrap {
+    padding: 32px 0 40px;
+  }
+
+  .image {
+    width: 100%;
+    max-width: none;
+  }
+
+  .contactDetailsCol {
+    flex: 1 1 100%;
+    min-width: 100%;
+  }
+}

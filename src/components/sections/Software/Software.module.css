@@ -1,0 +1,77 @@
+.section {
+  padding-top: 0;
+  padding-bottom: 60px;
+  background: #000;
+}
+
+.eyebrow {
+  display: block;
+  margin: 0 0 8px;
+  text-align: center;
+  font-family: var(--font-section);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #888;
+}
+
+.titleWrap {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.titleWrap :global(.section-heading) {
+  margin: 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  gap: 48px;
+}
+
+.softwareImage {
+  display: block;
+  width: 85%;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.editorWrap {
+  display: flex;
+  justify-content: center;
+}
+
+.editorImage {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin-top: 0;
+  object-fit: contain;
+}
+
+@media (min-width: 992px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px;
+  }
+
+  .softwareImage {
+    width: 85%;
+    margin: 0;
+  }
+
+  .editorImage {
+    margin-top: -125px;
+  }
+}
+
+@media (max-width: 991px) {
+  .editorImage {
+    margin-top: 0;
+  }
+}

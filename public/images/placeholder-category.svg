@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
+  <rect width="400" height="250" fill="#222"/>
+  <rect x="10" y="10" width="380" height="230" fill="#2a2a2a" stroke="#e31e24" stroke-width="1" stroke-opacity="0.3"/>
+  <circle cx="200" cy="110" r="30" fill="#e31e24" opacity="0.6"/>
+  <polygon points="195,95 195,125 220,110" fill="#fff"/>
+  <text x="200" y="180" font-family="Arial,sans-serif" font-size="12" fill="#888" text-anchor="middle">Category</text>
+</svg>

@@ -1,0 +1,4 @@
+  --container-max: 1200px;
+  --container-padding: 1.25rem;
+  --header-height: 88px;
+  --header-total: var(--header-height);

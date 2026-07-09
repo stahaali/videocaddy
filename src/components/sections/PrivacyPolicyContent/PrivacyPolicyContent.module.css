@@ -1,0 +1,131 @@
+.banner {
+  background: #eaeaea;
+  padding-top: calc(var(--header-height, 88px) + 48px);
+  padding-bottom: 0;
+}
+
+.bannerInner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 120px;
+  padding: 24px 0 52px;
+}
+
+.bannerTitle {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: clamp(2.25rem, 5vw, 48px);
+  font-weight: 800;
+  line-height: 1.1;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: #000;
+}
+
+.breadcrumbBox {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  background: #fff;
+  font-family: var(--font-section);
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.breadcrumbHome {
+  font-weight: 700;
+  color: #000;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.breadcrumbHome:hover {
+  color: var(--color-primary);
+}
+
+.breadcrumbSep {
+  color: #000;
+}
+
+.breadcrumbCurrent {
+  font-weight: 400;
+  color: #8b1f24;
+}
+
+.section {
+  background: #fff;
+  color: #1a1a1a;
+}
+
+.content {
+  max-width: 900px;
+}
+
+.block {
+  margin-bottom: 32px;
+}
+
+.block:last-child {
+  margin-bottom: 0;
+}
+
+.heading {
+  margin: 0 0 14px;
+  font-family: var(--font-section);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000;
+}
+
+.paragraph {
+  margin: 0 0 14px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #333;
+}
+
+.paragraph:last-child {
+  margin-bottom: 0;
+}
+
+.list {
+  margin: 0 0 14px;
+  padding: 0;
+  list-style: none;
+}
+
+.listItem {
+  position: relative;
+  margin-bottom: 10px;
+  padding-left: 18px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #333;
+}
+
+.listItem::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.65em;
+  width: 6px;
+  height: 6px;
+  background: var(--color-primary);
+  transform: translateY(-50%);
+}
+
+.listItem:last-child {
+  margin-bottom: 0;
+}
+
+.bulletTitle {
+  font-weight: 700;
+  color: #000;
+}

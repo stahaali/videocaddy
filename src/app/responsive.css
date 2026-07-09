@@ -1,0 +1,255 @@
+/* Site-wide responsive breakpoints: 576px, 768px, 992px, 1080px, 1366px */
+
+.site-container {
+  width: 100%;
+  max-width: 100%;
+  margin-inline: auto;
+  padding-inline: 16px;
+}
+
+.site-container--fluid {
+  max-width: 100%;
+}
+
+@media (min-width: 576px) {
+  .site-container {
+    max-width: 540px;
+    padding-inline: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .site-container {
+    max-width: 720px;
+    padding-inline: 24px;
+  }
+}
+
+@media (min-width: 992px) {
+  .site-container {
+    max-width: 960px;
+    padding-inline: 32px;
+  }
+}
+
+@media (min-width: 1080px) {
+  .site-container {
+    max-width: 1040px;
+    padding-inline: 36px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .site-container {
+    max-width: 1200px;
+    padding-inline: 40px;
+  }
+}
+
+/* Section spacing */
+.spacing-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+@media (min-width: 576px) {
+  .spacing-section {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+}
+
+@media (min-width: 768px) {
+  .spacing-section {
+    padding-top: 56px;
+    padding-bottom: 56px;
+  }
+}
+
+@media (min-width: 992px) {
+  .spacing-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+
+/* Shared heading scale */
+.section-heading {
+  font-size: 28px;
+}
+
+@media (min-width: 576px) {
+  .section-heading {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 768px) {
+  .section-heading {
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 992px) {
+  .section-heading {
+    font-size: 40px;
+  }
+}
+
+/* Hero */
+@media (max-width: 575px) {
+  .banner-heading h1 {
+    font-size: 42px;
+    line-height: 0.95;
+    min-height: auto;
+  }
+
+  .banner-sub-heading p {
+    padding-top: 24px;
+    font-size: 15px;
+    min-height: auto;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .banner-heading h1 {
+    font-size: 52px;
+    line-height: 0.98;
+    min-height: auto;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .banner-heading h1 {
+    font-size: 62px;
+    line-height: 1;
+    min-height: auto;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1079px) {
+  .banner-heading h1 {
+    font-size: 68px;
+    line-height: 1.02;
+    min-height: 90px;
+  }
+}
+
+@media (min-width: 1080px) and (max-width: 1365px) {
+  .banner-heading h1 {
+    font-size: 74px;
+    line-height: 1.05;
+    min-height: 100px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .banner-heading h1 {
+    font-size: 79px;
+    line-height: 70px;
+    min-height: 110px;
+  }
+}
+
+/* Process section */
+@media (max-width: 575px) {
+  .process-section h2 {
+    font-size: 28px;
+  }
+
+  .process-div-txt p {
+    font-size: 11px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .process-section h2 {
+    font-size: 34px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .process-section h2 {
+    font-size: 38px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1079px) {
+  .process-section h2 {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 1080px) {
+  .process-section h2 {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 991px) {
+  .process-section::before {
+    padding-bottom: 40px !important;
+    background: #000;
+  }
+
+  .process-section .col-md-3,
+  .process-section .col-md-9 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .process-section .col-md-3:empty {
+    display: none;
+  }
+
+  .process-div.two,
+  .process-div.four {
+    margin-top: 0 !important;
+  }
+
+  .process-div {
+    margin-bottom: 20px;
+  }
+
+  .process-div-no {
+    margin-right: 14px !important;
+  }
+
+  .process-div-no p {
+    text-align: left;
+  }
+
+  .process-div.one .process-div-txt::after,
+  .process-div.two .process-div-txt::after,
+  .process-div.three .process-div-txt::after,
+  .process-div.two .process-div-no p::before,
+  .process-div.three .process-div-no p::before,
+  .process-div.four .process-div-no p::before {
+    background: none;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1365px) {
+  .process-div-txt p {
+    font-size: 12px;
+  }
+}
+
+/* Buttons */
+@media (max-width: 575px) {
+  .btn-all,
+  a.btn-all.dark-btn {
+    min-height: 44px;
+    padding: 12px 18px;
+    font-size: 13px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .btn-all,
+  a.btn-all.dark-btn {
+    min-height: 48px;
+    padding: 14px 20px;
+    font-size: 15px;
+  }
+}
