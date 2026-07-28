@@ -69,7 +69,13 @@ export default function SuccessStories({
               studies.items.length >= 3 && styles.caseRowThree
             )}
           >
-            {studies.items.map((item) => (
+            {studies.items.map((item) => {
+              const description =
+                "description" in item && typeof item.description === "string"
+                  ? item.description
+                  : undefined;
+
+              return (
               <article
                 key={item.title}
                 className={cn(
@@ -83,8 +89,8 @@ export default function SuccessStories({
                     {item.title}
                   </Link>
                 </p>
-                {item.description ? (
-                  <p className={styles.caseStudyDesc}>{item.description}</p>
+                {description ? (
+                  <p className={styles.caseStudyDesc}>{description}</p>
                 ) : null}
                 <p className={styles.caseViewMore}>
                   <Link href={item.href} title="VIEW MORE">
@@ -92,7 +98,8 @@ export default function SuccessStories({
                   </Link>
                 </p>
               </article>
-            ))}
+              );
+            })}
           </div>
         </Container>
       </section>
