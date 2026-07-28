@@ -1,0 +1,136 @@
+{
+  "slug": "film-re-editing",
+  "label": "Film Re-editing",
+  "sourceUrl": "https://www.videocaddy.com/film-re-editing.php",
+  "meta": {
+    "title": "Film Re-editing Service",
+    "description": "Film Re-editing service to the company for need specific editing of Hollywood films and engage your customers well on issues that matter."
+  },
+  "hero": {
+    "title": "Film Re-Editing Services — AI-Supported Cuts Reviewed by Expert Editors",
+    "subtitle": "",
+    "image": "/assets/images/video-editing/hero/film-re-editing.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "VIDEO CADDY OFFERS",
+    "description": "VIDEO CADDY OFFERS"
+  },
+  "services": [
+    {
+      "title": "AIRLINES",
+      "items": [
+        "In-flight content compliance is a precise, high-stakes editing requirement. Video Caddy supports airlines with AI-assisted content flagging workflows that help editors identify and review objectionable content, sexual content, graphic violence, and regulatory non-compliant material more efficiently. All flagged segments are reviewed and confirmed by experienced editors before delivery, ensuring your in-flight library meets carrier and regional compliance standards consistently."
+      ],
+      "image": "/assets/images/video-editing/services/film-re-editing-0.webp"
+    },
+    {
+      "title": "MOVIE RENTAL SHOPS AND AGENCIES",
+      "items": [
+        "Adapting your video library to evolving format standards, licensing requirements, and audience preferences requires reliable editorial bandwidth. Video Caddy supports rental shops and distribution agencies with AI-assisted re-editing workflows — helping your team process higher volumes of title adaptations with reduced manual handling effort — so you can respond to market changes without expanding your in-house editing capacity."
+      ],
+      "image": "/assets/images/video-editing/services/film-re-editing-1.webp"
+    },
+    {
+      "title": "PRIVATE CLUBS",
+      "items": [
+        "Every private club has a unique video re-editorial agenda that we can help to facilitate without breaking the budget."
+      ],
+      "image": "/assets/images/video-editing/services/film-re-editing-2.webp"
+    },
+    {
+      "title": "INDIVIDUALS",
+      "items": [
+        "For independent filmmakers, content creators, and private clients with specific film or video re-editing requirements, Video Caddy provides the same structured editorial process used for enterprise engagements — AI-assisted draft processing followed by human editor review — scaled to the scope and turnaround expectations of individual projects."
+      ],
+      "image": "/assets/images/video-editing/services/film-re-editing-3.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Film Re-editing",
+    "image": "/assets/images/benefit-img3.webp",
+    "items": [
+      {
+        "title": "24/6 CUSTOMER SERVICE",
+        "description": "The Video Caddy team works round the clock six days a week to complete your project in time and answer your service requests."
+      },
+      {
+        "title": "COST SAVINGS OVER 60 PERCENT",
+        "description": "Re-editing is one of the more resource-intensive post-production activities, particularly when handled entirely in-house. By combining AI-assisted workflow support with experienced editorial delivery, Video Caddy helps organizations significantly reduce their per-project editing costs compared to managing equivalent volumes through internal teams or traditional providers."
+      },
+      {
+        "title": "SKILLED WORKFORCE",
+        "description": "Video Caddy has an experienced team to work on your project and deliver the required output so that you don’t have to spend on hiring full-time employees."
+      },
+      {
+        "title": "DEDICATED ACCOUNT MANAGER",
+        "description": "Each project is assigned a dedicated account manager who serves as your primary point of contact for task coordination, change requests, delivery tracking, and quality escalations. This single point of accountability helps maintain governance consistency across your re-editing projects and reduces the coordination overhead typically associated with multi-vendor or high-volume editorial workflows."
+      },
+      {
+        "title": "SCALABILITY",
+        "description": "Video Caddy supports film re-editing requirements across varying project volumes — from single-title edits to multi-format library adaptations. Our AI-assisted processing workflows help the delivery team handle volume fluctuations with greater consistency, reducing the need for clients to restructure their internal resources around changing project timelines."
+      },
+      {
+        "title": "AI-ASSISTED EDITORIAL TOOLS AND WORKFLOW SUPPORT",
+        "description": "Our editing team works with industry-standard platforms, including Final Cut Pro, Edius Pro, and Adobe Premiere Pro, supplemented by AI-assisted workflow tools that help reduce repetitive processing effort and support quality monitoring during editing. You benefit from access to a fully equipped editorial environment without bearing software licensing or infrastructure costs."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "OUTSOURCE YOUR FILM RE-EDITING REQUIREMENTS TO VIDEO CADDY",
+    "description": "Managing film re-editing in-house — across compliance reviews, format adaptations, and quality checks — creates consistent operational overhead that grows with your project volume. Video Caddy's AI-augmented re-editing delivery model is designed to reduce that overhead while keeping experienced human editors accountable for every deliverable. If you are evaluating outsourcing options for your re-editing requirements, speak with our delivery team to discuss your project scope and operational needs.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudiesSection": {
+    "eyebrow": "SUCCESS STORIES",
+    "title": "OUR RECENT CASE STUDIES",
+    "viewAll": { "label": "VIEW ALL", "href": "/portfolio" }
+  },
+  "caseStudies": [
+    {
+      "variant": "white",
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "variant": "middle",
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "variant": "white",
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "variant": "white",
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "variant": "middle",
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "variant": "white",
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

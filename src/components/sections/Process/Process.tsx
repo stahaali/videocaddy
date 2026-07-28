@@ -4,7 +4,7 @@ import { processSteps } from "@/data/home";
 
 export default function Process() {
   return (
-    <section className="process-section" aria-labelledby="process-title">
+    <section className="process-section spacing-section" aria-labelledby="process-title">
       <Container>
         <h2 id="process-title">HOW DOES THIS WORK?</h2>
         <div className="row">
@@ -23,6 +23,7 @@ export default function Process() {
                           title={`process${index + 1}`}
                           width={80}
                           height={100}
+                          style={{ width: "auto", height: "auto" }}
                         />
                       </div>
                       <div className="process-div-txt">
@@ -33,6 +34,7 @@ export default function Process() {
                           width={36}
                           height={36}
                           className="zoom-effect"
+                          style={{ width: "auto", height: "auto" }}
                         />
                         <p>{step.title}</p>
                       </div>

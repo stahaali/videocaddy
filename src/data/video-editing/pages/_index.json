@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "360",
+    "label": "360 Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/360-degree.php"
+  },
+  {
+    "slug": "corporate",
+    "label": "Corporate Videos",
+    "sourceUrl": "https://www.videocaddy.com/corporate.php"
+  },
+  {
+    "slug": "edius-pro",
+    "label": "Edius Pro Editing",
+    "sourceUrl": "https://www.videocaddy.com/edius-pro-editing.php"
+  },
+  {
+    "slug": "film-re-editing",
+    "label": "Film Re-editing",
+    "sourceUrl": "https://www.videocaddy.com/film-re-editing.php"
+  },
+  {
+    "slug": "final-cut-pro",
+    "label": "Final Cut Editing",
+    "sourceUrl": "https://www.videocaddy.com/final-cut-pro-editing.php"
+  },
+  {
+    "slug": "real-estate",
+    "label": "Real Estate Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/real-estate-video-editing.php"
+  },
+  {
+    "slug": "holiday",
+    "label": "Holiday Vacation Video",
+    "sourceUrl": "https://www.videocaddy.com/holiday.php"
+  },
+  {
+    "slug": "interview",
+    "label": "Interview Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/interview.php"
+  },
+  {
+    "slug": "premiere-pro",
+    "label": "Premiere Pro Editing",
+    "sourceUrl": "https://www.videocaddy.com/premiere-pro-editing.php"
+  },
+  {
+    "slug": "product",
+    "label": "Product Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/product.php"
+  },
+  {
+    "slug": "real-estate-tour",
+    "label": "Real Estate Video Tour",
+    "sourceUrl": "https://www.videocaddy.com/real-estate-video-tour.php"
+  },
+  {
+    "slug": "youtube",
+    "label": "Youtube Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/youtube-video-editing.php"
+  },
+  {
+    "slug": "sales-pitch",
+    "label": "Sale Pitch Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/sales-pitch-video-editing.php"
+  },
+  {
+    "slug": "sports",
+    "label": "Sports Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/sports-video-editing.php"
+  },
+  {
+    "slug": "testimonial",
+    "label": "Testimonial Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/testimonial-video-editing.php"
+  },
+  {
+    "slug": "brochure",
+    "label": "Video Brochure",
+    "sourceUrl": "https://www.videocaddy.com/brochure.php"
+  },
+  {
+    "slug": "clipping",
+    "label": "Video Clipping",
+    "sourceUrl": "https://www.videocaddy.com/clipping.php"
+  },
+  {
+    "slug": "commercials",
+    "label": "Commercial Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/commercials.php"
+  },
+  {
+    "slug": "stabilizing",
+    "label": "Video Stabilizing",
+    "sourceUrl": "https://www.videocaddy.com/stabilizing-services.php"
+  },
+  {
+    "slug": "summary",
+    "label": "Video Summary",
+    "sourceUrl": "https://www.videocaddy.com/video-summary.php"
+  },
+  {
+    "slug": "tagging",
+    "label": "Video Tagging",
+    "sourceUrl": "https://www.videocaddy.com/video-tagging.php"
+  },
+  {
+    "slug": "virtual-reality",
+    "label": "Virtual Reality Post-Production",
+    "sourceUrl": "https://www.videocaddy.com/virtual-reality.php"
+  },
+  {
+    "slug": "wedding",
+    "label": "Wedding Video Editing",
+    "sourceUrl": "https://www.videocaddy.com/wedding.php"
+  },
+  {
+    "slug": "adobe-after-effects",
+    "label": "Adobe After Effects Editing",
+    "sourceUrl": "https://www.videocaddy.com/adobe-after-effects.php"
+  }
+]

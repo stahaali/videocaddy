@@ -3,15 +3,17 @@
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { cn } from "@/lib/cn";
 
 gsap.registerPlugin(ScrollTrigger);
 
 interface LiquidCounterProps {
   value: string;
   label: string;
+  variant?: "dark" | "light";
 }
 
-export default function LiquidCounter({ value, label }: LiquidCounterProps) {
+export default function LiquidCounter({ value, label, variant = "dark" }: LiquidCounterProps) {
   const contentRef = useRef<HTMLDivElement>(null);
   const outlineRef = useRef<HTMLSpanElement>(null);
   const fillRef = useRef<HTMLSpanElement>(null);
@@ -64,7 +66,12 @@ export default function LiquidCounter({ value, label }: LiquidCounterProps) {
       <span ref={fillRef} className="counter-number counter-fill" aria-hidden="true">
         {value}
       </span>
-      <p className="counter-label font-heading text-[11px] font-semibold tracking-wider text-white md:text-[13px]">
+      <p
+        className={cn(
+          "counter-label font-heading text-[11px] font-semibold tracking-wider md:text-[13px]",
+          variant === "light" ? "text-black" : "text-white"
+        )}
+      >
         {label}
       </p>
       <span className="sr-only">

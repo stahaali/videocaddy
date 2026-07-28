@@ -1,0 +1,165 @@
+{
+  "slug": "index",
+  "label": "Animation Services",
+  "sourceUrl": "https://www.videocaddy.com/animation/",
+  "meta": {
+    "title": "Video Animation Services",
+    "description": "Explore video animation services designed for brands, with clear scopes, controlled workflows, and consistent delivery across campaigns and product content."
+  },
+  "hero": {
+    "title": "Video Animation Services Powered by AI-Led Workflows",
+    "subtitle": "Organized animation production for agencies, SaaS teams, and brands, combining AI-assisted workflow support with human-governed delivery to reduce production bottlenecks and maintain consistent quality.",
+    "image": "/assets/images/animation/hero/index.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Animation projects often slow down when briefs are unclear, timelines shift, or internal teams cannot support ongoing production demands. For agencies, SaaS teams, and brands, the challenge is less about ideas and more about consistent execution across campaigns, product updates, and content cycles. Managing high-volume animation requests without sufficient workflow visibility can increase revision overhead, widen delivery gaps, and reduce output consistency. At Video Caddy, our AI-augmented video animation services are built around defined scopes, production-ready outputs, and repeatable workflows.",
+    "We incorporate AI-assisted production support at key stages — including brief interpretation, storyboard structuring, and quality review preparation — while maintaining human oversight across every delivery checkpoint. We support animated video production services for use cases such as product walkthroughs, campaign creatives, and customer story videos, integrating directly into existing post-production workflows. The focus remains on operational clarity, turnaround discipline, and outputs aligned with how teams plan, review, and release content."
+  ],
+  "servicesHeader": {
+    "title": "Our Video Animation Services",
+    "description": "Our video animation services are organized for agencies, SaaS teams, and brands that need consistent execution across campaigns, product communication, and content pipelines. Each service is defined by clear inputs, controlled production steps, and delivery-ready outputs aligned to business use."
+  },
+  "services": [
+    {
+      "title": "Explainer & Product Animation Services",
+      "items": [
+        "Convert approved scripts or product briefs into AI-assisted storyboarded sequences covering feature flow, UI interactions, and user journeys.",
+        "Design visual frames, motion styles, and transitions aligned with product logic and brand guidelines.",
+        "Animate complete walkthroughs and demos used in onboarding, sales, and product showcase videos.",
+        "Provide final videos in web and app-ready formats, including multiple duration cuts where required."
+      ],
+      "image": "/assets/images/animation/services/index-0.webp"
+    },
+    {
+      "title": "Marketing & Ad Animation Services",
+      "items": [
+        "Build campaign-ready animation assets using brand kits, scripts, and media plans provided by marketing teams.",
+        "Create multiple ad variations with changes in duration, format, and messaging for different platforms.",
+        "Adapt master videos into short-form clip preparation for reels, paid ads, and social distribution.",
+        "Export platform-specific outputs optimized for channels such as YouTube, Meta, and display networks."
+      ],
+      "image": "/assets/images/animation/services/index-1.webp"
+    },
+    {
+      "title": "Corporate & Training Animation Services",
+      "items": [
+        "Structure training content, scripts, or presentation material into animation-led modules with defined screen flow, supported by AI-assisted sequencing to reduce manual content mapping effort.",
+        "Sync voiceovers, on-screen text, and visuals to match instructional sequences and learning objectives.",
+        "Produce animation outputs used in onboarding, compliance, and internal communication programs.",
+        "Provide files in formats compatible with LMS platforms and internal training systems."
+      ],
+      "image": "/assets/images/animation/services/index-2.webp"
+    },
+    {
+      "title": "Character & Narrative Animation Services",
+      "items": [
+        "Develop scene-by-scene animation based on scripts, including character movements, expressions, and timing references.",
+        "Create visual continuity across scenes with defined layouts, transitions, and environment elements.",
+        "Animate dialogue-driven or story-based sequences used in branded and media content.",
+        "Provide fully rendered animation sequences with layered files where ongoing edits or extensions are required."
+      ],
+      "image": "/assets/images/animation/services/index-3.webp"
+    },
+    {
+      "title": "Post-Production & Animation Support Services",
+      "items": [
+        "Integrate animation layers, motion graphics, and overlays into existing video edits within defined post-production workflows, with AI-assisted timeline alignment support.",
+        "Support projects involving multicam editing workflows , aligning animation elements with edited footage, and timelines.",
+        "Sync animation with voiceovers, sound design, and final cut requirements before delivery.",
+        "Provide final outputs in required formats, including broadcast, digital, and platform-specific exports."
+      ],
+      "image": "/assets/images/animation/services/index-4.webp"
+    },
+    {
+      "title": "Startup & Scalable Animation Production Services",
+      "items": [
+        "Operate as an external animation services company supporting ongoing content needs across campaigns and product releases, with AI-assisted production support.",
+        "Provide flexible engagement models for teams looking to hire animation studio support without building internal capacity.",
+        "Provide video and animation services across batches of videos with defined turnaround cycles and revision structures.",
+        "Execute animation needs for teams through organized animation outsourcing services with defined scopes."
+      ],
+      "image": "/assets/images/animation/services/index-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Animation Services",
+    "image": "/assets/images/animation/why/index.webp",
+    "items": [
+      {
+        "title": "Defined Production Scope with AI-Assisted Brief Review",
+        "description": "Every project begins with a clear scope covering inputs, animation style, output formats, and delivery expectations. AI-assisted brief analysis supports the scoping stage to help identify gaps or inconsistencies before production begins, reducing ambiguity and minimizing downstream revision effort."
+      },
+      {
+        "title": "Integrated Post-Production Workflows",
+        "description": "Animation is aligned with existing post-production workflows, supporting smooth integration with edited footage, voiceovers, and final delivery pipelines."
+      },
+      {
+        "title": "Organized Review and Revision Cycles with Human Oversight",
+        "description": "Feedback is managed through planned review stages with version control, supported by AI-assisted change tracking to help consolidate inputs and flag version inconsistencies. Human review leads are responsible for all approval decisions, keeping revisions within agreed cycles and maintaining delivery governance."
+      },
+      {
+        "title": "Multi-Format Delivery for Campaign Use",
+        "description": "Outputs are prepared for multiple use cases, including long-form videos, short-form clip preparation, and platform-specific formats for marketing distribution."
+      },
+      {
+        "title": "Support for Real Business Use Cases",
+        "description": "Animation is built for practical applications such as customer story videos , product demos, and internal communication, not standalone creative concepts."
+      },
+      {
+        "title": "Execution Aligned with Complex Editing Setups",
+        "description": "Projects involving layered edits are handled within defined multicam editing workflows, supporting animation elements sync accurately with timelines and footage."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Discuss Your Animation Requirements with Our Delivery Team",
+    "description": "Our AI-augmented video animation services are provided within defined scopes, human-governed review cycles, and organized production workflows, supporting alignment with your internal teams and timelines. As an animation services company, we support agencies, SaaS teams, and brands with custom animation video services and controlled animation outsourcing services designed for consistent, reviewable output. Contact us to scope your requirements, define delivery expectations, and initiate a workflow that fits your production environment.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Norwegian Company Outsources Explainer Video Animation to Video Caddy to Project Global Sales Volumes to Its Clients",
+      "href": "/portfolio"
+    },
+    {
+      "title": "US Car Dealer Outsourced Animated Walk-Through Video to VCD and Received Artistic and Accurate Visualization",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can Video Caddy handle large-scale animated video production projects?",
+      "answer": "Yes, large-scale projects are managed through organized workflows, batch production, and defined review checkpoints. AI-assisted workflow support is applied at the batch coordination and quality monitoring stages to help reduce manual handling effort, with human oversight maintained across all delivery and approval milestones."
+    },
+    {
+      "question": "What inputs are required to start a video animation project?",
+      "answer": "We typically begin with approved scripts, brand guidelines, and reference materials. If available, voiceovers and assets are reviewed before defining the scope and moving into production."
+    },
+    {
+      "question": "What file formats and outputs will be provided?",
+      "answer": "We provide final animation outputs in required formats such as MP4 or MOV, including platform-specific versions and multiple cuts aligned to campaign and distribution needs."
+    },
+    {
+      "question": "How are revisions managed during animation production?",
+      "answer": "Revisions are managed through defined review stages with version control. AI-assisted tracking tools support feedback consolidation at each stage to help reduce input fragmentation and maintain timeline discipline. All revision decisions are reviewed and confirmed by human project leads before progressing to the next production stage."
+    },
+    {
+      "question": "Can animation be integrated into existing video projects?",
+      "answer": "We integrate animation elements into ongoing edits within organized post-production workflows, supporting alignment with footage, timelines, and final delivery requirements."
+    }
+  ]
+}

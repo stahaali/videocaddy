@@ -1,0 +1,122 @@
+{
+  "slug": "photomatic",
+  "label": "Photomatic Storyboard",
+  "sourceUrl": "https://www.videocaddy.com/storyboard/photomatic-storyboard.php",
+  "meta": {
+    "title": "Photomatic Storyboard Services",
+    "description": "Leverage Video Caddy"
+  },
+  "hero": {
+    "title": "PHOTOMATIC STORYBOARD SERVICES",
+    "subtitle": "Video Caddy offers professional photomatic storyboard services that transform still images into powerful, narrative-driven storyboards perfect for various industries. From presentations to product demonstrations, our off-shore service model provides a convenient, affordable, and high-impact solution for all your storyboard needs.",
+    "image": "/assets/images/storyboard/hero/photomatic.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Video Caddy offers professional photomatic storyboard services that transform still images into powerful, narrative-driven storyboards perfect for various industries. From presentations to product demonstrations, our off-shore service model provides a convenient, affordable, and high-impact solution for all your storyboard needs."
+  ],
+  "servicesHeader": {
+    "title": "STORYBOARD SERVICES TO VIDEO CADDY",
+    "description": "Businesses can build their creative, educational, and marketing content around a foundation of organized, sequenced visualizations that jump-start the next stage of the creative journey. Critical advantages of outsourcing photomatic storyboard services to Video Caddy include the following:"
+  },
+  "services": [
+    {
+      "title": "DIGITAL PHOTOMATIC STORYBOARDS",
+      "items": [
+        "VCD uses digital photography and photo composite animations to build elaborate or basic scenes sequentially, meticulously edited, and presented with voiceovers, music, and soundtrack."
+      ],
+      "image": "/assets/images/storyboard/services/photomatic-0.webp"
+    },
+    {
+      "title": "CONCEPT ART",
+      "items": [
+        "VCD's artists can develop initial concept art, sketches, and drafts to help clients explore alternative means of demonstrating the same idea or as a precursor to ongoing photomatic storyboard and project development."
+      ],
+      "image": "/assets/images/storyboard/services/photomatic-1.webp"
+    },
+    {
+      "title": "BASIC PHOTOMATIC STORYBOARD",
+      "items": [
+        "VCD offers basic scene content structuring with minimalistic panels, including edited still photos, digital images, text descriptions, hand-drawn sketches, duration, audio, and lighting information."
+      ],
+      "image": "/assets/images/storyboard/services/photomatic-2.webp"
+    },
+    {
+      "title": "DETAILED PHOTOMATIC STORYBOARD",
+      "items": [
+        "VCD creates complete panels that include scene duration and transitions, camera information, dialogue, voiceover, action sequences, music, sound effects, manipulated still photography, and imagery."
+      ],
+      "image": "/assets/images/storyboard/services/photomatic-3.webp"
+    },
+    {
+      "title": "PHOTOMATIC SHOT-SPECS STORYBOARD",
+      "items": [
+        "VCD works with clients to visually indicate shot specs, including lens length, shot size, two-shot, and other relevant details. In turn, supporting technical production for animators, filmmakers, and studios."
+      ],
+      "image": "/assets/images/storyboard/services/photomatic-4.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Photomatic Storyboard",
+    "image": "/assets/images/storyboard/why/photomatic.webp",
+    "items": [
+      {
+        "title": "INFORM TEAMS AND DEPARTMENTS",
+        "description": "Establish guidelines for various teams to coordinate better, improve productivity, and boost knowledge in high-priority scenarios, such as production sets, advertising agencies, theater environments, and gaming studios."
+      },
+      {
+        "title": "TECHNICAL AND CREATIVE REQUIREMENTS",
+        "description": "Document creative and technical production requirements to pitch ideas, concepts, and plans in multimedia presentations to gain stakeholder and C-Suite support for projects and help control production expenditures."
+      },
+      {
+        "title": "CONVEY GAME MISSION OBJECTIVES",
+        "description": "Gaming studios can build linear and abstract mission objectives for various genres, including RPG, MMORPG, RTS, FPS, MOBA, and more, to present game proposals to clients or streamline the game development process."
+      },
+      {
+        "title": "SUPPORT ADVERTISING PROCESSES",
+        "description": "Align creative processes and establish a clear direction for marketing and advertising campaigns that require various content formats, including live-action, animation, and 2D and 3D images."
+      },
+      {
+        "title": "LINEAR AND ABSTRACT PRODUCTS",
+        "description": "use storyboards for linear and abstract products, including video advertisements, films, comic strips, stop-motion animation, information displays, digital games, and smartphone apps, respectively."
+      },
+      {
+        "title": "AID INTERACTIVE MEDIA DEVELOPERS",
+        "description": "Interactive media developers can quickly identify fonts, assets, color schemes, images, characters, sequences, and narrative flow to create master templates or pages for interactive products."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "CUTTING-EDGE OFFSHORE PHOTOMATIC STORYBOARD SERVICES IN INDIA",
+    "description": "Transform your visuals into compelling narratives with Video Caddy's Photomatic Storyboard Services. Discover the power of visual storytelling that's both affordable and impactful. Contact us today to elevate your presentations with Video Caddy!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Visualization and Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

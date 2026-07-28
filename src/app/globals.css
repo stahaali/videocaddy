@@ -26,6 +26,16 @@
   font-display: swap;
 }
 
+/* Reference site uses font-weight 600 on titles; map to Medium so browsers
+   don't fall back to the Bold (700) face and over-bold body-adjacent text. */
+@font-face {
+  font-family: "azo sans";
+  src: url("/fonts/AzoSansMedium.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
 @font-face {
   font-family: "azo sans";
   src: url("/fonts/AzoSansBold.woff") format("woff");
@@ -63,6 +73,7 @@
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
+  --breakpoint-nav: 1024px;
   --breakpoint-xl: 1080px;
   --breakpoint-2xl: 1366px;
   --breakpoint-3xl: 1200px;
@@ -87,6 +98,7 @@
 
   p {
     font-family: var(--font-section);
+    font-weight: 400;
   }
 
   img {
@@ -186,8 +198,20 @@
     padding-top: 50px;
   }
   .counter-section {
-    padding-top: 0;
-    padding-bottom: 0;
+    padding: 60px 0;
+  }
+
+  .counter-section--light .counter-content::before,
+  .counter-section--light .counter-content::after {
+    border-color: #3a3a3a;
+  }
+
+  .counter-section--light .counter-grid--boxed {
+    gap: 16px;
+  }
+
+  .counter-section--light .counter-content {
+    background: #000;
   }
 
   .counter-content {
@@ -401,10 +425,17 @@
   .process-section {
     position: relative;
     border-top: none;
-    padding-top: 0;
+    padding-top: 60px;
     padding-bottom: 60px;
     background: var(--color-bg-dark);
     --process-gold-filter: sepia(1) saturate(3.2) hue-rotate(358deg) brightness(1.05);
+    overflow-x: hidden;
+    overflow-y: visible;
+  }
+
+  .process-section.spacing-section {
+    padding-top: 60px;
+    padding-bottom: 60px;
   }
 
   .process-section::before {
@@ -415,8 +446,9 @@
     z-index: 0;
     width: 100%;
     height: 100%;
-    background: url("/assets/images/work-process-v.webp") no-repeat;
-    filter: var(--process-gold-filter) brightness(0.75) opacity(0.9);
+    background: url("/assets/images/work-process-v.webp") no-repeat left top;
+    filter: brightness(1.35) contrast(1.15) sepia(0.45) saturate(2.2) hue-rotate(5deg);
+    pointer-events: none;
   }
 
   .process-section h2 {
@@ -466,6 +498,12 @@
 
   .process-div.four {
     margin-top: 50px;
+  }
+
+  @media (min-width: 992px) {
+    .process-section .col-md-9 > .row {
+      padding-bottom: 60px;
+    }
   }
 
   .process-div-no {
@@ -666,6 +704,7 @@ a.btn-all.dark-btn {
 
 .btn-all:hover {
   background: var(--color-primary-dark);
+  color: #fff;
 }
 
 a.btn-all.dark-btn {
@@ -725,7 +764,7 @@ a.btn-all.dark-btn:hover {
 
 @media (max-width: 1920px) {
   .header-main-nav .header-nav-link {
-    font-size: clamp(10px, 0.58vw, 12px);
+    font-size: 16px;
     white-space: nowrap;
     letter-spacing: 0.035em;
     padding-inline: 10px;

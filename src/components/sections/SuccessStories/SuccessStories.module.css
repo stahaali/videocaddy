@@ -1,7 +1,240 @@
 .section {
   background: #000;
-  padding-top: 0;
-  padding-bottom: 60px;
+  padding: 60px 0;
+}
+
+/* —— Audio editing case studies layout —— */
+.caseSection {
+  background: #fff;
+  color: #000;
+}
+
+.caseHeader {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.caseHeaderLeft {
+  flex: 1 1 280px;
+}
+
+.caseHeaderRight {
+  flex-shrink: 0;
+  text-align: right;
+  padding-top: 8px;
+}
+
+.caseEyebrow {
+  display: inline;
+  padding: 9px 22px;
+  background: #000;
+  font-family: var(--font-section);
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.caseTitle {
+  margin: 14px 0 0;
+  font-family: var(--font-section);
+  font-size: clamp(28px, 3.5vw, 45px);
+  font-weight: 600;
+  line-height: 1.2;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.caseViewAll {
+  color: #fff !important;
+}
+
+.caseRow {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  margin-top: 30px;
+  padding: 30px;
+  background: #000;
+}
+
+.caseBox {
+  position: relative;
+  z-index: 1;
+  padding: 35px;
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+}
+
+.caseBoxWhite {
+  background: #fff;
+}
+
+.caseBoxWhite a {
+  color: #000;
+}
+
+.caseBoxWhite a:hover {
+  color: var(--color-primary);
+}
+
+.caseBoxMiddle {
+  color: #fff;
+  background: transparent;
+}
+
+.caseBoxMiddle a {
+  color: #fff;
+}
+
+.caseBoxMiddle a:hover {
+  color: var(--color-primary);
+}
+
+.caseViewMore a:hover {
+  opacity: 0.85;
+}
+
+.caseLabel {
+  position: relative;
+  margin: 0;
+  padding-right: 120px;
+  font-family: var(--font-section);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.caseLabel::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 0;
+  width: 99px;
+  height: 1px;
+  background: #abaaaa;
+  transform: translateY(-50%);
+}
+
+.caseBoxMiddle .caseLabel::after {
+  background: #525252;
+}
+
+.caseStudyTitle {
+  margin: 0;
+  padding-top: 40px;
+  padding-bottom: 18px;
+  font-family: var(--font-section);
+  font-size: clamp(18px, 2vw, 23px);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.caseBox:not(:has(.caseStudyDesc)) .caseStudyTitle {
+  padding-top: 100px;
+  padding-bottom: 45px;
+  flex: 1;
+  font-size: clamp(20px, 2.2vw, 26px);
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.caseStudyTitle a {
+  text-decoration: none;
+}
+
+.caseStudyDesc {
+  margin: 0 0 28px;
+  font-family: var(--font-section);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  flex: 1;
+  opacity: 0.92;
+  letter-spacing: normal;
+}
+
+.caseViewMore {
+  margin: 0;
+  margin-top: auto;
+}
+
+.caseViewMore a {
+  font-family: var(--font-section);
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.caseArrow {
+  font-size: 16px;
+  line-height: 1;
+}
+
+@media (min-width: 768px) {
+  .caseRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .caseBox:not(:has(.caseStudyDesc)) .caseStudyTitle {
+    padding-top: 100px;
+    padding-bottom: 45px;
+    font-size: 26px;
+    line-height: 32px;
+  }
+}
+
+@media (min-width: 992px) {
+  .caseRowThree {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .caseBox {
+    min-height: 300px;
+  }
+}
+
+@media (max-width: 767px) {
+  .caseRow {
+    padding: 20px 16px;
+  }
+
+  .caseBox {
+    min-height: 260px;
+    padding: 28px 24px;
+  }
+
+  .caseBox:not(:has(.caseStudyDesc)) .caseStudyTitle {
+    padding-top: 56px;
+    padding-bottom: 28px;
+  }
+
+  .caseStudyDesc {
+    margin-bottom: 20px;
+  }
+
+  .caseLabel {
+    padding-right: 80px;
+  }
+
+  .caseLabel::after {
+    width: 70px;
+  }
+
+  .caseHeaderRight {
+    width: 100%;
+    text-align: left;
+  }
 }
 
 .header {

@@ -1,0 +1,131 @@
+{
+  "slug": "index",
+  "label": "Storyboard Services",
+  "sourceUrl": "https://www.videocaddy.com/storyboard/",
+  "meta": {
+    "title": "Professional Storyboard Services for Video & Film",
+    "description": "Professional Storyboard Services for ads, films & eLearning. Expert artists create detailed visuals that streamline production and align your team from day one."
+  },
+  "hero": {
+    "title": "PROFESSIONAL STORYBOARD SERVICES",
+    "subtitle": "Video Caddy’s Storyboard services have been designed to help directors and cinematographers visualize scenes before shooting, enabling them to spot potential issues and strengthen the vision of the screenplay.",
+    "image": "/assets/images/storyboard/hero/index.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Video Caddy’s Storyboard services have been designed to help directors and cinematographers visualize scenes before shooting, enabling them to spot potential issues and strengthen the vision of the screenplay."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "ILLUSTRATION STORYBOARD",
+      "items": [
+        "Our storyboard aids cartoonists and illustrators in organizing narratives, supporting visual consistency across all project illustrations."
+      ]
+    },
+    {
+      "title": "CHARACTER CREATION SERVICES",
+      "items": [
+        "Our team researches and designs characters, providing sketches and notes to bring unique personalities to life for clients."
+      ]
+    },
+    {
+      "title": "ANIMATIC STORYBOARD",
+      "items": [
+        "Animatic storyboards bring your script to life by combining timed panels with sound, helping visualize scenes and refine pacing before production."
+      ]
+    },
+    {
+      "title": "TRADITIONAL STORYBOARD",
+      "items": [
+        "Our experienced professionals turn unclear scripts into visual outlines, guiding production with coherent storyboards with right elements."
+      ]
+    },
+    {
+      "title": "CONCEPTUAL STORYBOARD",
+      "items": [
+        "Finished illustrations, in color or black and white, ideal for commercial pitches, conveying creative vision effectively."
+      ]
+    },
+    {
+      "title": "THUMBNAIL STORYBOARD",
+      "items": [
+        "Quick, minimal sketches for pitches, saving costs while capturing story essence for clients seeking affordable options."
+      ]
+    },
+    {
+      "title": "ELEARNING STORYBOARD",
+      "items": [
+        "We combine visuals and content to create engaging eLearning storyboards for diverse training and educational needs."
+      ]
+    },
+    {
+      "title": "PHOTOMATIC STORYBOARD",
+      "items": [
+        "We provide photomatic boards using real images to offer a lifelike preview for industries like education and advertising."
+      ]
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "",
+    "items": []
+  },
+  "process": [],
+  "midCta": {
+    "title": "COST EFFECTIVE STORYBOARD SERVICES",
+    "description": "Video Caddy offers top-tier storyboard services to help bring your script to life. Previsualize your next project with affordable storyboard services. Reach us to get a free personalized quote today!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Visualization and Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What level of detail do your storyboards offer?",
+      "answer": "We provide a range of detail, from basic thumbnail sketches to highly detailed storyboards with camera angles and character acting."
+    },
+    {
+      "question": "Can you create storyboards with different panel layouts?",
+      "answer": "Yes! Our artists can create layouts customized to your project's needs, such as cinematic widescreens or traditional multi-panel layouts."
+    },
+    {
+      "question": "Can you incorporate scene descriptions or dialogue into storyboards?",
+      "answer": "Yes, we can integrate text elements like scene descriptions or dialogue snippets within the storyboard panels for better context."
+    },
+    {
+      "question": "Do you offer any pre-production consultations before storyboarding?",
+      "answer": "Absolutely! We encourage consultations to understand your project vision and support the storyboard aligns with your creative goals."
+    },
+    {
+      "question": "Can you create storyboards for animation projects?",
+      "answer": "Yes! We have experience crafting animatics (storyboards timed with audio) for a smooth transition to animation."
+    },
+    {
+      "question": "Who owns the copyright of the final storyboard?",
+      "answer": "Copyright ownership is flexible! We can discuss options based on your project needs. Typically, clients own the copyright upon final payment."
+    }
+  ]
+}

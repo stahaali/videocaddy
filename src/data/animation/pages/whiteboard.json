@@ -1,0 +1,181 @@
+{
+  "slug": "whiteboard",
+  "label": "Whiteboard Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/white-board.php",
+  "meta": {
+    "title": "Whiteboard Animation Services",
+    "description": "Discover whiteboard animation services built for B2B teams, with organized workflows, clear execution, and production-ready visual communication outputs."
+  },
+  "hero": {
+    "title": "WHITEBOARD ANIMATION VIDEO",
+    "subtitle": "Whiteboard animation services for enterprise L&D teams and edtech platforms, designed to simplify training content, improve learner retention, and support large-scale knowledge delivery.",
+    "image": "/assets/images/animation/hero/whiteboard.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Training content often loses impact at the point of delivery. Complex modules, SOPs, and instructional workflows can become difficult to follow, reducing retention and creating inconsistencies across teams. For enterprise L&D functions responsible for onboarding, compliance, and continuous learning, this creates a gap between what is explained and what is actually retained.",
+    "At Video Caddy, our whiteboard animation services are organized to close that gap through organized visual learning assets built for clarity, consistency, and scale. We work with L&D teams and edtech platforms to convert approved training content into governed visual narratives that align with learning objectives, LMS workflows, and enterprise review standards. As an explainer video production company, our focus stays on execution quality, governed workflows, and outputs that align with real training and communication objectives."
+  ],
+  "servicesHeader": {
+    "title": "Our Whiteboard Animation Services",
+    "description": "Our whiteboard animation services are organized for enterprise L&D and training enablement teams that need controlled execution, governed review workflows, and consistent learning outputs at scale. We help organizations convert approved instructional content into production-ready visual assets aligned to onboarding, compliance, product training, and knowledge transfer initiatives."
+  },
+  "services": [
+    {
+      "title": "WHITEBOARD ANIMATION FOR CORPORATE TRAINING AND ELEARNING",
+      "items": [
+        "Convert training documents, scripts, and SME inputs into scene-by-scene whiteboard animation sequences with defined narration mapping.",
+        "Structure lesson flow into visual segments aligned to learning objectives, screen transitions, and assessment points.",
+        "Apply standardized layouts and visual rules to support consistency across modules used in e-learning explainer video services.",
+        "Provide finalized explainer videos formatted for LMS integration, internal training platforms, and controlled distribution."
+      ],
+      "image": "/assets/images/animation/services/whiteboard-0.webp"
+    },
+    {
+      "title": "PRODUCT TRAINING AND USER ONBOARDING ANIMATION",
+      "items": [
+        "Break down product features, workflows, and user journeys into organized visual sequences with clear step progression.",
+        "Translate product documentation and onboarding flows into whiteboard animation aligned to user understanding.",
+        "Develop scene-level scripts, visual cues, and transitions used across explainer video production services.",
+        "Extend outputs to supporting formats such as product and 2D animation where required."
+      ],
+      "image": "/assets/images/animation/services/whiteboard-1.webp"
+    },
+    {
+      "title": "SOP AND PROCESS TRAINING ANIMATION",
+      "items": [
+        "Convert SOPs, workflow documents, and operational guidelines into linear whiteboard learning sequences with defined scene logic.",
+        "Map process steps, dependencies, and decision points into visual training assets for internal communication.",
+        "Standardize visual formats across teams handling process-heavy environments.",
+        "Align outputs with broader animation services used for internal training and operational clarity."
+      ],
+      "image": "/assets/images/animation/services/whiteboard-2.webp"
+    },
+    {
+      "title": "HEALTHCARE AND COMPLIANCE-FOCUSED ANIMATION",
+      "items": [
+        "Translate healthcare policies, compliance documents, and regulated process frameworks into organized whiteboard animation sequences.",
+        "Define scene breakdowns aligned to accuracy requirements, terminology standards, and SME validation.",
+        "Incorporate review checkpoints to support content integrity before final production.",
+        "Extend visual outputs to related formats, such as medical animations , when required for detailed representation."
+      ],
+      "image": "/assets/images/animation/services/whiteboard-3.webp"
+    },
+    {
+      "title": "FINANCIAL AND FINTECH EXPLAINER ANIMATION",
+      "items": [
+        "Convert financial products, transaction flows, and compliance processes into step-by-step visual sequences.",
+        "Structure content for onboarding, customer education, and internal training aligned to fintech use cases.",
+        "Map regulatory-sensitive information into controlled visual narratives with defined transitions.",
+        "Integrate with extended formats, including 3D animation , where process visualization requires added depth."
+      ],
+      "image": "/assets/images/animation/services/whiteboard-4.webp"
+    },
+    {
+      "title": "INSTRUCTIONAL AND KNOWLEDGE TRANSFER ANIMATION",
+      "items": [
+        "Convert complex knowledge frameworks and internal documentation into organized instructional animation sequences.",
+        "Define scene flow, narration mapping, and visual cues for large-scale knowledge transfer initiatives.",
+        "Standardize outputs across multi-module delivery environments with consistent visual logic.",
+        "Align animation modules with LMS deployment standards, internal knowledge repositories, and enterprise-wide learning rollouts."
+      ],
+      "image": "/assets/images/animation/services/whiteboard-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Whiteboard Animation",
+    "image": "/assets/images/animation/why/whiteboard.webp",
+    "items": [
+      {
+        "title": "Defined Content Intake and Scope Alignment",
+        "description": "Organized intake of scripts, documents, and product inputs supports alignment before production, reducing mid-project changes and maintaining consistency across explainer videos and related deliverables."
+      },
+      {
+        "title": "Scene-Level Planning Before Animation Begins",
+        "description": "Approved content is broken into scene-level sequences with narration mapping and transitions, supporting clarity and consistency across whiteboard animation and extended 2D animation formats."
+      },
+      {
+        "title": "Standardized Production Workflows Across Projects",
+        "description": "A fixed workflow covering sequencing, animation, and reviews supports predictable delivery and easy integration with broader animation services, including product animation requirements."
+      },
+      {
+        "title": "Version-Controlled Review and Feedback Cycles",
+        "description": "All revisions are tracked with version control, supporting feedback is implemented accurately across teams without overlap, especially for projects extending into 3D animation formats."
+      },
+      {
+        "title": "SME Validation for Accuracy and Consistency",
+        "description": "Defined SME checkpoints support content accuracy and alignment, particularly for domain-specific projects, including healthcare use cases that may require extension into medical animation."
+      },
+      {
+        "title": "Production-Ready Outputs with Defined Delivery Standards",
+        "description": "Final outputs are provided in formats aligned to LMS, marketing, or internal systems, supporting compatibility with wider explainer video production services without rework."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Turn Complex Content into organized Visual Communication with Our Whiteboard Animation Services",
+    "description": "We work within your existing training, product, and operational workflows to provide whiteboard animation services that support organized communication and controlled execution. Whether you are planning enterprise onboarding, compliance learning, or large-scale knowledge transfer, our explainer video production company aligns with your review workflows and LMS deployment standards. Contact us to scope your whiteboard animation requirements and define rollout-ready learning assets for enterprise use.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What inputs do you require to start a whiteboard animation project?",
+      "answer": "We require finalized scripts, training documents, or product inputs, along with brand guidelines and references. These inputs help structure whiteboard animation for corporate training or product communication."
+    },
+    {
+      "question": "How does your process differ from a typical explainer video production company?",
+      "answer": "Our approach focuses on organized workflows, defined review checkpoints, and controlled execution, unlike generic explainer video production services that prioritize creativity over consistency and delivery governance."
+    },
+    {
+      "question": "Can you handle industry-specific content like SaaS, healthcare, or fintech?",
+      "answer": "Yes, we work with domain-specific inputs across SaaS, healthcare, and fintech, aligning outputs with use cases such as healthcare explainer video production and fintech explainer video company requirements."
+    },
+    {
+      "question": "Do you support large-scale or multi-module projects for enterprises?",
+      "answer": "We standardize workflows, visual formats, and review cycles to support large-scale delivery, including e-learning explainer video services and instructional animation video services across multiple modules."
+    },
+    {
+      "question": "Can whiteboard animation be combined with other animation formats?",
+      "answer": "Yes, whiteboard animation can extend into formats like product or 2D animation when required, based on content complexity and communication needs within enterprise learning systems."
+    }
+  ]
+}

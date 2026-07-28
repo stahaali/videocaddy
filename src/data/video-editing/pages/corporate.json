@@ -1,0 +1,166 @@
+{
+  "slug": "corporate",
+  "label": "Corporate Videos",
+  "sourceUrl": "https://www.videocaddy.com/corporate.php",
+  "meta": {
+    "title": "Corporate Video Editing Services",
+    "description": "Corporate video editing services for agencies and enterprises. Scale video production with structured workflows, secure file handling, and reliable delivery."
+  },
+  "hero": {
+    "title": "AI-Augmented Corporate Video Editing Services",
+    "subtitle": "Delivering structured, brand-aligned corporate video editing with AI-assisted workflow support and human editorial oversight, we ensure the final outputs reflect the credibility your business demands.",
+    "image": "/assets/images/video-editing/hero/corporate.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "Our Corporate Video Editing Services",
+    "description": "Our corporate video editing services are structured for agencies, enterprise marketing teams, HR and L&D departments, production houses, and professional services firms that require controlled execution. Each service is supported by an AI-assisted editorial workflow that identifies pacing inconsistencies, audio quality issues, and visual alignment gaps. Human editors review and resolve every flagged item before delivery."
+  },
+  "services": [
+    {
+      "title": "Corporate Explainer and Brand Storytelling Video Editing",
+      "items": [
+        "Edit corporate explainer videos using approved scripts, voiceovers, and provided footage.",
+        "Assemble brand storytelling videos using supplied visual assets and motion guidelines.",
+        "Apply brand typography, color systems, logo placement, and graphic standards.",
+        "Deliver final master files and required export formats for digital and internal distribution."
+      ],
+      "image": "/assets/images/video-editing/services/corporate-0.webp"
+    },
+    {
+      "title": "Internal Communication and Executive Interview Video Editing",
+      "items": [
+        "Edit internal communication videos for leadership updates and enterprise announcements.",
+        "Trim and structure executive interview video footage for continuity and clarity.",
+        "Apply branded lower thirds, identifiers, and compliance text as specified.",
+        "Normalize audio, correct color balance, and deliver review and final versions."
+      ],
+      "image": "/assets/images/video-editing/services/corporate-1.webp"
+    },
+    {
+      "title": "Webinar and Knowledge Session Video Editing",
+      "items": [
+        "Perform webinar video editing on recorded multi-speaker sessions.",
+        "Synchronize presentation slides with speaker footage.",
+        "Remove pauses, redundancies, and technical interruptions.",
+        "Deliver full-length and segmented exports formatted for portals or campaigns."
+      ],
+      "image": "/assets/images/video-editing/services/corporate-2.webp"
+    },
+    {
+      "title": "Sales Pitch and Business Presentation Video Editing",
+      "items": [
+        "Convert recorded presentations into structured sales pitch videos.",
+        "Add slide overlays, data highlights, and branded graphic elements.",
+        "Align pacing with narration and presentation timing.",
+        "Deliver formatted files suitable for CRM distribution and gated sharing."
+      ],
+      "image": "/assets/images/video-editing/services/corporate-3.webp"
+    },
+    {
+      "title": "Testimonial and Case-Based Video Editing",
+      "items": [
+        "Edit client footage into structured testimonial video formats.",
+        "Refine narrative flow and remove off-topic segments.",
+        "Apply brand-compliant titles, statistics overlays, and supporting visuals.",
+        "Deliver long-form and short-form versions as defined in scope."
+      ],
+      "image": "/assets/images/video-editing/services/corporate-4.webp"
+    },
+    {
+      "title": "Production Overflow and Post-Production Support",
+      "items": [
+        "Edit raw footage supplied by corporate video production services teams.",
+        "Follow predefined timelines, review cycles, and revision limits.",
+        "Maintain documented version control across projects.",
+        "Deliver project files and final outputs as defined in the engagement agreement."
+      ],
+      "image": "/assets/images/video-editing/services/corporate-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Corporate Video Editing Services",
+    "image": "/assets/images/video-editing2.webp",
+    "items": [
+      {
+        "title": "Defined Review Hierarchies",
+        "description": "Edits move through pre-agreed approval stages across marketing, leadership, or compliance stakeholders without informal revision loops."
+      },
+      {
+        "title": "Documented Version Control",
+        "description": "Every corporate video editing service engagement includes tracked edit histories and clearly labeled versions across review rounds."
+      },
+      {
+        "title": "Brand Governance Enforcement",
+        "description": "Typography, visual systems, motion usage, and messaging alignment are applied consistently across each explainer video and interview video."
+      },
+      {
+        "title": "Structured Webinar Video Editing Workflow",
+        "description": "Webinar video editing follows fixed sequencing, slide synchronization, and content trimming protocols defined at project intake."
+      },
+      {
+        "title": "Messaging-Aligned, Controlled Video Formatting",
+        "description": "For videos like sales pitches and testimonials, edits are structured to follow approved messaging frameworks and regulated disclosure requirements."
+      },
+      {
+        "title": "Secure File Handling and Access Management",
+        "description": "Projects are managed through restricted-access systems suitable for teams that outsource corporate video editing services."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Strengthen Delivery Control with Our Corporate Video Editing Services",
+    "description": "Our corporate video editing services are structured for agencies, enterprise teams, and corporate video production services environments that require defined intake, documented review cycles, and controlled version management. As a corporate video editing company supporting business video editing services and secure post-production workflows, we deliver approval-ready outputs aligned with brand governance and internal communication standards.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Video Caddy Helped an American Corporate Company with High-Quality Industry Event Videos",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which factors influence the cost of corporate video editing?",
+      "answer": "Expenses are affected by the duration of footage, the number of revisions, the intricacy of motion graphics, turnaround durations, and required export formats."
+    },
+    {
+      "question": "What are the costs for corporate video editing services?",
+      "answer": "Corporate video editing services are typically defined on a per-project basis or monthly, based on designated deliverables and restrictions on revisions."
+    },
+    {
+      "question": "What is the duration for a professional video editor to complete and deliver a finalized corporate video?",
+      "answer": "The time taken to complete a project varies based on its size, but the majority of corporate video editing service projects adhere to deadlines established during the initial discussion."
+    },
+    {
+      "question": "Is it more cost-effective to outsource corporate video editing instead of hiring in-house editors?",
+      "answer": "Teams delegate corporate video editing to eliminate fixed salaries, software expenses, infrastructure costs, and long-term overhead obligations."
+    },
+    {
+      "question": "What deliverables are included with outsourced corporate video editing?",
+      "answer": "Deliverables include edited master files, platform-ready exports, branded graphics integration, audio correction, and documented version control files."
+    }
+  ]
+}

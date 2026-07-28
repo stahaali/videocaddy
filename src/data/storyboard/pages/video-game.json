@@ -1,0 +1,104 @@
+{
+  "slug": "video-game",
+  "label": "Video Game Storyboard",
+  "sourceUrl": "https://www.videocaddy.com/storyboard/video-game.php",
+  "meta": {
+    "title": "Video Caddy Offers Top-of-the-Range Video Game Storyboard Services",
+    "description": "Trust Video Caddy with your next video game storyboarding project and support that your final game is a real success."
+  },
+  "hero": {
+    "title": "VIDEO GAME STORYBOARD SERVICES",
+    "subtitle": "Preparation is key in any project, and at Video Caddy (VCD), our skilled video game storyboard artists have the expertise to help you prepare for creating amazing video games. Having successfully provided video game storyboard services to an array of successful online game developers, our illustrators are able to accurately capture the main elements and themes of your idea and project them perfectly in storyboard form.",
+    "image": "/assets/images/storyboard/hero/video-game.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Preparation is key in any project, and at Video Caddy (VCD), our skilled video game storyboard artists have the expertise to help you prepare for creating amazing video games. Having successfully provided video game storyboard services to an array of successful online game developers, our illustrators are able to accurately capture the main elements and themes of your idea and project them perfectly in storyboard form."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "2D STORYBOARDS",
+      "items": [
+        "Our talented artists create 2D storyboards, chronicling the actual story of your game, covering important action points and dialogue."
+      ],
+      "image": "/assets/images/storyboard/services/video-game-0.webp"
+    },
+    {
+      "title": "3D STORYBOARDS",
+      "items": [
+        "We create 3D storyboards using the latest computer graphics programs to give a sample of the in-game design to complete the storyboard package."
+      ],
+      "image": "/assets/images/storyboard/services/video-game-1.webp"
+    },
+    {
+      "title": "CHARACTER ILLUSTRATIONS",
+      "items": [
+        "Experienced designers at VCD create detailed character illustrations to help you work out visual details, working with your vision to bring your characters to life."
+      ],
+      "image": "/assets/images/storyboard/services/video-game-2.webp"
+    },
+    {
+      "title": "ILLUSTRATIONS OF PLOT POINTS",
+      "items": [
+        "Our illustrators sketch out the action frames of all major plot points and place in chronological order, allowing you to assess the overall tone and flow of the game."
+      ],
+      "image": "/assets/images/storyboard/services/video-game-3.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Video Game Storyboard",
+    "image": "/assets/images/storyboard/why/video-game.webp",
+    "items": [
+      {
+        "title": "SHARE YOUR VISION",
+        "description": "Mapping out your ideas in a visually pleasing way, video game storyboards make it simpler to share your vision with clients, producers and stakeholders."
+      },
+      {
+        "title": "EASILY SPOT PLOT INCONGRUENCIES",
+        "description": "Any discordant details in your game plot can be more easily identified with a visual storyboard, allowing you to fix them before development begins."
+      },
+      {
+        "title": "ACCURATELY ILLUSTRATE PLOT FOR DEVELOPMENT TEAM",
+        "description": "Our team of seasoned artists and script analysts with exceptional experience planning the shots, and drawing the panels is able to accurately illustrate the narrative, demonstrate action, and maintain continuity between scenes."
+      },
+      {
+        "title": "TEST DIALOGUE AND ACTION SEQUENCES",
+        "description": "With our video game storyboarding, you can test the impact of major plot points and action sequences, allowing you to see if they will translate well."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "TELL YOUR STORY WITH Video Caddy'S VIDEO GAME STORYBOARD SERVICES",
+    "description": "Passionate about bringing the gaming world and characters to life. Our talented team keeps open lines of communication throughout the swift process, supporting that the end results are to your liking. Reach out to us today to discuss your video game storyboarding needs.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Visualization and Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

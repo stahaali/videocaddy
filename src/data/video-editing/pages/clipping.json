@@ -1,0 +1,117 @@
+{
+  "slug": "clipping",
+  "label": "Video Clipping",
+  "sourceUrl": "https://www.videocaddy.com/clipping.php",
+  "meta": {
+    "title": "Video Clipping Service",
+    "description": "Accelerate media production with video clipping services that leverage AI workflows to deliver platform-ready formatting and high-volume video asset management."
+  },
+  "hero": {
+    "title": "AI-Led Video Clipping Services",
+    "subtitle": "Reduce editing overhead and maintain consistent output quality with our AI-augmented video clipping services that consistently deliver presentation-ready clips. Contact us to build a customized editing workflow.",
+    "image": "/assets/images/video-editing/hero/clipping.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "VIDEO CADDY OFFERS",
+    "description": "VIDEO CADDY OFFERS"
+  },
+  "services": [
+    {
+      "title": "VIDEO EDITING SERVICES",
+      "items": [
+        "We edit any existing or new video clips related to your business to look professional and be ready for presentation on your website."
+      ],
+      "image": "/assets/images/video-editing/services/clipping-0.webp"
+    },
+    {
+      "title": "INTERVIEW VIDEO CLIPPING",
+      "items": [
+        "We clip interviews of team members from your business, ensuring they perfectly match the specific needs of your marketing campaigns."
+      ],
+      "image": "/assets/images/video-editing/services/clipping-1.webp"
+    },
+    {
+      "title": "CORPORATE VIDEO CLIPPING",
+      "items": [
+        "We clip the most important points from hundreds of hours of conferences, marketing seminars, corporate meetings, etc."
+      ],
+      "image": "/assets/images/video-editing/services/clipping-2.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Video Clipping",
+    "items": [
+      {
+        "title": "ISO QUALITY STANDARDS",
+        "description": "We follow ISO quality standards to ensure exceptional turnaround time and high quality every time out with 99.9% adherence to accuracy and turnaround."
+      },
+      {
+        "title": "24/7 CUSTOMER SERVICE",
+        "description": "Our staff is available 24 hours a day to work with you in delivering top-tier quality content."
+      },
+      {
+        "title": "TOP TIER DATA SECURITY",
+        "description": "We offer top-tier data security for all our clients, ensuring your content is protected from the moment it reaches our hands until final delivery."
+      },
+      {
+        "title": "OVER HALF A DECADE OF EXPERIENCE",
+        "description": "Our video editing team has over half a decade of experience working with hundreds of clients around the globe."
+      },
+      {
+        "title": "HIGHEST QUALITY STAFF",
+        "description": "We hire only the most experienced, certified video editors for our projects to ensure they match the specific needs of the work while maintaining low rates to match your budget."
+      },
+      {
+        "title": "OUR INFRASTRUCTURE",
+        "description": "Our infrastructure is designed for speed and efficiency with the best video software for brand-new Mac and PC machines, including Adobe Premiere, Final Cut Pro, and Edius, and a dedicated 16MB connection for fast transfers."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "EMPOWER YOUR BUSINESS WITH VCD’S VIDEO CLIPPING SERVICES",
+    "description": "Video Caddy maintains a dedicated staff of video editing and clipping experts actively researching and gathering video content for your business. This video content presents an opportunity for you to showcase your expertise, build a loyal following and grow your business. Reach out to us today for a free quote!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

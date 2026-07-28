@@ -1,0 +1,169 @@
+{
+  "slug": "elearning",
+  "label": "eLearning Storyboard",
+  "sourceUrl": "https://www.videocaddy.com/storyboard/e-learning-storyboard.php",
+  "meta": {
+    "title": "E-Learning Storyboard Services",
+    "description": "Professional e-learning storyboard services that help L&D teams plan learning flows, organize production, and build digital training modules. Contact us."
+  },
+  "hero": {
+    "title": "E-Learning Storyboarding Services",
+    "subtitle": "Strengthen your training outcomes with our expertly crafted e-learning storyboard solutions.",
+    "image": "/assets/images/storyboard/hero/elearning.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "When e-learning courses move into production, execution risks often surface around unclear structure, inconsistent visual flow, and misalignment between SME intent and learner experience. At this stage, Video Caddy’s e-learning storyboarding services position the storyboard less as a planning aid and more as a production-control artifact. It allows instructional design and L&D teams to validate lesson flow, screen sequencing, and interaction logic early, reducing ambiguity before design, development, and LMS build activities begin.",
+    "At Video Caddy, we translate raw concepts into production-ready visual documentation that clarifies decisions and enforces consistency across design and development handoffs. Our team works closely with course authors, eLearning managers, and reviewers to provide execution-aligned storyboards , helping teams enter production with clearer controls and fewer revision cycles."
+  ],
+  "servicesHeader": {
+    "title": "Our E-Learning Storyboard Services",
+    "description": "Our e-learning storyboard services are designed to support instructional designers, and L&D teams, who need clarity before moving into production. Each service is crafted to simplify planning, reduce rework, and help you shape stronger learning experiences across formats."
+  },
+  "services": [
+    {
+      "title": "Conceptual Storyboarding for E Learning",
+      "items": [
+        "Structure approved scripts or content outlines into a defined lesson flow based on stated learning objectives and SME guidance.",
+        "Translate learning requirements into screen-level layouts covering interactions, assessments, and transitions across the full module.",
+        "Apply brand, visual, and instructional guidelines to support alignment between SME intent and design logic before development begins.",
+        "Prepare a consolidated storyboard structure used for internal review, SME validation, and controlled handoff to design or animation teams."
+      ],
+      "image": "/assets/images/storyboard/services/elearning-0.webp"
+    },
+    {
+      "title": "Illustration Storyboard and Character Planning for E-Learning",
+      "items": [
+        "Sketch screen-by-screen visuals that define layout, composition, pacing, and scene continuity.",
+        "Develop character styles, expressions, and pose references aligned to course tone and audience profile.",
+        "Plan character movements, gestures, dialogue timing, and on-screen interactions across scenes.",
+        "Compile an illustration storyboard with scene frames, character sheets, interaction notes, and visual cues used by design and animation teams."
+      ],
+      "image": "/assets/images/storyboard/services/elearning-1.webp"
+    },
+    {
+      "title": "Scenario-Based & Branching Storyboards for E-Learning",
+      "items": [
+        "Outline story moments, character actions, and dialogue for scenario-driven training.",
+        "Visualize branching paths and decision-based outcomes to support SME approvals.",
+        "Plan camera framing and comedic or light-toned elements for better engagement.",
+        "Prepare a cartoon storyboard with scene-by-scene frames, dialogue notes, and action cues for illustrators and motion teams."
+      ],
+      "image": "/assets/images/storyboard/services/elearning-2.webp"
+    },
+    {
+      "title": "Future State Storyboard Service for Training Transformation",
+      "items": [
+        "Analyze your current training flow to identify gaps in engagement and clarity.",
+        "Reimagine the learner journey with improved interactions and refined visual logic.",
+        "Map the upgraded module structure with new screen designs and content pathways.",
+        "Organize revised screen sequences, interaction logic, and visual references used to plan the redesigned training flow."
+      ],
+      "image": "/assets/images/storyboard/services/elearning-3.webp"
+    },
+    {
+      "title": "Production-Ready E-Learning Storyboard Outsourcing",
+      "items": [
+        "Convert scripts, SME inputs, and briefs into complete, production-ready storyboards.",
+        "Standardize layouts, navigation patterns, and interaction styles for multi-module projects.",
+        "Build scene descriptions that help teams edit and refine your training videos with fewer revisions.",
+        "Create uniform storyboard files with screen references, interaction notes, and visual instructions for large-scale storyboard e learning projects."
+      ],
+      "image": "/assets/images/storyboard/services/elearning-4.webp"
+    },
+    {
+      "title": "AI-Assisted Storyboard Planning and Review for E-Learning",
+      "items": [
+        "Use AI tools to generate initial screen sequencing from approved scripts and content outlines.",
+        "Apply AI-based checks to flag content gaps, screen overload, and pacing inconsistencies during storyboard drafting.",
+        "Refine AI-generated outputs manually to align instructional logic, tone, and learning objectives.",
+        "Finalize storyboard layouts and sequencing after AI-assisted review and human validation."
+      ],
+      "image": "/assets/images/storyboard/services/elearning-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our E-Learning Storyboard Services",
+    "image": "/assets/images/storyboard/why/elearning.webp",
+    "items": [
+      {
+        "title": "Defined SME Review Checkpoints",
+        "description": "organized review and sign-off stages led by client SMEs and L&D owners."
+      },
+      {
+        "title": "Version-Controlled Storyboard Iterations",
+        "description": "Tracked revisions across storyboard versions with clear change history."
+      },
+      {
+        "title": "Locked Learning Objectives Before Sequencing",
+        "description": "Learning goals finalized prior to visual sequencing for static and animated e learning videos."
+      },
+      {
+        "title": "Standardized Review Cycles Across Modules",
+        "description": "Consistent review cadence applied to single and multi-module programs."
+      },
+      {
+        "title": "Controlled Change Requests Post-Freeze",
+        "description": "Change requests managed only after storyboard baseline approval."
+      },
+      {
+        "title": "Final Validation Before Design Handoff",
+        "description": "Storyboard approved and locked before transfer to design or animation teams."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Build Courses with Storyboards that Do the Talking",
+    "description": "We work within your compliance requirements, review cycles, and delivery standards, providing organized storyboard outputs ready for design, development, and LMS handoff. Contact us to storyboard your next e-learning module with defined engagement models, production-ready screen logic, and SME-aligned instructional flow.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Visualization and Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why should I use a storyboard when creating an e-learning course?",
+      "answer": "An e-learning storyboard helps organize content, map visuals, and align teams, making production smoother and reducing rework during course development."
+    },
+    {
+      "question": "What are the key components to include in a storyboard?",
+      "answer": "Clear learning objectives, screen layouts, narration, interactions, visual cues, and assessment notes form the core structure of any effective storyboard for e-learning."
+    },
+    {
+      "question": "When in the instructional design process should you create a storyboard?",
+      "answer": "Create the storyboard after the content outline is approved, giving structure to visuals and interactions before moving into design, media creation, or animation."
+    },
+    {
+      "question": "How detailed should a storyboard be for micro-learning modules?",
+      "answer": "Micro-learning storyboards focus on screen sequencing, interaction logic, and visual cues, keeping documentation concise while remaining production-ready for rapid development cycles."
+    },
+    {
+      "question": "Can AI tools help in creating e-learning storyboards?",
+      "answer": "AI tools can speed drafting, but a human instructional designer supports accuracy, meaningful flow, and context, especially for professional e-learning storyboard outsourcing workflows."
+    }
+  ]
+}

@@ -1,4 +1,6 @@
-/* Site-wide responsive breakpoints: 576px, 768px, 992px, 1080px, 1366px */
+/* Site-wide responsive breakpoints:
+   576px | 768px | 992px | 1024px | 1366px
+   (1080px kept as an intermediate where already used) */
 
 .site-container {
   width: 100%;
@@ -28,6 +30,13 @@
 @media (min-width: 992px) {
   .site-container {
     max-width: 960px;
+    padding-inline: 28px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .site-container {
+    max-width: 984px;
     padding-inline: 32px;
   }
 }
@@ -48,28 +57,36 @@
 
 /* Section spacing */
 .spacing-section {
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding: 48px 0;
 }
 
 @media (min-width: 576px) {
   .spacing-section {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding: 56px 0;
   }
 }
 
 @media (min-width: 768px) {
   .spacing-section {
-    padding-top: 56px;
-    padding-bottom: 56px;
+    padding: 60px 0;
   }
 }
 
 @media (min-width: 992px) {
   .spacing-section {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding: 70px 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .spacing-section {
+    padding: 72px 0;
+  }
+}
+
+@media (min-width: 1366px) {
+  .spacing-section {
+    padding: 80px 0;
   }
 }
 
@@ -91,6 +108,18 @@
 }
 
 @media (min-width: 992px) {
+  .section-heading {
+    font-size: 38px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-heading {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 1366px) {
   .section-heading {
     font-size: 40px;
   }
@@ -127,18 +156,18 @@
   }
 }
 
-@media (min-width: 992px) and (max-width: 1079px) {
+@media (min-width: 992px) and (max-width: 1023px) {
   .banner-heading h1 {
-    font-size: 68px;
+    font-size: 66px;
     line-height: 1.02;
     min-height: 90px;
   }
 }
 
-@media (min-width: 1080px) and (max-width: 1365px) {
+@media (min-width: 1024px) and (max-width: 1365px) {
   .banner-heading h1 {
-    font-size: 74px;
-    line-height: 1.05;
+    font-size: 72px;
+    line-height: 1.04;
     min-height: 100px;
   }
 }
@@ -174,13 +203,13 @@
   }
 }
 
-@media (min-width: 992px) and (max-width: 1079px) {
+@media (min-width: 992px) and (max-width: 1023px) {
   .process-section h2 {
     font-size: 40px;
   }
 }
 
-@media (min-width: 1080px) {
+@media (min-width: 1024px) {
   .process-section h2 {
     font-size: 40px;
   }
@@ -188,8 +217,7 @@
 
 @media (max-width: 991px) {
   .process-section::before {
-    padding-bottom: 40px !important;
-    background: #000;
+    display: none;
   }
 
   .process-section .col-md-3,
@@ -245,11 +273,36 @@
   }
 }
 
+@media (min-width: 576px) and (max-width: 767px) {
+  .btn-all,
+  a.btn-all.dark-btn {
+    min-height: 44px;
+    padding: 12px 18px;
+    font-size: 13px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .btn-all,
+  a.btn-all.dark-btn {
+    min-height: 46px;
+    padding: 13px 18px;
+    font-size: 14px;
+  }
+}
+
 @media (min-width: 1366px) {
   .btn-all,
   a.btn-all.dark-btn {
     min-height: 48px;
     padding: 14px 20px;
     font-size: 15px;
+  }
+}
+
+/* Prevent accidental horizontal scroll on tight viewports */
+@media (max-width: 1023px) {
+  .page-hero-section.spacing-section {
+    padding-top: calc(72px + 40px);
   }
 }

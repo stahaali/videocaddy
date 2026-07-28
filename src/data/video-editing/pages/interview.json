@@ -1,0 +1,163 @@
+{
+  "slug": "interview",
+  "label": "Interview Video Editing",
+  "sourceUrl": "https://www.videocaddy.com/interview.php",
+  "meta": {
+    "title": "Interview Video Editing Services",
+    "description": "Discover interview video editing services built for scale, offering structured edits, secure handling, and reliable turnaround across workflows. Contact us."
+  },
+  "hero": {
+    "title": "Interview Video Editing Services",
+    "subtitle": "Interview video editing services for research teams, enterprises, and media houses, structured for clarity, consistency, and controlled turnaround across high-volume interview content.",
+    "image": "/assets/images/video-editing/hero/interview.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Interview video editing services for research teams, enterprises, and media houses, structured for clarity, consistency, and controlled turnaround across high-volume interview content."
+  ],
+  "servicesHeader": {
+    "title": "Our Interview Video Editing Services",
+    "description": "Our interview video editing services are structured for teams managing high-volume, multi-format interview content across research, corporate, and media workflows. Each service is defined to reduce turnaround pressure, maintain consistency, and support controlled delivery without expanding internal editing bandwidth."
+  },
+  "services": [
+    {
+      "title": "Corporate Interview Video Editing",
+      "items": [
+        "Review raw footage, identify key moments, and structure executive narratives.",
+        "Remove filler content, pauses, and redundancies while preserving speaker intent.",
+        "Apply brand elements, lower thirds, and formatting aligned to corporate video editing .",
+        "Deliver finalized videos formatted for presentations, internal platforms, or external distribution."
+      ],
+      "image": "/assets/images/video-editing/services/interview-0.webp"
+    },
+    {
+      "title": "Research Interview Video Editing",
+      "items": [
+        "Segment long-form interviews, ensuring accuracy with structured response-based editing workflows.",
+        "Apply jump cut removal to eliminate redundancies while maintaining response continuity.",
+        "Organize outputs within interview footage editing outsourcing workflows for research analysis.",
+        "Deliver structured interview edits aligned to reporting, documentation, and stakeholder review needs."
+      ],
+      "image": "/assets/images/video-editing/services/interview-1.webp"
+    },
+    {
+      "title": "Multi-Camera Interview Editing",
+      "items": [
+        "Sync multiple camera angles using timecode or waveform-based alignment techniques.",
+        "Switch angles based on speaker focus, tone shifts, and conversation flow.",
+        "Normalize audio and visual inconsistencies across all recorded interview sources.",
+        "Deliver multi-angle outputs using professional workflows, including editing with Premiere Pro."
+      ],
+      "image": "/assets/images/video-editing/services/interview-2.webp"
+    },
+    {
+      "title": "Webcast Interview Video Editing",
+      "items": [
+        "Edit virtual interviews aligned to webcast interview video editing output requirements.",
+        "Remove delays, interruptions, and technical inconsistencies from recorded webcast sessions.",
+        "Structure long recordings into concise, on-demand interview video formats.",
+        "Deliver platform-ready files with consistent formatting and fast turnaround time."
+      ],
+      "image": "/assets/images/video-editing/services/interview-3.webp"
+    },
+    {
+      "title": "TV & Broadcast Interview Video Editing Services",
+      "items": [
+        "Edit interviews to meet TV interview video editing services broadcast standards.",
+        "Refine pacing, transitions, and continuity for professional on-air presentation quality.",
+        "Insert captions, overlays, and required broadcast elements based on guidelines.",
+        "Deliver final segments ready for scheduling, syndication, or program integration."
+      ],
+      "image": "/assets/images/video-editing/services/interview-4.webp"
+    },
+    {
+      "title": "Interview Post Production and B-Roll Editing",
+      "items": [
+        "Enhance interviews using interview B-roll editing and contextual visual cutaways.",
+        "Perform interview audio cleanup services for clarity, balance, and noise reduction.",
+        "Apply color correction, transitions, and finishing adjustments for consistent output quality.",
+        "Deliver complete video interview post production files for digital or broadcast use."
+      ],
+      "image": "/assets/images/video-editing/services/interview-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Interview Video Editing",
+    "items": [
+      {
+        "title": "Defined Editing Workflows for Interview Content",
+        "description": "Each project follows a structured workflow from intake to delivery, ensuring consistency across recurring interview video editing requirements."
+      },
+      {
+        "title": "Controlled Turnaround Without Workflow Disruptions",
+        "description": "Projects are planned around realistic timelines, supporting a fast turnaround time without impacting quality or review cycles."
+      },
+      {
+        "title": "Consistency Across Multi-Format Interview Outputs",
+        "description": "Standardized editing approach applied across corporate, research, and webcast interview video editing use cases."
+      },
+      {
+        "title": "Specialized Tools and Editing Environments",
+        "description": "All edits are executed using industry-standard workflows, including editing with Premiere Pro, ensuring reliable output quality."
+      },
+      {
+        "title": "Secure Handling of Sensitive Interview Footage",
+        "description": "Access-controlled workflows ensure confidentiality across research, HR, and internal interview video editing projects."
+      },
+      {
+        "title": "Transparent Review and Output Validation Process",
+        "description": "Clients can review samples from our interview editing portfolio and validate output before full-scale engagement."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Streamline High-Volume Content with Our Interview Video Editing Services",
+    "description": "We work within your existing production workflows, review cycles, and delivery requirements to provide interview video editing services that bring structure to raw footage and consistency to final outputs. Whether you need corporate interview video editing, research interview video editing, or support to outsource interview video editing at scale, our team ensures controlled execution, defined turnaround, and dependable results. Contact us to align your workflow, review expectations, and delivery scope before onboarding.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Live Video Editing for a Swedish Film Production House",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is included in your interview video editing services?",
+      "answer": "We handle cuts, structuring, multi-camera sync, audio cleanup, and final outputs aligned to your defined formats."
+    },
+    {
+      "question": "How do you ensure consistency across large interview volumes?",
+      "answer": "We follow standardized editing workflows, defined review checkpoints, and consistent formatting guidelines across all interview video editing projects."
+    },
+    {
+      "question": "Can you work with ongoing or high-volume interview requirements?",
+      "answer": "Yes, we support recurring workloads with defined processes, batch handling, and predictable timelines aligned to your internal schedules."
+    },
+    {
+      "question": "How is sensitive interview data managed during editing?",
+      "answer": "Footage is handled through access-controlled systems, ensuring confidentiality across research, HR, and internal communication projects."
+    },
+    {
+      "question": "What does the typical delivery include?",
+      "answer": "We deliver cleaned, structured interview videos with required formats, along with revisions based on agreed review cycles."
+    }
+  ]
+}

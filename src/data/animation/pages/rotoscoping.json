@@ -1,0 +1,181 @@
+{
+  "slug": "rotoscoping",
+  "label": "Rotoscoping Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/rotoscoping.php",
+  "meta": {
+    "title": "Rotoscoping animation services | Rotoscopy - Video Caddy",
+    "description": "improve your visuals with professional rotoscoping animation. We provide precise rotoscopy for films and VFX projects, supporting clean edges and accurate motion."
+  },
+  "hero": {
+    "title": "Rotoscoping Animation Services with AI-Led Workflows",
+    "subtitle": "Transform your raw footage into production-ready visuals with our AI-augmented rotoscoping animation services.",
+    "image": "/assets/images/animation/hero/rotoscoping.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Complex rotoscoping workloads, such as maintaining fine edge details, multi-subject occlusions, and high-frame-count sequences, place significant strain on in-house production teams and extend project timelines. Our AI-augmented rotoscoping animation services are organized to reduce that operational pressure by combining AI-assisted workflows with human-led editorial reviews. This solves video post-production challenges, providing frame-accurate mattes for complex characters, objects, and motion.",
+    "At Video Caddy, we provide dedicated support to VFX teams and agencies that require precision, consistency, and delivery reliability without disruption to their compositing pipelines. Each project follows controlled delivery stages, secure file handling, and defined QA checkpoints. The result is production-ready output validated for integration into compositing, animation, and final delivery pipelines."
+  ],
+  "servicesHeader": {
+    "title": "Our Rotoscoping Animation Services",
+    "description": "Our rotoscoping animation services are built for shots that need accuracy and must withstand complexity, motion, and scale. We apply controlled, frame-by-frame workflows with continuity checks and layered quality control to provide stable mattes for complex compositing pipelines."
+  },
+  "services": [
+    {
+      "title": "Motion Blur Matte Creation",
+      "items": [
+        "Create and refine motion blur mattes for high-speed sequences in live-action footage.",
+        "Use digital rotoscoping to preserve realistic motion flow and continuity.",
+        "Rebuild and clean edges for visual consistency during film re-editing .",
+        "Apply subtle motion blending for smooth, cinematic transitions."
+      ],
+      "image": "/assets/images/animation/services/rotoscoping-0.webp"
+    },
+    {
+      "title": "3D Stereo Rotoscoping",
+      "items": [
+        "Separate layers precisely for left and right eye perspectives in 3D animation projects.",
+        "Align and fine-tune elements to achieve natural spatial depth.",
+        "Reconstruct missing frame details for consistent stereo rendering.",
+        "Provide optimized stereo mattes ready for compositing and final output."
+      ],
+      "image": "/assets/images/animation/services/rotoscoping-1.webp"
+    },
+    {
+      "title": "Nuke and Silhouette Rotoscopy",
+      "items": [
+        "Use Nuke and Silhouette tools to create clean, highly detailed mattes.",
+        "Handle complex movements, fine hair strands, and overlapping subjects.",
+        "support tight integration with video post-production and compositing pipelines.",
+        "Maintain consistent frame alignment for high-end film and commercial visuals."
+      ],
+      "image": "/assets/images/animation/services/rotoscoping-2.webp"
+    },
+    {
+      "title": "Hair, Fur, and Fine Detail Rotoscoping",
+      "items": [
+        "Isolate hair, fur, and semi-transparent details using precise rotoscoping animation techniques.",
+        "Preserve clean edges across fast motion and complex lighting.",
+        "Provide detailed mattes that hold up through compositing and grading.",
+        "Maintain motion consistency across long, effects-heavy sequences."
+      ],
+      "image": "/assets/images/animation/services/rotoscoping-3.webp"
+    },
+    {
+      "title": "Character and Object Isolation",
+      "items": [
+        "Isolate human figures, vehicles, and props with clean, defined outlines.",
+        "Apply animation rotoscoping for multi-layered character or motion edits.",
+        "Refine contours to support precise tracking and compositing.",
+        "Prepare isolated elements for repurposing in corporate video editing or marketing visuals."
+      ],
+      "image": "/assets/images/animation/services/rotoscoping-4.webp"
+    },
+    {
+      "title": "Crowd and Multi-Subject Rotoscoping",
+      "items": [
+        "Rotoscope multiple overlapping subjects across dense, high-activity scenes.",
+        "Maintain edge accuracy during occlusions, crossings, and depth changes.",
+        "support consistent motion tracking across long crowd-heavy sequences.",
+        "Provide stable mattes ready for compositing, VFX, and animation workflows."
+      ],
+      "image": "/assets/images/animation/services/rotoscoping-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Rotoscoping Animation Services",
+    "image": "/assets/images/animation/why/rotoscoping.webp",
+    "items": [
+      {
+        "title": "Expert Craftsmanship in Every Frame",
+        "description": "Our team creates rotoscoping animation that improves storytelling by blending artistic finesse with technical mastery, supporting smooth motion and crisp edges in every scene."
+      },
+      {
+        "title": "smooth Integration with Creative Pipelines",
+        "description": "We create composites that seem natural, cohesive, and prepared for any video post-production workflow by understanding the interactions between 2D animation , 3D animation, and live-action elements."
+      },
+      {
+        "title": "Adaptive Workflows for Every Project",
+        "description": "Our rotoscoping studio can easily accommodate your timetable, artistic direction, and delivery requirements, whether you're working on a full-scale feature film or a short digital project."
+      },
+      {
+        "title": "Balanced Speed and Quality",
+        "description": "By combining manual artistry with AI rotoscoping animation, we optimize turnaround times while maintaining frame-level precision and visual consistency throughout the project."
+      },
+      {
+        "title": "Dedicated Support and Collaboration",
+        "description": "You work directly with experienced artists and post-production professionals who align with your creative vision, feedback, and production goals from start to finish."
+      },
+      {
+        "title": "Advanced Rotoscopy Expertise",
+        "description": "Our team applies proven rotoscopy techniques using frame-by-frame execution, motion continuity checks, and edge refinement to handle complex motion and provide compositing-ready mattes."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Transform Every Frame with Precision and Purpose",
+    "description": "Our rotoscoping workflows are designed to maintain consistency and accuracy as footage moves through demanding post-production pipelines. Our rotoscoping animation services are organized for clear scoping, predictable timelines, and secure delivery. With flexible engagement models and production-ready workflows, we integrate seamlessly into your pipeline. Contact us now to discover how professional digital rotoscoping can improve every frame of your upcoming project.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do your rotoscoping projects typically start?",
+      "answer": "Projects begin with a scope review, reference alignment, and test frames, supporting our output matches your compositing requirements before full-scale production begins."
+    },
+    {
+      "question": "Can you scale teams for large or ongoing projects?",
+      "answer": "Yes. Our workflows are designed to scale across high-frame-count sequences, episodic content, and recurring workloads without compromising consistency or delivery timelines."
+    },
+    {
+      "question": "How do you support quality and consistency across long sequences?",
+      "answer": "Every project follows defined QA checkpoints, senior artist reviews, and motion continuity checks to support frame accuracy holds across complex, extended shots."
+    },
+    {
+      "question": "How do you handle tight deadlines and revisions?",
+      "answer": "We structure deliveries in phases, allowing early feedback and controlled revisions while maintaining schedule discipline across demanding production timelines."
+    },
+    {
+      "question": "Is our footage and IP kept secure?",
+      "answer": "Yes. We follow strict file-handling protocols, secure access controls, and NDA-backed workflows to protect all client assets and intellectual property."
+    }
+  ]
+}

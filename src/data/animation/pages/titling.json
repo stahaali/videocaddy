@@ -1,0 +1,124 @@
+{
+  "slug": "titling",
+  "label": "Titling Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/titling.php",
+  "meta": {
+    "title": "Title Animation Services",
+    "description": "Leverage Video Caddy’s Title Animation services to improve video content with compelling animations that capture the audience’s attention. Contact us today!"
+  },
+  "hero": {
+    "title": "improve VISUALIZATION WITH CREATIVE TITLE ANIMATION SERVICES",
+    "subtitle": "High costs, technical issues, and finding skilled talent are common obstacles for video production agencies. With our extensive experience in animation services, Video Caddy (VCD) offers cost-effective, top-tier title animation services. Our services support timely delivery, provide flexible revision policies, and stay updated with industry trends.",
+    "image": "/assets/images/animation/hero/titling.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "High costs, technical issues, and finding skilled talent are common obstacles for video production agencies. With our extensive experience in animation services, Video Caddy (VCD) offers cost-effective, top-tier title animation services. Our services support timely delivery, provide flexible revision policies, and stay updated with industry trends."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "CREDIT TITLING",
+      "items": [
+        "Our team is adept at integrating opening credits that align perfectly with the style and tone of your film's opening sequence."
+      ],
+      "image": "/assets/images/animation/services/titling-0.webp"
+    },
+    {
+      "title": "TITLE SEQUENCES",
+      "items": [
+        "We specialize in crafting animated title sequences that harmonize seamlessly with the style and format of your film."
+      ],
+      "image": "/assets/images/animation/services/titling-1.webp"
+    },
+    {
+      "title": "TITLING IN COMMERCIALS",
+      "items": [
+        "Whether you need titling for dramatic effect or to embed marketing messages, we tailor our services to fit your commercial ad’s layout."
+      ],
+      "image": "/assets/images/animation/services/titling-2.webp"
+    },
+    {
+      "title": "ANIMATION OF EXISTING TITLING",
+      "items": [
+        "Our specialized team of animators animate, improve, or edit existing titling designed by your in-house team."
+      ],
+      "image": "/assets/images/animation/services/titling-3.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Titling Animation",
+    "image": "/assets/images/animation/why/titling.webp",
+    "items": [
+      {
+        "title": "ADHERENCE TO ISO STANDARDS",
+        "description": "We offer a fast turnaround, quick problem resolution, and top-tier final products backed by our commitment to ISO standards."
+      },
+      {
+        "title": "COMPETITIVE RATES",
+        "description": "Our services are competitively priced, providing an affordable alternative to other competitors and in-house solutions."
+      },
+      {
+        "title": "DATA SECURITY",
+        "description": "Our robust internal security measures safeguard Your data against unauthorized access, loss, or theft."
+      },
+      {
+        "title": "EXPERIENCED STAFF",
+        "description": "Our team, composed of professionals with 2-5 years of experience, provides optimal quality on all projects."
+      },
+      {
+        "title": "ADVANCED INFRASTRUCTURE",
+        "description": "With our state-of-the-art infrastructure, we support timely and top-tier project delivery, even under increased workloads."
+      },
+      {
+        "title": "ANIMATION TALENT",
+        "description": "Our animation team is among the best skilled in the industry, supporting we can maintain high- quality at cost-effective prices."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "PARTNER WITH Video Caddy FOR engaging TITLE ANIMATIONS",
+    "description": "Experience the transformative power of smooth title animations with Video Caddy. Our expertise is just a click away. Contact us today to explore how our Title Animation Services can improve your visual narrative",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

@@ -7,7 +7,7 @@ import styles from "./Software.module.css";
 
 export default function Software() {
   return (
-    <section className={styles.section} aria-labelledby="software-title">
+    <section className={`${styles.section} spacing-section`} aria-labelledby="software-title">
       <Container>
         <span className={styles.eyebrow}>WE USE THE LATEST</span>
         <div className={styles.titleWrap}>

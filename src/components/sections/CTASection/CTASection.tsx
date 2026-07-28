@@ -3,12 +3,17 @@ import Link from "next/link";
 import Container from "@/components/shared/Container/Container";
 import { contactInfo } from "@/data/navigation";
 import { assets } from "@/data/assets";
+import { cn } from "@/lib/cn";
 import styles from "./CTASection.module.css";
 
 interface CTASectionProps {
   title?: string;
   subtitle?: string;
   showContact?: boolean;
+  /** dark = black section; light = white section (contact boxes stay black) */
+  variant?: "dark" | "light";
+  image?: string;
+  imageAlt?: string;
 }
 
 const contactItems = [
@@ -39,16 +44,24 @@ export default function CTASection({
   title = "Have a project in mind",
   subtitle = "Schedule a time to chat with us to learn about how we can help you monetize your video production business.",
   showContact = true,
+  variant = "dark",
+  image = assets.contactWoman,
+  imageAlt = "Contact Video Caddy",
 }: CTASectionProps) {
+  const isLight = variant === "light";
+
   return (
-    <section className={`${styles.section} spacing-section`} aria-labelledby="cta-title">
+    <section
+      className={cn(styles.section, "spacing-section", isLight && styles.sectionLight)}
+      aria-labelledby="cta-title"
+    >
       <Container>
         <div className={styles.grid}>
           <div className={styles.imageCol}>
             <div className={styles.contactSectionImg}>
               <Image
-                src={assets.contactWoman}
-                alt="Contact Video Caddy"
+                src={image}
+                alt={imageAlt}
                 width={688}
                 height={495}
                 className={`${styles.image} ${styles.slowZoomIn}`}

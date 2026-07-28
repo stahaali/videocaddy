@@ -1,0 +1,165 @@
+{
+  "slug": "tagging",
+  "label": "Video Tagging",
+  "sourceUrl": "https://www.videocaddy.com/video-tagging.php",
+  "meta": {
+    "title": "Specialized Video Tagging Services- Video Caddy",
+    "description": "Expert video tagging services designed to enhance your video content management, improving searchability and accessibility. Get in touch today. "
+  },
+  "hero": {
+    "title": "VIDEO TAGGING SERVICE",
+    "subtitle": "Improve your video asset management with our tailored video tagging services.",
+    "image": "/assets/images/video-editing/hero/tagging.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "Our Comprehensive Video Tagging Services",
+    "description": "We offer a vast range of video tagging services designed to optimize your video content management and enhance content searchability and discoverability."
+  },
+  "services": [
+    {
+      "title": "Metadata & Timestamp Tagging",
+      "items": [
+        "Use automated video tagging and video annotation services to mark shots, scenes, and keyframes with accurate timestamps",
+        "Enable video metadata tagging for streamlined video content management and quick retrieval of specific segments",
+        "Support video asset management with precise tagging that improves video workflow automation",
+        "Offer scalable video tagging services designed for large content libraries and archives"
+      ],
+      "image": "/assets/images/video-editing/services/tagging-0.webp"
+    },
+    {
+      "title": "Audio & Speech Tagging",
+      "items": [
+        "Apply video content tagging to identify speakers, dialogues, and language patterns in any format",
+        "Enhance video metadata management by tagging background sounds, voiceovers, and audio cues",
+        "Use automated to handle multilingual content with accuracy",
+        "Improve video quality assurance with detailed audio-based tagging for compliance and accessibility"
+      ],
+      "image": "/assets/images/video-editing/services/tagging-1.webp"
+    },
+    {
+      "title": "Brand & Compliance Tagging",
+      "items": [
+        "Detect logos, product placements, and branding elements using hybrid video tagger technology",
+        "Provide tagging service for copyright-sensitive visuals, ensuring regulatory and broadcast compliance",
+        "Support video content optimization by accurately indexing brand-related footage for marketers and advertisers",
+        "Integrate video workflow automation for consistent compliance across diverse video content platforms"
+      ],
+      "image": "/assets/images/video-editing/services/tagging-2.webp"
+    },
+    {
+      "title": "E-Commerce & Product Tagging",
+      "items": [
+        "Timestamp and tagging videos with product references for retail, fashion, and interactive media",
+        "Deliver video metadata tagging that supports video asset management in online retail ecosystems",
+        "Provide video content tagging that boosts discoverability in scalable video solutions for e-commerce brands",
+        "Enable shoppable experiences with video annotation services, linking video moments to product catalogs"
+      ],
+      "image": "/assets/images/video-editing/services/tagging-3.webp"
+    },
+    {
+      "title": "Advanced Searchability Tagging",
+      "items": [
+        "Leverage sports data tagging services and keyword tagging for broadcasters, OTT platforms, and analysts",
+        "Enhance video content optimization with SEO-driven metadata for YouTube video tagging and archives",
+        "Support video content management systems with layered metadata for faster content discovery",
+        "Deliver scalable video solutions with smart search tagging that improves user navigation and retrieval"
+      ],
+      "image": "/assets/images/video-editing/services/tagging-4.webp"
+    },
+    {
+      "title": "Event and Entertainment Video Tagging",
+      "items": [
+        "Categorize entertainment videos by genre, actors, scenes, and more",
+        "Enhance video content optimization for streaming platforms",
+        "Highlight key event moments in weddings , speeches, concerts or entertainment cues for promo editing",
+        "Streamline content categorization for diverse entertainment libraries"
+      ],
+      "image": "/assets/images/video-editing/services/tagging-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Video Tagging Services",
+    "items": [
+      {
+        "title": "Efficient Video Content Management",
+        "description": "We enable precise video tagging that aligns with your content management objectives, making your video content organized and easily searchable."
+      },
+      {
+        "title": "Consistent Metadata Management",
+        "description": "From tagging to categorization, every aspect of our service is designed to strengthen your video metadata management and ensure a consistent and efficient tagging system."
+      },
+      {
+        "title": "Tagging that Serves Content and Context",
+        "description": "We adapt our tagging system to suit different types of videos - whether for internal use, social media, or marketing campaigns, ensuring relevance and efficiency."
+      },
+      {
+        "title": "Detail-oriented Process that Builds Trust",
+        "description": "Our team pays meticulous attention to each detail in the tagging process, delivering a service that highlights our commitment to quality and builds trust."
+      },
+      {
+        "title": "Timely Delivery Without Compromise",
+        "description": "Our structured workflows allow for quick turnarounds, without rushing the process or compromising the quality of our service."
+      },
+      {
+        "title": "End-to-end Collaboration and Support",
+        "description": "Our clients work directly with our experienced team, which understands businesses' needs and expectations regarding effective video content management."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Smarter Video Tagging, Simplified for You",
+    "description": "Collaborate with a team that understands the importance of accuracy and efficiency in video asset management. We convert your video content into an organized, readily accessible library using our professional video tagging services. Contact us today, and let us make your video content management process straightforward, thus boosting discoverability and usability.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What makes your video tagging services stand out?",
+      "answer": "Our video tagging services are not just about adding tags to videos; we create an efficient video asset management system that ensures your video content is easily searchable and accessible. We cater to a wide range of industries and adapt our tagging system to suit different types of videos. With meticulous attention to detail, we ensure accurate and relevant tagging, enhancing content discoverability. Plus, our clients can directly communicate with our experienced team for end-to-end collaboration and support."
+    },
+    {
+      "question": "How do your video tagging services improve video content management?",
+      "answer": "Our video tagging services streamline your video content management by organizing your videos with relevant and accurate tags. This ensures your video content is easily searchable and accessible, improving content discoverability. Our services also include video metadata management, which further enhances the organization and retrieval of your video content. Through our comprehensive and detailed process, we aim to make video content management a seamless task for your business."
+    }
+  ]
+}

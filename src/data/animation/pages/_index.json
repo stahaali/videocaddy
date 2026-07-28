@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "index",
+    "label": "Animation Services",
+    "sourceUrl": "https://www.videocaddy.com/animation/"
+  },
+  {
+    "slug": "3d-engineering",
+    "label": "3D Engineering Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/3d-engineering-animation.php"
+  },
+  {
+    "slug": "animated-product-advertisement",
+    "label": "Animated Product Advertisement",
+    "sourceUrl": "https://www.videocaddy.com/animation/animated-product-advertisement.php"
+  },
+  {
+    "slug": "2d-animation",
+    "label": "2D Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/2d-animation.php"
+  },
+  {
+    "slug": "3d-animation",
+    "label": "3D Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/3d-animation.php"
+  },
+  {
+    "slug": "3d-product-animation",
+    "label": "3D Product Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/3d-product-animation.php"
+  },
+  {
+    "slug": "architecture",
+    "label": "Architecture Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/architectural.php"
+  },
+  {
+    "slug": "character",
+    "label": "Character Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/character.php"
+  },
+  {
+    "slug": "cutout",
+    "label": "Cutout Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/cutout-animation.php"
+  },
+  {
+    "slug": "explainer-video",
+    "label": "Explainer Video Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/explainer-video.php"
+  },
+  {
+    "slug": "feature-film",
+    "label": "Feature Film Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/feature-film.php"
+  },
+  {
+    "slug": "flash",
+    "label": "Flash Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/flash.php"
+  },
+  {
+    "slug": "logo",
+    "label": "Logo Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/logo.php"
+  },
+  {
+    "slug": "machine-assembly",
+    "label": "Machine Assembly Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/machine-assembly-animation.php"
+  },
+  {
+    "slug": "product",
+    "label": "Product Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/product.php"
+  },
+  {
+    "slug": "rotoscoping",
+    "label": "Rotoscoping Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/rotoscoping.php"
+  },
+  {
+    "slug": "titling",
+    "label": "Titling Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/titling.php"
+  },
+  {
+    "slug": "whiteboard",
+    "label": "Whiteboard Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/white-board.php"
+  },
+  {
+    "slug": "stop-motion",
+    "label": "Stop Motion Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/stop-motion-animation.php"
+  },
+  {
+    "slug": "tv-commercial",
+    "label": "TV Commercial Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/tv-commercial.php"
+  },
+  {
+    "slug": "medical",
+    "label": "Medical Animation",
+    "sourceUrl": "https://www.videocaddy.com/animation/medical-animation.php"
+  }
+]

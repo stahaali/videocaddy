@@ -1,0 +1,181 @@
+{
+  "slug": "stop-motion",
+  "label": "Stop Motion Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/stop-motion-animation.php",
+  "meta": {
+    "title": "Stop Motion Animation Studio for Brands",
+    "description": "We are a professional stop motion animation studio that crafts polished, tactile visuals for product marketing, training, and campaigns to improve businesses."
+  },
+  "hero": {
+    "title": "Stop Motion Animation Services for Brands and Agencies",
+    "subtitle": "providing frame-accurate stop motion animation production with organized workflows, human-reviewed quality checkpoints, and AI-assisted compositing support — built for marketing, product, and training communication objectives.",
+    "image": "/assets/images/animation/hero/stop-motion.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Managing stop motion animation production across multiple stakeholders, revision cycles, and platform delivery requirements can increase coordination overhead and slow campaign timelines. The process demands detailed pre-production planning, precise frame capture discipline, and quality review at every production stage — challenges that grow more complex when output volumes increase, or brand consistency must be maintained across content formats. At Video Caddy, our stop motion animation studio addresses these operational demands through organized production workflows supported by AI-assisted compositing and cleanup tools, reviewed at each stage by experienced production specialists.",
+    "We create everything from clay stop motion animation sequences to product-focused visuals for campaigns, e-commerce, and learning objectives. We work closely with agencies and in-house marketing departments that rely on corporate explainer video production for B2B marketing, supporting each animation aligns with broader communication goals while reducing manual handling effort across the production pipeline."
+  ],
+  "servicesHeader": {
+    "title": "Our Stop Motion Animation Services",
+    "description": "As a stop motion animation studio working with brands and agencies, we operate through a organized production workflow where each stage is tracked, reviewed, and approved before progressing. Our process covers concept planning, set builds, frame capture, AI-assisted flicker correction, rig removal, and delivery-ready compositing — with human quality checkpoints integrated across production phases for marketing, product, and learning use cases."
+  },
+  "services": [
+    {
+      "title": "Product-Centric Stop Motion Videos",
+      "items": [
+        "Create tactile, detail-rich stop motion animation videos for e-commerce, retail, and new product rollouts",
+        "Use clay stop motion animation, or mixed-material builds to highlight textures and functionality",
+        "Pair animated sequences with 3D product showcase videos for new product launches for a complete asset package",
+        "Add subtle motion cues and clean framing for catalog, PDP, and campaign use"
+      ],
+      "image": "/assets/images/animation/services/stop-motion-0.webp"
+    },
+    {
+      "title": "Character-Based Stop Motion Animation",
+      "items": [
+        "Develop stop motion animation characters built with brand-aligned styling and personality",
+        "Use stop motion animation drawing references to maintain consistency across frames",
+        "Capture expressive, human-like motion through precise posing, controlled timing, and frame-by-frame animation",
+        "Apply AI-assisted digital cleanup and compositing supported by frame-level human review, reducing manual correction effort while maintaining visual consistency across character sequences"
+      ],
+      "image": "/assets/images/animation/services/stop-motion-1.webp"
+    },
+    {
+      "title": "Hybrid Live-Action + Stop Motion Sequences",
+      "items": [
+        "Integrate miniature sets, props, and real environments for layered visuals",
+        "Support chroma integration and frame-by-frame rotoscope cleanup for commercial video projects , with AI-assisted pre-processing to reduce manual masking effort ahead of human-reviewed compositing",
+        "Build transitions that move smoothly between live action and stop motion animation",
+        "Integrate live-action footage with stop motion using controlled compositing, lighting, and timing"
+      ],
+      "image": "/assets/images/animation/services/stop-motion-2.webp"
+    },
+    {
+      "title": "Technical/Instructional Stop Motion for Training & eLearning",
+      "items": [
+        "Convert complex processes into short, clear sequences using custom stop motion animation sets",
+        "Design asset packs that align with existing LMS content or onboarding workflows",
+        "Pair with support from our whiteboard animation agency for e-learning and onboarding for multi-format training modules",
+        "Design instructional sequences, breaking processes, workflows, and mechanisms into clear visuals."
+      ],
+      "image": "/assets/images/animation/services/stop-motion-3.webp"
+    },
+    {
+      "title": "Social-First & Short-Form Stop Motion Content",
+      "items": [
+        "Produce short-duration stop motion sequences organized for reels, ads, and feed placements",
+        "Animate compact narratives using simplified sets, controlled motion loops, and repeatable framing",
+        "Optimize frame pacing and visual density for mobile-first viewing and fast consumption",
+        "Provide multiple cut-downs and formats aligned with platform-specific technical specifications"
+      ],
+      "image": "/assets/images/animation/services/stop-motion-4.webp"
+    },
+    {
+      "title": "Long-Form Stop Motion for Film & High-End Productions",
+      "items": [
+        "Execute frame-accurate character animation with planned timing, arcs, and continuity",
+        "Operate production-grade capture setups using locked cameras and calibrated lighting",
+        "Provide film-level post production, including flicker correction, rig removal, stabilization",
+        "Manage long-form delivery through our professional feature film animation agency for global distribution"
+      ],
+      "image": "/assets/images/animation/services/stop-motion-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Stop Motion Animation",
+    "image": "/assets/images/animation/why/stop-motion.webp",
+    "items": [
+      {
+        "title": "Storytelling That Reflects Your Brand’s Purpose",
+        "description": "We build stop motion narratives that stay true to your positioning, using thoughtful motion, pacing, and detail to support product stories, learning content, and campaign objectives."
+      },
+      {
+        "title": "Precision Craft That improves Every Frame",
+        "description": "Each sequence is shaped with careful lighting, movement, and texture control, providing polished stop motion animation that aligns with your brand’s tone and creative expectations."
+      },
+      {
+        "title": "Consistency Across Characters, Sets, and Visual Style",
+        "description": "Whether developing stop motion animation characters or product-focused sets, we maintain visual continuity so your assets feel unified across platforms and content types."
+      },
+      {
+        "title": "Support for Complex Production Requirements",
+        "description": "From miniature set builds to detailed frame cleanup, we manage complex technical production requirements with organized accuracy. AI-assisted workflow tools support cleanup and compositing efficiency, while dedicated production specialists oversee quality at each stage — including frame-by-frame rotoscope cleanup for commercial video projects."
+      },
+      {
+        "title": "Adaptable Output for Marketing, Training, and Product Teams",
+        "description": "We shape stop motion animations for social, e-commerce, onboarding, and internal communication use cases. AI-assisted format optimization tools support delivery preparation across platform specifications, while our production team reviews each output for brand consistency and compliance with your creative brief — pairing handcrafted visuals with the structural clarity expected in corporate explainer video production for B2B marketing."
+      },
+      {
+        "title": "Reliable Delivery Without Compromising Craft Quality",
+        "description": "Organized production workflows, supported by AI-assisted scheduling and progress tracking tools, help us manage timelines with greater visibility while maintaining dedicated review cycles for client feedback. Each project is tracked against defined milestones, with human-led quality reviews at key delivery stages to support output consistency across frames, formats, and platforms."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Discuss Your Stop Motion Animation Requirements",
+    "description": "Video Caddy is a stop motion animation studio that works with brands, agencies, and in-house production teams to provide organized, quality-reviewed animation production. Whether your project involves stop motion animation videos, product sequences, character builds, or training-focused content, our team applies organized workflows with AI-assisted production support and human quality oversight to support each deliverable meets your operational and creative specifications. Speak with our production team to discuss your project scope, timeline, and delivery requirements.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much will a stop motion video cost? What factors affect the cost?",
+      "answer": "Pricing varies based on complexity, set design, stop motion animation equipment, character builds, and production time. Detailed briefs help us estimate accurately."
+    },
+    {
+      "question": "Can the studio integrate VFX, live-action footage, or mixed media in stop motion?",
+      "answer": "Yes, we combine stop motion with live-action footage and VFX elements, supported by compositing workflows and frame-by-frame rotoscope cleanup for commercial video projects. AI-assisted pre-processing tools are applied to support masking and cleanup efficiency, with human compositors reviewing each stage to support visual accuracy and consistency across the final deliverable."
+    },
+    {
+      "question": "Can you scale production for multi-video campaigns or recurring monthly content without compromising quality?",
+      "answer": "Yes, our production workflows are organized to support consistent multi-video output across recurring campaign schedules. AI-assisted planning tools help manage production queuing and resource allocation, while dedicated quality reviewers maintain output consistency across formats, supporting recurring deliverables meet the same standard as initial project work."
+    },
+    {
+      "question": "Can you integrate stop motion with other media?",
+      "answer": "Absolutely, we blend stop motion with 2D, 3D, motion graphics, and product renders, enabling cohesive visuals shaped around broader campaign or product communication needs."
+    },
+    {
+      "question": "Do you sign NDAs and provide full IP ownership for commercial use?",
+      "answer": "Yes, we sign NDAs, support confidentiality, and provide complete IP rights, giving you secure ownership over all production assets and deliverables."
+    }
+  ]
+}

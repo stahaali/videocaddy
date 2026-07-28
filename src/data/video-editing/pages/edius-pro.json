@@ -1,0 +1,112 @@
+{
+  "slug": "edius-pro",
+  "label": "Edius Pro Editing",
+  "sourceUrl": "https://www.videocaddy.com/edius-pro-editing.php",
+  "meta": {
+    "title": "Exclusive Video Editing with Edius Pro",
+    "description": "Edius Pro video editing services with AI-assisted workflows and expert human reviews for broadcasters and production companies."
+  },
+  "hero": {
+    "title": "EXCLUSIVE AI-LED VIDEO EDITING WITH EDIUS PRO",
+    "subtitle": "Edius Pro video editing services, leveraging AI-assisted workflows and expert human reviews to help broadcasters and production companies improve delivery consistency and timelines across multi-format editing engagements.",
+    "image": "/assets/images/video-editing/hero/edius-pro.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": { "label": "Get Started Now", "href": "/contact" },
+    "secondaryCta": { "label": "Portfolio", "href": "/portfolio" }
+  },
+  "intro": [
+    "Our Edius Pro editing services support demanding production schedules by combining the software's native multi-format capabilities with AI-assisted workflows and human editorial oversight."
+  ],
+  "servicesHeader": {
+    "title": "Edius Pro Video Editing Services - Accelerated by AI-Led Workflows",
+    "description": "Key operational capabilities for broadcasters and production companies that need consistent multi-format delivery."
+  },
+  "services": [
+    {
+      "title": "Real-time Conversion Rendering",
+      "items": [
+        "Real-time conversion rendering from standard definition to high definition, supported by AI-assisted format-queue management to reduce wait times and lower conversion-related operational costs."
+      ]
+    },
+    {
+      "title": "Native Multi-format Compatibility",
+      "items": [
+        "Native multi-format compatibility across professional camera sources, with AI-assisted ingestion workflows that help reduce manual effort on footage conversion and organization."
+      ]
+    },
+    {
+      "title": "Unlimited Track Support",
+      "items": [
+        "Unlimited video, audio, title, and graphics track support for long-form and complex productions, with human editors maintaining continuity review at each assembly stage."
+      ]
+    },
+    {
+      "title": "Real-time Audio and Video Editing",
+      "items": [
+        "Real-time audio and video editing execution with human quality checkpoints applied before delivery to help reduce rework requests and maintain output consistency."
+      ]
+    },
+    {
+      "title": "Transitions and Nested Timelines",
+      "items": [
+        "Real-time rendering of transitions and titles, plus nested timeline sequencing supported by structured workflow organization to improve efficiency across longer productions."
+      ]
+    },
+    {
+      "title": "Multi-camera and Broadcast Output",
+      "items": [
+        "Multi-camera editing of up to 16 simultaneous sources, high-definition output support, alpha channel export workflows, and direct export to Blu-ray, DVD, media cards, and 3D formats with human validation."
+      ]
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Edius Pro Editing with Video Caddy",
+    "items": [
+      {
+        "title": "AI-Assisted, Human-Governed Delivery",
+        "description": "AI-assisted queues accelerate format handling while experienced editors apply continuity and quality review before every handoff."
+      },
+      {
+        "title": "Broadcast and Production Ready",
+        "description": "Workflows support broadcasters and production companies that need reliable multi-format timelines and consistent delivery SLAs."
+      },
+      {
+        "title": "Complex Long-form Capacity",
+        "description": "Unlimited tracks, nested timelines, and multi-cam support keep complex long-form projects organized and on schedule."
+      },
+      {
+        "title": "Validated Output Formats",
+        "description": "Final exports for broadcast, disc, and media-card destinations are reviewed for format compliance before delivery."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "VIDEO CADDY'S EDIUS PRO SOFTWARE EXPERTISE",
+    "description": "Learning Edius Pro is not a task left to the amateur. Our video editors have years of experience in producing top quality products with this professional-level software.",
+    "cta": { "label": "Contact Us", "href": "/contact" }
+  },
+  "caseStudies": [
+    { "title": "Culinary Video Editing for Popular French Club of Chefs", "href": "/portfolio" },
+    { "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video", "href": "/portfolio" },
+    { "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio", "href": "/portfolio" },
+    { "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment", "href": "/portfolio" },
+    { "title": "Breathing Life into Characters through Character Animation and Storyboarding", "href": "/portfolio" },
+    { "title": "French Translation Company Received an Artistic Storyboard of Their Original Script", "href": "/portfolio" }
+  ],
+  "faqs": [
+    {
+      "question": "Who is Edius Pro editing best suited for?",
+      "answer": "Broadcasters, production companies, and post-production teams that need multi-format editing, multi-cam assembly, and reliable delivery across complex timelines."
+    },
+    {
+      "question": "Does Video Caddy use AI in Edius Pro workflows?",
+      "answer": "Yes. AI-assisted ingestion and format-queue management accelerate preparation, while human editors review continuity and quality before delivery."
+    },
+    {
+      "question": "What outputs can be delivered from Edius Pro projects?",
+      "answer": "Projects can be delivered in high-definition broadcast formats and exported to Blu-ray, DVD, media cards, and other approved destinations after editor validation."
+    }
+  ]
+}

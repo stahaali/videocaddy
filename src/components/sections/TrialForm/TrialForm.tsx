@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Container from "@/components/shared/Container/Container";
 import styles from "./TrialForm.module.css";
 
@@ -10,7 +10,11 @@ function generateCaptcha() {
 }
 
 export default function TrialForm() {
-  const [captcha, setCaptcha] = useState(generateCaptcha);
+  const [captcha, setCaptcha] = useState("");
+
+  useEffect(() => {
+    setCaptcha(generateCaptcha());
+  }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();

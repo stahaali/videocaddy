@@ -1,0 +1,123 @@
+{
+  "slug": "architecture",
+  "label": "Architecture Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/architectural.php",
+  "meta": {
+    "title": "Architectural Animation Services",
+    "description": "Video Caddy offers specialized Architectural Animation Services customized to your business needs. Contact us today to leverage top-tier animation support!"
+  },
+  "hero": {
+    "title": "ARCHITECTURAL ANIMATION",
+    "subtitle": "Video Caddy (VCD) offers expert architectural animation services mitigating challenges - high costs, time constraints, and technical complexities. Our complete package supports your architectural vision is accurately realized into top-tier animations, surpassing your expectations.",
+    "image": "/assets/images/animation/hero/architecture.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Video Caddy (VCD) offers expert architectural animation services mitigating challenges - high costs, time constraints, and technical complexities. Our complete package supports your architectural vision is accurately realized into top-tier animations, surpassing your expectations."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "RESIDENTIAL WALKTHROUGHS",
+      "items": [
+        "Experience the intricacy of homes or apartment buildings with our detailed digital walkthroughs."
+      ],
+      "image": "/assets/images/animation/services/architecture-0.webp"
+    },
+    {
+      "title": "COMMERCIAL WALKTHROUGHS",
+      "items": [
+        "Discover commercial spaces like malls, hospitals, or offices through our immersive walkthroughs."
+      ],
+      "image": "/assets/images/animation/services/architecture-1.webp"
+    },
+    {
+      "title": "INDUSTRIAL WALKTHROUGHS",
+      "items": [
+        "Visualize factories or industrial parks with 3D architectural animations, improving planning and efficiency."
+      ],
+      "image": "/assets/images/animation/services/architecture-2.webp"
+    },
+    {
+      "title": "ART GALLERIES",
+      "items": [
+        "Organize art collections for virtual visits with our 3D gallery walkthroughs, reaching a global audience."
+      ],
+      "image": "/assets/images/animation/services/architecture-3.webp"
+    },
+    {
+      "title": "FURNITURE",
+      "items": [
+        "Visualize furnished spaces with our animations, aiding homeowners or tenants in space planning."
+      ],
+      "image": "/assets/images/animation/services/architecture-4.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Architecture Animation",
+    "image": "/assets/images/animation/why/architecture.webp",
+    "items": [
+      {
+        "title": "ADHERENCE TO ISO STANDARDS",
+        "description": "top-tier and timely project delivery with strict adherence to ISO standards and industry-specific regulations."
+      },
+      {
+        "title": "COMPETITIVE PRICING",
+        "description": "More than 60% cost-savings over in-house operations with cost-effective pricing and flexible engagement models."
+      },
+      {
+        "title": "DATA SECURITY",
+        "description": "Stringent data security and protection with physical and digital access control and proprietary VPN."
+      },
+      {
+        "title": "INDUSTRY LEADING TALENT",
+        "description": "Top-notch architectural animation support provided by a talented team of animators and CAD experts."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "ELEVATE YOUR ARCHITECTURAL VISION WITH Video Caddy'S EXPERT ANIMATION SERVICES",
+    "description": "Ready to bring your vision to life with precision and quality? Choose Video Caddy's Architectural Animation Services for advanced expertise, competitive rates, and commitment to success. Contact us today to transform your ideas into immersive architectural animations",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

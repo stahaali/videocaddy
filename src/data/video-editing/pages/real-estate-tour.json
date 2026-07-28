@@ -1,0 +1,179 @@
+{
+  "slug": "real-estate-tour",
+  "label": "Real Estate Video Tour",
+  "sourceUrl": "https://www.videocaddy.com/real-estate-video-tour.php",
+  "meta": {
+    "title": "Real Estate Video Tours for Property Marketing",
+    "description": "Professional real estate video tours for agencies, developers, and property marketers to create immersive cinematic walkthroughs and 360-degree virtual tours."
+  },
+  "hero": {
+    "title": "Real Estate Video Tour Services",
+    "subtitle": "Increase your property visibility and buyer engagement with our professionally crafted real estate video tours",
+    "image": "/assets/images/video-editing/hero/real-estate-tour.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Static photos and simple walkthroughs are no longer sufficient for property marketing. Before making an appointment, buyers anticipate immersive experiences that help them comprehend space, scale, and value. This change is addressed by expertly created real estate video tours, which turn listings into captivating visual stories that facilitate quicker decision-making. The videos, which range from cinematic walkthroughs to 360° virtual tours of real estate, improve brand perception while focusing attention where it matters on the property."
+  ],
+  "servicesHeader": {
+    "title": "Our Real Estate Video Tour Services",
+    "description": "Our real estate video tour services are built to help agencies, developers, and property marketing teams present listings with clarity, impact, and consistency. Each service supports modern real estate video marketing requirements across residential, luxury, and commercial real estate video tour segments."
+  },
+  "services": [
+    {
+      "title": "Cinematic Property Walkthrough Real Estate Video Tours",
+      "items": [
+        "Interior and exterior footage sequencing based on spatial layout",
+        "Camera movement calibration for entry paths and transitions",
+        "Drone-assisted exterior elevation and approach path capture",
+        "Frame stabilization and motion smoothing for walkthrough continuity"
+      ],
+      "image": "/assets/images/video-editing/services/real-estate-tour-0.webp"
+    },
+    {
+      "title": "360° Real Estate Virtual Tour Production",
+      "items": [
+        "Multi-angle panoramic image capture per room",
+        "Spherical image stitching and alignment correction",
+        "Navigation hotspot placement for room-to-room movement",
+        "Platform-ready file optimization for web and mobile delivery"
+      ],
+      "image": "/assets/images/video-editing/services/real-estate-tour-1.webp"
+    },
+    {
+      "title": "3D Real Estate Video Tours and Flythroughs",
+      "items": [
+        "3D architectural model creation from CAD and reference drawings",
+        "Camera path mapping for interior and exterior flythroughs",
+        "Surface texturing and material detailing",
+        "High-resolution render sequencing for video tour production to showcase homes to remote buyers"
+      ],
+      "image": "/assets/images/video-editing/services/real-estate-tour-2.webp"
+    },
+    {
+      "title": "Commercial Real Estate Video Tour Production",
+      "items": [
+        "Interior zoning capture for office, retail, and industrial spaces",
+        "Drone-based aerial footage capture for site boundaries and access roads",
+        "Aerial footage integration for property footprint mapping",
+        "Multi-floor structural flow visualization"
+      ],
+      "image": "/assets/images/video-editing/services/real-estate-tour-3.webp"
+    },
+    {
+      "title": "Luxury Real Estate Video Tour Editing and Enhancement",
+      "items": [
+        "Precision color grading for interiors and exterior elevations",
+        "Texture and surface detail enhancement",
+        "Controlled highlight and shadow balancing",
+        "Timeline structuring aligned with real estate video editing solutions for luxury home promotions"
+      ],
+      "image": "/assets/images/video-editing/services/real-estate-tour-4.webp"
+    },
+    {
+      "title": "Smart Video Indexing for Real Estate Marketing Videos",
+      "items": [
+        "Scene-level segmentation across rooms and amenities",
+        "Time-coded video tagging for key visual sections",
+        "Metadata tagging for internal cataloging",
+        "Indexed delivery workflows using time-coded video tagging for faster content indexing and discovery"
+      ],
+      "image": "/assets/images/video-editing/services/real-estate-tour-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Real Estate Video Tour Services",
+    "items": [
+      {
+        "title": "Property Storytelling That Supports Faster Buyer Decisions",
+        "description": "Each real estate video tour is edited with a structured visual flow, guiding viewers naturally through spaces so sales teams can present properties with clarity during digital presentations and physical site visits."
+      },
+      {
+        "title": "Precision Editing for Premium and Luxury Listings",
+        "description": "Our workflows align with real estate video editing solutions for luxury home promotions, applying refined color balance, lighting control, and visual pacing that match the expectations of high-value residential markets."
+      },
+      {
+        "title": "Remote Buyer-Ready Video Infrastructure",
+        "description": "Every project supports video tour production to showcase homes to remote buyers, ensuring smooth playback across devices, international platforms, and listing portals used by global and NRI audiences."
+      },
+      {
+        "title": "Consistent Visual Standards Across Property Portfolios",
+        "description": "From single developments to large multi-city inventories, our real estate video marketing workflows maintain uniform framing, transitions, and delivery formats across all real estate marketing videos."
+      },
+      {
+        "title": "Organized Video Libraries for Faster Internal Access",
+        "description": "All projects integrate time-coded video tagging for faster content indexing and discovery, allowing teams to locate specific rooms, amenities, or exterior shots instantly for reuse across campaigns."
+      },
+      {
+        "title": "Formats Designed for Residential and Commercial Assets",
+        "description": "From luxury villas to commercial real estate video tour deployments, outputs are structured for websites, property portals, investor decks, and presentation-ready marketing systems."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Turn Listings into Buyer-Ready Experiences",
+    "description": "Work with specialists in real estate video tours who understand property marketing at scale. From cinematic walkthroughs to precision-led real estate video marketing, every frame is built for clarity, consistency, and conversion. Contact us today to start your next project with a real estate video production company built for serious growth.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why should agents or sellers use video tours instead of just photos?",
+      "answer": "Photos show moments. Real estate video tours show flow, scale, and movement, helping buyers understand how spaces connect before scheduling a visit."
+    },
+    {
+      "question": "Video tours vs virtual 360 degree/3D tours, which one should I use?",
+      "answer": "Use real estate video tours for guided storytelling. Choose 360-degree real estate virtual tour or 3D real estate video tours when buyers need interactive space control."
+    },
+    {
+      "question": "Does a video or virtual tour replace an in-person viewing?",
+      "answer": "No. A real estate video tour qualifies serious buyers early and reduces unproductive visits, but final decisions still rely on physical walkthroughs."
+    },
+    {
+      "question": "Do listings with video or virtual tours sell faster or get more leads?",
+      "answer": "Well-produced real estate marketing videos typically increase listing engagement, inquiry quality, and time spent on property pages across major platforms."
+    },
+    {
+      "question": "Are virtual-tour listings more appealing to international or remote buyers and investors?",
+      "answer": "Yes. Commercial real estate video tour and residential virtual formats allow overseas buyers to assess properties remotely with confidence before committing to site visits."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "sports",
+  "label": "Sports Video Editing",
+  "sourceUrl": "https://www.videocaddy.com/sports-video-editing.php",
+  "meta": {
+    "title": "Sports Video Editing Services - Video Caddy",
+    "description": "Sports video editing services designed to deliver clean, focused and platform-ready content, from highlight reels to full-game edits. Get in touch today. "
+  },
+  "hero": {
+    "title": "Sports Video Editing Services",
+    "subtitle": "Sports video editing services for teams and media platforms, optimized for broadcasting, performance analysis, and digital fan engagement.",
+    "image": "/assets/images/video-editing/hero/sports.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Sports video editing services for teams and media platforms, optimized for broadcasting, performance analysis, and digital fan engagement."
+  ],
+  "servicesHeader": {
+    "title": "Our Sports Video Editing Services",
+    "description": "Our sports video editing services are structured for teams, leagues, agencies, analytics firms, and production houses that require disciplined execution and controlled turnaround. Each service is designed to manage broadcast, performance review, and distribution requirements without disrupting internal workflows. As a sports video editing company supporting enterprise sports video editing mandates, we define scope clearly, apply documented QA, and deliver review-ready outputs aligned to operational timelines."
+  },
+  "services": [
+    {
+      "title": "Sports Social Media Video Edits",
+      "items": [
+        "Trim and format clips for social posts and YouTube Shorts",
+        "Add engaging motion graphics and vertical formatting",
+        "Use sport-specific templates for faster turnarounds",
+        "Ensure compatibility with Instagram, YouTube, and TikTok standards"
+      ],
+      "image": "/assets/images/video-editing/services/sports-0.png"
+    },
+    {
+      "title": "Agency & Campaign Post-Production",
+      "items": [
+        "Assemble promotional cuts and campaign assets as part of broader sports post-production services.",
+        "Integrate sponsor graphics, branded intros, and compliance-safe visual elements.",
+        "Provide agency sports video editing support during peak tournament or season cycles.",
+        "Deliver structured revisions with documented change logs for marketing stakeholders."
+      ],
+      "image": "/assets/images/video-editing/services/sports-1.webp"
+    },
+    {
+      "title": "Training & Academy Footage Editing",
+      "items": [
+        "Edit drills, training sessions, and assessment footage under controlled formatting standards",
+        "Standardize layouts and captions across recurring academy programs",
+        "Support structured game footage editing services for internal review and player development",
+        "Deliver organized archives for long-term performance tracking"
+      ],
+      "image": "/assets/images/video-editing/services/sports-2.webp"
+    },
+    {
+      "title": "Full Game & Broadcast Editing Support",
+      "items": [
+        "Process complete matches with timeline structuring, audio balancing , and replay sequencing",
+        "Align edits with sports broadcast editing services specifications and league formatting rules",
+        "Perform color grading for sports films to maintain visual consistency across venues and lighting conditions",
+        "Provide highlights footage to coaches, league officials, or broadcast partners under defined approval cycles."
+      ],
+      "image": "/assets/images/video-editing/services/sports-3.png"
+    },
+    {
+      "title": "Sports Analytics & Performance Review Editing",
+      "items": [
+        "Tag, trim, and structure footage for sports analytics video editing workflows",
+        "Prepare segmented clips supporting performance breakdown and tactical review",
+        "Deliver well-edited, organized libraries for sports teams and analysis platforms",
+        "Coordinate closely with analytics firms to ensure footage compatibility and metadata accuracy."
+      ],
+      "image": "/assets/images/video-editing/services/sports-4.webp"
+    },
+    {
+      "title": "Audio Enhancement & Commentary Syncing",
+      "items": [
+        "Clean and balance multi-track audio to meet sports broadcast editing services standards.",
+        "Sync commentary accurately with timelines during game footage cutting & assembly.",
+        "Enhance field audio within structured sports post-production services workflows.",
+        "Deliver mastered tracks aligned with enterprise sports video editing QA controls."
+      ],
+      "image": "/assets/images/video-editing/services/sports-5.png"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Sports Video Editing Services",
+    "items": [
+      {
+        "title": "Defined Editorial Scope Before Production",
+        "description": "Clear alignment on format, output duration, graphics standards, and review flow before game footage moves into editing."
+      },
+      {
+        "title": "Structured Game Footage Handling",
+        "description": "Disciplined game footage cutting & assembly with logging, sequencing, and controlled version tracking."
+      },
+      {
+        "title": "Broadcast & Platform Compliance Controls",
+        "description": "Edits aligned to sports broadcast editing services specifications and distribution requirements, including YouTube video formatting."
+      },
+      {
+        "title": "Analytics-Ready File Preparation",
+        "description": "Organized exports for sports analytics video editing workflows and video editing for sports teams using structured tagging standards."
+      },
+      {
+        "title": "Dedicated QA & Version Governance",
+        "description": "Each project passes layered review checks under documented sports post-production services protocols."
+      },
+      {
+        "title": "Scalable Enterprise Delivery Model",
+        "description": "Support for enterprise sports video editing and agency sports video editing support through defined intake, secure transfer, and predictable turnaround cycles."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Establish Consistent Game Footage with Our Sports Video Editing Services",
+    "description": "Our sports video editing services align with established broadcast, analytics, and agency production frameworks through structured intake, controlled edit cycles, and documented quality checks. As a sports video editing company supporting enterprise sports video editing and sports media editing solutions, we deliver review-ready outputs aligned to compliance and distribution standards. Ready to outsource sports video editing?. Then contact us now to discuss engagement structure, volume requirements, and secure onboarding practices.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [],
+  "faqs": [
+    {
+      "question": "What is Video Caddy's typical turnaround time for sports highlight reels?",
+      "answer": "Most highlight reels are delivered within defined short-cycle timelines agreed during onboarding and managed through structured review checkpoints."
+    },
+    {
+      "question": "How can one scale their sports content production without increasing headcount?",
+      "answer": "Organizations scale by outsourcing sports video editing to an experienced service provider with scalable capacity, documented workflows, and predictable turnaround timelines instead of expanding internal teams."
+    },
+    {
+      "question": "Is it cheaper to hire a freelance sports editor or an outsourcing agency?",
+      "answer": "Freelancers may reduce upfront costs, but agencies offer process stability, QA controls, and enterprise sports video editing capacity, lowering operational risk during peak seasons."
+    },
+    {
+      "question": "Which editing software do professional sports video editing services use?",
+      "answer": "Professional sports video editors typically use industry-standard platforms such as Adobe Premiere Pro, Final Cut Pro, and Avid, aligned with broadcast and analytics compatibility requirements."
+    },
+    {
+      "question": "How can sports video editing services from Video Caddy improve engagement on social platforms?",
+      "answer": "We structure highlights for platform specifications, incorporate motion graphics into sports videos, and ensure clean pacing, helping teams distribute compliant, review-approved content consistently."
+    }
+  ]
+}

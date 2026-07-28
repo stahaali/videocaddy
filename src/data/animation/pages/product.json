@@ -1,0 +1,123 @@
+{
+  "slug": "product",
+  "label": "Product Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/product.php",
+  "meta": {
+    "title": "Product Animation Services",
+    "description": "Video Caddy offers top-quality product animation services, created by skilled animators and engineers to offer numerous benefits to your company"
+  },
+  "hero": {
+    "title": "PRODUCT ANIMATION SERVICES",
+    "subtitle": "Revealing the functional operation of products with attention-grabbing details are complex processes, so, Video Caddy (VCD) offers to make your marketing campaigns great with its product animation services.",
+    "image": "/assets/images/animation/hero/product.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Revealing the functional operation of products with attention-grabbing details are complex processes, so, Video Caddy (VCD) offers to make your marketing campaigns great with its product animation services."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "3D PRODUCT DEMOS",
+      "items": [
+        "Giving your customers the ability to take a 3D tour of your product by spinning and rotating it on screen, giving a feel of appearance and artistry without having to see in person, Video Caddy’s 3D product animation services create a lasting impact."
+      ],
+      "image": "/assets/images/animation/services/product-0.webp"
+    },
+    {
+      "title": "PRODUCT ADVERTISEMENTS",
+      "items": [
+        "Creating compelling advertisements featuring your products, Video Caddy has years of experience offering 3D and 2D product animation services."
+      ],
+      "image": "/assets/images/animation/services/product-1.webp"
+    },
+    {
+      "title": "PRODUCT BRIEFING ANIMATIONS",
+      "items": [
+        "This type of animation puts consumers at ease by detailing the specifications and features of your product, showing them in a real-time demonstration animation. Video Caddy’s professional engineers and animators create peerless product briefing animations"
+      ],
+      "image": "/assets/images/animation/services/product-2.webp"
+    },
+    {
+      "title": "MACHINE ASSEMBLY ANIMATION",
+      "items": [
+        "Easily understandable product animations that showcase each step of the assembly process, machine assembly animations help consumers to make purchasing decisions by removing any hesitations based on how the product was made."
+      ],
+      "image": "/assets/images/animation/services/product-3.webp"
+    },
+    {
+      "title": "ENGINEERING ANIMATIONS",
+      "items": [
+        "Functional, exceptionally detailed engineering automation showcase the technical engineering of a product, helping you to meet your engineering objectives."
+      ],
+      "image": "/assets/images/animation/services/product-4.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Product Animation",
+    "image": "/assets/images/animation/why/product.webp",
+    "items": [
+      {
+        "title": "ACCESS TO ADVANCED TOOLS AND SOFTWARE",
+        "description": "Video Caddy makes use of advanced 3D software such as 3ds Max, Inventor, SolidWorks, AutoCAD, Maya and other 3D modeling packages to create true-to-life 3D product animations"
+      },
+      {
+        "title": "HIGHER ENGAGEMENT AND CONVERSION",
+        "description": "Animated videos offer higher conversion and engagement rates, and assist in achieving higher organic search rankings, as people engage with a site for longer while watching videos."
+      },
+      {
+        "title": "IMPROVED MARKETING",
+        "description": "Product animations offer a more reliable means of marketing as consumers are more likely to make a purchase when they can see how a product works."
+      },
+      {
+        "title": "PROTOTYPING",
+        "description": "Product animation outsourcing allows you to create prototypes of products without the expense, carrying the same looks and features at only a fraction of the costs"
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "TOP QUALITY PRODUCT ANIMATION SERVICES FOR YOUR BUSINESS",
+    "description": "Having provided a wide range of product animation services to clients across the globe for more than a decade, Video Caddy understands the complexities of 3D product animation, and are well-equipped to provide top quality services. With a pool of skilled creatives, and advanced technology to create precise and detailed animations for a range of uses, contact Video Caddy today to discuss your product animation needs.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

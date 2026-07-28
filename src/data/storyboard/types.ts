@@ -1,0 +1,9 @@
+export type {
+  VideoEditingCaseStudy as StoryboardCaseStudy,
+  VideoEditingFAQ as StoryboardFAQ,
+  VideoEditingLink as StoryboardLink,
+  VideoEditingPageData as StoryboardPageData,
+  VideoEditingProcessStep as StoryboardProcessStep,
+  VideoEditingService as StoryboardService,
+  VideoEditingWhyItem as StoryboardWhyItem,
+} from "@/data/video-editing/types";

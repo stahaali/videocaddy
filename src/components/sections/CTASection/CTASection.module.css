@@ -2,6 +2,22 @@
   background: #000;
 }
 
+.sectionLight {
+  background: #fff;
+}
+
+.sectionLight .title {
+  color: #111;
+}
+
+.sectionLight .subtitle {
+  color: #555;
+}
+
+.sectionLight .image {
+  filter: none;
+}
+
 .grid {
   display: grid;
   grid-template-columns: 1fr;
@@ -62,7 +78,7 @@
   margin: 0;
   font-family: var(--font-section);
   font-size: 21px;
-  font-weight: 100;
+  font-weight: 400;
   line-height: 1.55;
   color: #bcbbbb;
 }
@@ -97,11 +113,27 @@
   .grid {
     gap: 32px;
   }
+
+  .title {
+    font-size: 32px;
+  }
+
+  .subtitle {
+    font-size: 17px;
+  }
 }
 
 @media (min-width: 768px) {
   .grid {
     gap: 36px;
+  }
+
+  .title {
+    font-size: 34px;
+  }
+
+  .subtitle {
+    font-size: 18px;
   }
 }
 
@@ -114,6 +146,24 @@
 
   .image {
     width: 93%;
+  }
+
+  .title {
+    font-size: 36px;
+  }
+
+  .subtitle {
+    font-size: 19px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .title {
+    font-size: 38px;
+  }
+
+  .subtitle {
+    font-size: 20px;
   }
 }
 

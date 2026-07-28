@@ -1,0 +1,169 @@
+{
+  "slug": "animatics",
+  "label": "Storyboard Animatics",
+  "sourceUrl": "https://www.videocaddy.com/storyboard/animatic-services.php",
+  "meta": {
+    "title": "Animatic Storyboard Services",
+    "description": "Plan shot timing, camera moves, and pacing with our animatic storyboard services. We provide production-ready animatics for advertising, films, and e-learning."
+  },
+  "hero": {
+    "title": "Animatic Storyboard",
+    "subtitle": "Convert your creative briefs into production-ready visual sequences with our animatic storyboard services.",
+    "image": "/assets/images/storyboard/hero/animatics.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Projects entering pre-production often encounter risk through vague briefs, uneven visual logic, and gaps between creative intent and execution teams. This is where animatic storyboard services operate as a control layer rather than a creative exercise. At Video Caddy, we convert approved concepts into production-ready animatic visuals that support informed decisions and cleaner handoffs.",
+    "Our process integrates closely with existing Storyboard Services , giving creative and production teams a shared visual reference they can rely on during execution. The result is clearer approvals, reduced revision cycles, and stronger alignment before full-scale production begins."
+  ],
+  "servicesHeader": {
+    "title": "Our Animatic Storyboard Services",
+    "description": "Our animatic storyboard services assist teams needing distinct pre-production visualization before proceeding with full-scale animation or editing. Studios, agencies, and enterprise teams use these services to examine motion logic, scene timing, and narrative structure from the outset, employing production-ready animatic visuals as a common reference point among stakeholders"
+  },
+  "services": [
+    {
+      "title": "Pre-Production Animatics for Visual Validation",
+      "items": [
+        "Convert approved scripts and creative briefs into animatic storyboard sequences with defined timing, pacing, and motion cues.",
+        "Establish scene order, transitions, and visual flow using pre-production animatics for early stakeholder review.",
+        "Apply pre-production visualization methods to surface sequencing gaps before design or animation begins.",
+        "provide review-ready storyboard animatics used to confirm visual direction and scope."
+      ],
+      "image": "/assets/images/storyboard/services/animatics-0.webp"
+    },
+    {
+      "title": "E-Learning Storyboard Animatics",
+      "items": [
+        "Structure instructional scripts into e-learning storyboard animatics with screen-level timing and interaction cues.",
+        "Visualize learner flow, transitions, and key instructional moments for SME and L&D validation.",
+        "Align animatic outputs with inputs from E-learning Storyboard Development processes.",
+        "Prepare production-ready animatic visuals used by design, development, and animation teams."
+      ],
+      "image": "/assets/images/storyboard/services/animatics-1.webp"
+    },
+    {
+      "title": "2D Animatic Storyboards for Marketing and Explainers",
+      "items": [
+        "Develop animatic storyboard layouts to plan motion, framing, and pacing for marketing and explainer videos.",
+        "Define visual beats and transitions before illustration and 2D Animation execution begins.",
+        "Support coordination between scripting, storyboarding, and motion design services vendors scripting storyboarding .",
+        "provide storyboard animatics used as visual references during animation production."
+      ],
+      "image": "/assets/images/storyboard/services/animatics-2.webp"
+    },
+    {
+      "title": "3D Animatic Production for Complex Visuals",
+      "items": [
+        "Produce 3D animatic production assets to plan camera movement, spatial layout, and scene timing.",
+        "Support product, technical, or environment-heavy visuals requiring controlled pre-production visualization .",
+        "Use pre-production animatics to validate motion logic and narrative flow before asset creation.",
+        "provide storyboard animatics referenced during modeling, animation, and rendering stages."
+      ],
+      "image": "/assets/images/storyboard/services/animatics-3.webp"
+    },
+    {
+      "title": "Commercial & Marketing Animatics",
+      "items": [
+        "Convert approved scripts and creative briefs into animatic storyboard sequences defining pacing, transitions, and visual flow.",
+        "Establish scene timing, motion cues, and shot order for commercials, brand films, and marketing videos.",
+        "Prepare storyboard animatics used for internal reviews, client approvals, and creative sign-off before production.",
+        "provide production-ready animatic visuals aligned with downstream animation and video editing solutions workflows."
+      ],
+      "image": "/assets/images/storyboard/services/animatics-4.webp"
+    },
+    {
+      "title": "Game Cinematic & Interactive Animatics",
+      "items": [
+        "Develop animatic storyboard sequences to plan cinematic scenes, cutscenes, and interactive narrative moments.",
+        "Define camera movement, timing, and scene progression for linear and interactive gameplay sequences.",
+        "Visualize branching paths, transitions, and player-triggered events during pre-production animatics.",
+        "provide storyboard animatics used by game design, animation, and cinematic production teams for execution planning."
+      ],
+      "image": "/assets/images/storyboard/services/animatics-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Storyboard Animatics",
+    "image": "/assets/images/storyboard/why/animatics.webp",
+    "items": [
+      {
+        "title": "Structured Review Milestones",
+        "description": "Animatic storyboard reviews are scheduled at defined points, with AI-assisted storyboard checks used to support sequencing, timing, and motion intent review before approval."
+      },
+      {
+        "title": "Tracked Iterations and Updates",
+        "description": "All animatic storyboard revisions are maintained with clear version references for consistent stakeholder review."
+      },
+      {
+        "title": "Scene Flow Confirmed Early",
+        "description": "Visual order, pacing, and transitions are validated during animatic storyboard development to avoid downstream changes."
+      },
+      {
+        "title": "Consistent Animatic Frameworks",
+        "description": "Standard animatic storyboard formats are applied across projects to support scale and coordination when teams outsource animatics services."
+      },
+      {
+        "title": "Managed Updates After Approval",
+        "description": "Post-approval changes are handled through controlled update cycles to protect approved animatic sequences."
+      },
+      {
+        "title": "Approved Before Production Handoff",
+        "description": "Each animatic storyboard is finalized before transfer to animation, 2D Animation , or Video Editing Solutions teams."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Bring Structure and Clarity to Pre-Production with our Animatic Storyboard Services",
+    "description": "We work within your existing pre-production workflows, review structures, and delivery standards to create animatic storyboard services that support clear decision-making before animation or editing begins. Contact us to convert approved briefs into production-ready animatic visuals, aligned scene timing, and controlled pre-production visualization suitable for studios, agencies, and enterprise teams preparing for execution.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Visualization and Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does it take to produce an animatic?",
+      "answer": "Timelines vary by scope, but most animatic storyboard services are completed within a few days after scripts and briefs are finalized."
+    },
+    {
+      "question": "How much do animatic services cost for commercial and marketing projects?",
+      "answer": "Costs depend on complexity, duration, and revision scope, with pricing typically defined after reviewing scripts and production requirements."
+    },
+    {
+      "question": "What inputs does Video Caddy need to start an animatic storyboard project?",
+      "answer": "We require approved scripts, creative briefs, visual references, brand guidelines, and any timing or sequencing notes defined during pre-production."
+    },
+    {
+      "question": "How does Video Caddy handle reviews during an animatic storyboard project?",
+      "answer": "Reviews are conducted at predefined stages, with feedback incorporated through version-controlled updates and documented change tracking."
+    },
+    {
+      "question": "What format are animatic storyboards provided in?",
+      "answer": "Our animatic storyboards are provided as time-based visual sequences with scene references, timing notes, and motion indicators for production use."
+    }
+  ]
+}

@@ -34,7 +34,7 @@ const footerColumns = [
     title: "PORTFOLIO",
     links: [
       { label: "Video Editing", href: "/services" },
-      { label: "Audio Editing", href: "/services" },
+      { label: "Audio Editing", href: "/audio-editing" },
       { label: "Animation", href: "/services" },
       { label: "Story Board", href: "/services" },
       { label: "Articles", href: "/about" },

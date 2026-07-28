@@ -43,26 +43,53 @@
 }
 
 .mainNav {
+  position: relative;
+  z-index: 1;
   align-self: stretch;
+  overflow: visible;
 }
 
 .navItem {
   position: relative;
+  z-index: 1;
   display: flex;
   align-items: center;
   align-self: stretch;
+  overflow: visible;
+}
+
+.megaMenuLayer {
+  position: absolute;
+  /* Overlap header bottom border so no dead gap kills hover */
+  top: calc(100% - 2px);
+  left: 0;
+  right: 0;
+  z-index: 10000;
+  /* Full-width invisible bridge: Storyboard/Animation → left menu path stays inside header */
+  pointer-events: auto;
+  min-height: 56px;
 }
 
 .megaMenu {
   position: absolute;
-  top: 100%;
-  left: 0;
-  z-index: 1001;
-  width: 750px;
-  max-width: min(750px, calc(100vw - 32px));
-  padding: 20px;
+  top: 2px;
+  z-index: 10000;
+  width: 860px;
+  max-width: min(860px, calc(100vw - 32px));
+  padding: 12px;
   background: #fff;
   box-shadow: 0 8px 16px rgba(212, 175, 55, 0.15);
+  pointer-events: auto;
+}
+
+/* Extra upward hit area so cursor never falls through the nav→menu seam */
+.megaMenu::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -14px;
+  height: 14px;
 }
 
 .megaMenuGrid {
@@ -71,12 +98,12 @@
 }
 
 .megaMenuColumn {
-  padding-left: 10px;
+  padding-left: 8px;
   border-right: 1px solid var(--color-gold-border);
 }
 
 .megaMenuColumn:last-child {
-  border-right: 1px solid var(--color-gold-border);
+  border-right: none;
 }
 
 .megaMenuList {
@@ -86,24 +113,20 @@
 }
 
 .megaMenuList li {
-  margin-bottom: 10px;
-  border-bottom: 1px dashed var(--color-gold-pale);
-}
-
-.megaMenuList li:last-child {
   margin-bottom: 0;
 }
 
 .megaMenuLink {
   display: block;
-  padding: 0 0 10px;
+  padding: 7px 8px 7px 4px;
+  border-bottom: 1px solid var(--color-gold-pale);
   font-family: var(--font-section);
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 400;
-  line-height: 1.35;
+  line-height: 1.3;
   color: #333;
   text-decoration: none;
-  white-space: normal;
+  white-space: nowrap;
   transition: color 0.2s ease;
 }
 
@@ -111,9 +134,27 @@
   color: var(--color-primary);
 }
 
-@media (max-width: 1279px) {
+@media (min-width: 1024px) and (max-width: 1365px) {
   .megaMenu {
-    width: min(750px, calc(100vw - 32px));
+    width: min(820px, calc(100vw - 40px));
+    padding: 10px;
+  }
+
+  .megaMenuLink {
+    font-size: 11px;
+    padding: 6px 6px 6px 3px;
+  }
+
+  .mainNav :global(.header-nav-link) {
+    padding-inline: 10px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .megaMenuLayer,
+  .megaMenu {
+    display: none;
   }
 }
 

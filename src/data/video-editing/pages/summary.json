@@ -1,0 +1,125 @@
+{
+  "slug": "summary",
+  "label": "Video Summary",
+  "sourceUrl": "https://www.videocaddy.com/video-summary.php",
+  "meta": {
+    "title": "Specialized Highlight Video Services",
+    "description": "Boost engagement and enhance brand reach with our professional highlight video services. Contact us today to craft impactful, bite-sized highlight videos!"
+  },
+  "hero": {
+    "title": "PROFESSIONAL HIGHLIGHT VIDEO SERVICES",
+    "subtitle": "Highlight videos are a valuable means of condensing extensive video content into engaging and impactful snippets. Whether for promotional purposes, increasing engagement, knowledge dissemination, or storytelling, Video Caddy (VCD) offers highlight video services that cater to the modern audience's preference for compelling, bite-sized content.",
+    "image": "/assets/images/video-editing/hero/summary.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Highlight videos are a valuable means of condensing extensive video content into engaging and impactful snippets. Whether for promotional purposes, increasing engagement, knowledge dissemination, or storytelling, Video Caddy (VCD) offers highlight video services that cater to the modern audience's preference for compelling, bite-sized content."
+  ],
+  "servicesHeader": {
+    "title": "OUR RECENT CASE STUDIES",
+    "description": "EXPLORE VIDEO CADDY'S ARRAY"
+  },
+  "services": [
+    {
+      "title": "SPORTS HIGHLIGHTS",
+      "items": [
+        "Whether it's a game-winning goal, a breathtaking slam dunk, or a heart-stopping victory lap, our editing specialists capture the essence of the game and convert it into electrifying highlights."
+      ],
+      "image": "/assets/images/video-editing/services/summary-0.webp"
+    },
+    {
+      "title": "EVENT HIGHLIGHTS",
+      "items": [
+        "From corporate conferences to live performances, we curate the most memorable moments into visually captivating reels that can help increase event attendance and entice future participants."
+      ],
+      "image": "/assets/images/video-editing/services/summary-1.webp"
+    },
+    {
+      "title": "SOCIAL MEDIA HIGHLIGHTS",
+      "items": [
+        "VCD's expertly crafted highlight videos are tailored for various platforms, igniting conversations and sparking viral trends."
+      ],
+      "image": "/assets/images/video-editing/services/summary-2.webp"
+    },
+    {
+      "title": "PRODUCT LAUNCH HIGHLIGHTS",
+      "items": [
+        "Video Caddy creates buzz-worthy teasers and compelling summaries that build anticipation, accelerate product adoption and amplify your brand's reach."
+      ],
+      "image": "/assets/images/video-editing/services/summary-3.webp"
+    },
+    {
+      "title": "EDUCATIONAL HIGHLIGHTS",
+      "items": [
+        "From e-learning courses to informative seminars, VCD transforms knowledge into captivating clips that inspire and empower your audience."
+      ],
+      "image": "/assets/images/video-editing/services/summary-4.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Video Summary",
+    "items": [
+      {
+        "title": "ENHANCED AUDIENCE REACH",
+        "description": "VCD offers highlight videos designed for maximum shareability and impact to witness an exponential increase in your content's reach across social media and digital platforms."
+      },
+      {
+        "title": "UNPARALLELED CREATIVITY AND EXPERTISE",
+        "description": "Video Caddy's skilled editors combine technical expertise with boundless creativity to craft tailor-made highlight videos that resonate with all your marketing objectives."
+      },
+      {
+        "title": "SWIFT TURNAROUND TIMES",
+        "description": "Video Caddy comprehends the urgency of timely content distribution. Hence, we have a streamlined process that ensures rapid highlight video delivery without compromising on quality."
+      },
+      {
+        "title": "COMPETITIVE PRICING",
+        "description": "VCD's commitment to delivering high-quality video highlights is matched by our dedication to competitive pricing so that you invest in success without overspending."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "EMPOWERING YOUR MARKETING WITH EXCEPTIONAL HIGHLIGHT VIDEO SERVICES",
+    "description": "Video Caddy crafts captivating highlight videos that boost your content, enhance your reach, and help you stay ahead of the competition. Contact us today to unlock the power of compelling storytelling with our specialized highlight video services!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

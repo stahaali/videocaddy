@@ -1,0 +1,177 @@
+{
+  "slug": "product",
+  "label": "Product Video Editing",
+  "sourceUrl": "https://www.videocaddy.com/product.php",
+  "meta": {
+    "title": "Comprehensive Product Video Editing Services – Video Caddy",
+    "description": "Convert raw product videos into refined, conversion-driven sales assets that are optimized for multiple platforms with our product video editing services. "
+  },
+  "hero": {
+    "title": "AI-Augmented Product Video Editing Services",
+    "subtitle": "Our product video editing services combine AI workflows with human reviews to help e-commerce brands, agencies, and global enterprises create brand-consistent, platform-optimized product videos at scale.",
+    "image": "/assets/images/video-editing/hero/product.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "OUR RECENT CASE STUDIES",
+    "description": "OUR RECENT CASE STUDIES"
+  },
+  "services": [
+    {
+      "title": "Brand and Ecommerce Product Video Editing",
+      "items": [
+        "AI-assisted compression, metadata structuring, and dimension formatting for Shopify, Amazon, and D2C platforms — reviewed by editors before delivery.",
+        "Apply branded intro and outro sequences, Look Up Tables (LUTs), and product highlight animations aligned to your visual identity guidelines.",
+        "Add close-up detailing, zoom transitions, and 360-degree spins to improve buyer confidence and product clarity.",
+        "Create SEO-optimized ecommerce product videos with keyword-rich captions, human-reviewed thumbnails, and platform-specific titles."
+      ],
+      "image": "/assets/images/video-editing/services/product-0.png"
+    },
+    {
+      "title": "UGC and Influencer Product Video Editing Services",
+      "items": [
+        "Advanced trimming and sound balancing convert User Generated Content (UGC) product videos into brand-consistent campaigns.",
+        "Platform-specific aspect ratios are used to optimize videos for TikTok, YouTube, and other platforms.",
+        "On-screen captions, branded overlays, and animated stickers are added to increase engagement.",
+        "Split-screens, audience-focused pacing techniques, and jump cuts are used to increase authenticity."
+      ],
+      "image": "/assets/images/video-editing/services/product-1.png"
+    },
+    {
+      "title": "Product Demo and Instructional Video Editing",
+      "items": [
+        "AI-assisted step sequencing supports the organization of complex product features into guided text callouts, with human editors validating instructional flow and clarity before output.",
+        "Screen capture integration and motion graphics are applied to improve instructional accuracy and viewer comprehension.",
+        "Zoom-ins and spotlighting tools clearly showcase important product features and functions with editor-reviewed precision.",
+        "Clean transitions and structured layouts are used to produce professional, training-ready assets that meet platform and accessibility standards."
+      ],
+      "image": "/assets/images/video-editing/services/product-2.png"
+    },
+    {
+      "title": "Flagship Product Launch Video Editing",
+      "items": [
+        "Build cinematic product launch videos with multi-camera editing and structured pacing techniques designed for high-stakes digital rollouts.",
+        "Apply color-grading, lens flare effects, and high-definition 3D text overlays to deliver a premium, brand-consistent visual impact — each output reviewed against your launch brief.",
+        "Receive campaign-ready product videos optimized for digital rollout timelines, broadcast placements, and event presentations.",
+        "Kinetic typography and dynamic product reveals are applied with editorial oversight to reinforce your campaign narrative and brand positioning."
+      ],
+      "image": "/assets/images/video-editing/services/product-3.png"
+    },
+    {
+      "title": "Product Teasers and Ad Clip Editing",
+      "items": [
+        "Our short-form edits with beat-matched transitions and fast cuts improve your product teasers.",
+        "Particle animations, animated titles, and glitch effects create eye-catching product commercials and ad clips.",
+        "Graphical overlays, animated text highlights, and unique CTA options promote product benefits.",
+        "Format edits for reels, pre-roll ads, and carousel placements improve performance across platforms."
+      ],
+      "image": "/assets/images/video-editing/services/product-4.png"
+    },
+    {
+      "title": "Animated and Explainer Product Video Editing",
+      "items": [
+        "2D/3D animation and character motion are used to create engaging animated product videos .",
+        "Product explainer videos are integrated with vector graphics and data visualization for clear storytelling.",
+        "Branded color palettes, layered graphics, and transitions are added to improve product animations.",
+        "Create explainer video edits with well-synced narratives, adaptive background music, and subtitles."
+      ],
+      "image": "/assets/images/video-editing/services/product-5.png"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Product Video Editing",
+    "items": [
+      {
+        "title": "Enterprise-Grade Product Video Editing Precision",
+        "description": "Our post-production workflow applies multi-camera sync, structured color grading, and frame-level quality review to deliver product videos that maintain branding uniformity across platforms and output formats. AI-assisted quality monitoring tools support consistency checking across large editing batches — with senior editors conducting final review before any asset is cleared for delivery. This layered approach helps reduce rework cycles and supports reliable output quality across enterprise-scale projects."
+      },
+      {
+        "title": "Industry-Specific Editorial Expertise",
+        "description": "Our editing team has hands-on experience across B2B product content, influencer-led campaigns, and e-commerce video formats. This operational depth allows editors to apply appropriate pacing, tone, and structural decisions for each content type — reducing the back-and-forth that typically results from generic editing approaches. AI-assisted style matching tools support format and tone consistency across multi-asset projects, while experienced editors apply contextual judgment to ensure each product video communicates clearly to its intended audience."
+      },
+      {
+        "title": "Platform-Optimized Product Videos",
+        "description": "From Shopify and Amazon to YouTube and TikTok, our product video editing services make platform-specific edits, such as aspect ratios, metadata, and runtimes, to increase discoverability."
+      },
+      {
+        "title": "Integration of Advanced Visual Techniques",
+        "description": "Motion graphics, split screens, 3D typography, and overlays increase product appeal. These effects make your product features instantly understandable, while maintaining aesthetics that reinforce brand positioning."
+      },
+      {
+        "title": "Operational Infrastructure That Supports Volume Management",
+        "description": "Our delivery model is structured to manage high-volume product video editing requirements without compromising output quality or brand consistency. AI-assisted workflow tools support file routing, version tracking, and progress visibility across editing queues — while project leads and senior editors maintain oversight of quality checkpoints and delivery schedules. Secure workflows and structured version management protocols are applied across all engagements to protect asset confidentiality."
+      },
+      {
+        "title": "Structured Editing Methodology Informed by Performance Signals",
+        "description": "Our editorial team applies structured feedback loops informed by viewer engagement patterns, click-through observations, and retention indicators to refine product video structure, pacing, and visual sequencing. AI-assisted review tools support the identification of underperforming cut patterns and formatting inconsistencies — allowing human editors to make targeted adjustments that improve engagement consistency and conversion alignment across your product video assets."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Empower your brand WITH expert video editing services",
+    "description": "Choose Video Caddy, India's premier video editing agency, for a seamless and lucrative outstanding partnership!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you edit raw product demo or explainer footage shot by third parties, such as agencies?",
+      "answer": "Yes. We work with footage from internal teams and collaborative agencies. Our video editors sharpen visions through stabilization, staged workflows, color grading, and sync to deliver professional, campaign-specific product videos."
+    },
+    {
+      "question": "Which types of post-production upgrades are included?",
+      "answer": "Our post-production upgrades include color correction, transitions, audio balancing, text overlays, subtitles, and platform optimization. These upgrades make your product videos cohesive and interesting."
+    },
+    {
+      "question": "How do you accommodate fluctuating or high-volume product video editing projects?",
+      "answer": "Our delivery structure is designed to manage both steady-state and fluctuating product video editing volumes. AI-assisted workflow tools support file queuing, task allocation, and progress tracking across editing teams — reducing manual coordination effort during volume spikes. Project leads monitor delivery schedules and quality checkpoints throughout the engagement, and structured templates and presets help maintain output consistency regardless of volume."
+    },
+    {
+      "question": "How long do you take to complete product video editing projects?",
+      "answer": "Product video editing timelines depend on the quality of footage and the extent of enhancements needed. Basic edits are made quickly, whereas animated explainers and multi-platform campaigns take time. We provide clear schedules in advance to provide clarity."
+    },
+    {
+      "question": "How do you maintain brand consistency in your product video editing projects?",
+      "answer": "Brand consistency is maintained through a combination of structured onboarding, pre-defined style guides, and editorial checkpoints applied at each stage of the editing workflow. At project initiation, your brand guidelines — including color grading references, logo usage standards, typography, and audio specifications — are documented and distributed across the editing team. AI-assisted consistency review tools support frame-level checks for color deviation and overlay alignment across large editing batches, while senior editors conduct final review before delivery to confirm every asset meets your brand standards."
+    }
+  ]
+}

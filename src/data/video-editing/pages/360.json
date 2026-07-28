@@ -1,0 +1,187 @@
+{
+  "slug": "360",
+  "label": "360 Video Editing",
+  "sourceUrl": "https://www.videocaddy.com/360-degree.php",
+  "meta": {
+    "title": "Outsource Top 360 Degree Video Editing Services",
+    "description": "Outsource 360 degree video editing services to create immersive, platform-ready visuals for industries like real estate, hospitality, automotive, and AR/VR."
+  },
+  "hero": {
+    "title": "360 Degree Video Editing Services",
+    "subtitle": "Outsource professional 360 degree video editing services to deliver immersive, conversion-ready visuals: faster, at scale, without the overhead.",
+    "image": "/assets/images/video-editing/hero/360.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "GET STARTED NOW",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "PORTFOLIO",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Outsource professional 360 degree video editing services to deliver immersive, conversion-ready visuals: faster, at scale, without the overhead."
+  ],
+  "servicesHeader": {
+    "title": "Our 360 Degree Video Editing Services",
+    "description": "Our 360° post-production service covers all technical processes, such as stitching, stabilization, color correction, and export. This will keep your team focused on strategy, client work, and creativity, which require your direct involvement."
+  },
+  "services": [
+    {
+      "title": "360-Degree Real Estate and Property Tour Editing",
+      "items": [
+        "We stitch and stabilize multi-camera property footage, removing seam artifacts and correcting panoramic distortion for smooth, uninterrupted indoor and outdoor navigation.",
+        "Our editors handle real estate video editing workflows, including exposure balancing, spatial depth correction, and room-to-room transition refinement.",
+        "We add guided hotspots, directional cues, and subtle motion pacing suited to buyer journeys; all overlay content and annotation decisions remain with your team.",
+        "Deliverables are formatted for MLS platforms, property websites, and interactive tour embeds; export specifications are defined by you, and executed by us."
+      ],
+      "image": "/assets/images/video-editing/services/360-0.webp"
+    },
+    {
+      "title": "360-Degree Hospitality and Tourism Video Editing",
+      "items": [
+        "Our 360 video editing services are designed for resort, hotel, and full-venue tour experiences, delivering natural color reproduction and smooth motion across every scene.",
+        "Pacing of scenes, location labeling, and feature placement are in the hands of our editors; all narrative tone, promotional message, and call-to-action placement is in the hands of your team.",
+        "We fix mixed lighting conditions during 360-degree post-production to remove exposure inconsistencies at the source. This improves visual consistency across indoor-to-outdoor transitions within panoramic sequences.",
+        "Outputs are optimized for OTA platforms, travel booking sites, and social distribution; file specs and delivery formats are determined per your platform requirements and submission guidelines."
+      ],
+      "image": "/assets/images/video-editing/services/360-1.webp"
+    },
+    {
+      "title": "360-Degree Automotive and Product Showcase Editing",
+      "items": [
+        "Our 360 interior and exterior vehicle walkthrough sequences are smooth and powered by precision motion control, dashboard, and feature highlight sequences.",
+        "For high-priced e-commerce products, we use real estate video tour strategies (guided spatial flow, clean transitions, and depth-accurate framing), depending on the product category and intended audience.",
+        "All overlays, product labels, and callouts are applied as per your branding guidelines; full control over placement, copy, and creative direction remains with your team.",
+        "We also upgrade to formats that can be used across dealership microsites, e-commerce product pages, and digital advertising platforms, with compression maximized to enable high-fidelity playback on any target device."
+      ],
+      "image": "/assets/images/video-editing/services/360-2.webp"
+    },
+    {
+      "title": "360-Degree Adventure and Outdoor Experience Editing",
+      "items": [
+        "Our action-heavy 360-degree footage is shot and stabilized for dynamic outdoor situations, removing camera shake, horizon shift, and space-losing motion in panoramic shots.",
+        "Our panoramic video editing program features environmental color grading, contrast correction, and highlight recovery to restore natural depth and vibrancy that can be easily lost in difficult shooting conditions.",
+        "We will manage the raw multi-clip into narrative-driven edits with the intended pacing, focusing on key moments and branded chapter breaks, as determined by your creative team, the story arc, and message.",
+        "We export deliverables to YouTube 360, social media 360 players, and stand-alone experiences; the export settings are configured for the channels you need."
+      ],
+      "image": "/assets/images/video-editing/services/360-3.webp"
+    },
+    {
+      "title": "VR and Training Module 360 Video Post-Production Services",
+      "items": [
+        "We prepare headset-ready content through precise angle correction, equirectangular projection formatting, and depth optimization. It is fully aligned with your virtual reality post-production specifications and target hardware requirements.",
+        "Our VR video editing services cover subtitle integration, directional audio cues, and interactive overlay placement for compliance-grade training modules; instructional content and scenario scripting remain your responsibility.",
+        "We manage multi-camera synchronization, temporal alignment, and stitch-line cleanup across complex training shoots. Technical QA is conducted by our team before any file is submitted for your review.",
+        "Final outputs are delivered in SBS, mono 360, or custom headset-compatible formats; codec selection, resolution targets, and LMS integration requirements are defined and approved by your team."
+      ],
+      "image": "/assets/images/video-editing/services/360-4.webp"
+    },
+    {
+      "title": "360 Video Stitching, Rendering, and Post-Production Cleanup",
+      "items": [
+        "We stitch multi-camera panoramic footage with frame-accurate alignment, correcting seam exposure mismatches, edge blending errors, and ghost artifacts that degrade immersive viewing quality.",
+        "360 video color grading is applied across the entire spherical frame, ensuring perceptual consistency regardless of whether the viewer looks forward, sideways, or directly behind.",
+        "Advanced cleanup, reframing, and export-ready formatting are performed using Final Cut Pro editing and industry-standard workflows; software and toolchain preferences outside our stack are factored into project scoping.",
+        "We manage rendering queues, output format compliance, and technical delivery specs. Your team handles master file storage, client distribution approvals, and any downstream platform submission requirements."
+      ],
+      "image": "/assets/images/video-editing/services/360-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our 360 Video Editing",
+    "items": [
+      {
+        "title": "Technically Accurate Spatial Editing",
+        "description": "Every stitch, blend, and reframe is executed for accurate depth and distortion-free spherical playback across all viewing platforms."
+      },
+      {
+        "title": "Consistent Quality Across Every Frame",
+        "description": "We balance color, exposure, and lighting across all environments, including interior, exterior, and transitional scenes, with no frame-to-frame inconsistency."
+      },
+      {
+        "title": "Scalable Capacity Without Overhead",
+        "description": "We absorb high-volume editing load without you having to hire, train, or manage additional staff; your operational costs stay fixed as output scales."
+      },
+      {
+        "title": "Industry-Specific Expertise Across Key Verticals",
+        "description": "Our editors understand real estate, hospitality, automotive, and VR workflows; hence, we ensure that industry context is built into every editing decision rather than retrofitted."
+      },
+      {
+        "title": "Structured Turnaround with Predictable Delivery",
+        "description": "Defined project workflows and milestone-based QA ensure your footage moves from raw upload to final render on time, every time."
+      },
+      {
+        "title": "White-Label Ready for Agencies and Studios",
+        "description": "We are an unobtrusive cultivation collaborator, offering brand-agnostic documents to your agency that are shown straight to customers without friction."
+      },
+      {
+        "title": "Pilot Before Long-Term Commitment",
+        "description": "Pilot projects enable you to evaluate our interaction with your editors and our turnaround metrics on a real project first, before you agree to any further engagement."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "placement": "afterStories",
+    "title": "Get Immersive, High-Converting 360° Visuals, Delivered at Scale.",
+    "description": [
+      "In a world where your business relies on immersive visual content to generate a booking, a listing, or a sales conversion, 360 degree video editing services by professional videographers are no longer a luxury. They are a competitive requirement. Video Caddy gives you the post-production infrastructure to match.",
+      "Our structured workflows, experienced editors, and industry-specific expertise include everything from a single pilot project to ongoing high-volume production. These make us the right long-term partner for scalable 360 video editing.",
+      "Get in touch with us to negotiate the volume, schedules, and pricing; let's scope your first project together."
+    ],
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudiesSection": {
+    "eyebrow": "SUCCESS STORIES",
+    "title": "Case Studies",
+    "viewAll": { "label": "View all", "href": "/portfolio" }
+  },
+  "caseStudies": [
+    {
+      "variant": "white",
+      "title": "Frame-by-Frame 360° Wedding Video Editing for a Belgian Videographer",
+      "description": "A professional videographer in Belgium needed a complex 360° wedding video edited frame-by-frame without losing any key scenes. Video Caddy assembled a dedicated team and used AutoPanoVideoPro for precision stitching, delivering the final cut on time and within budget.",
+      "href": "/portfolio"
+    },
+    {
+      "variant": "middle",
+      "title": "3D Animation and VR Visualization for an Oil & Gas Training Institution",
+      "description": "A petroleum industry training firm needed 20 detailed 3D animations per month. Video Caddy deployed a team of 5 animators, integrated multi-stage QA, and delivered accurate, high-render animations using 3DS Max and Maya.",
+      "href": "/portfolio"
+    },
+    {
+      "variant": "white",
+      "title": "Destination Content Video Editing for a US-Based Travel and Tourism Company",
+      "description": "A US-based travel software company needed 20+ long-form destination videos edited monthly, with consistent brand quality, defined review cycles, and on-time delivery. Video Caddy implemented a governed editorial model with a dedicated team, resulting in a 60%+ reduction in internal workload and improved turnaround predictability.",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How does outsourcing 360-degree video editing save costs compared to maintaining an in-house team?",
+      "answer": "When you outsource 360-degree video editing, you skip salaries, software licenses, hardware, and training costs entirely. You pay only for what you need. Most clients save 40–60% compared to running an equivalent in-house 360 video editing team."
+    },
+    {
+      "question": "Can your team handle large-volume 360-degree video editing projects with consistent turnaround times?",
+      "answer": "Yes, we can. We assign dedicated editors per project. Delivery timelines, review cycles, and volume targets are defined upfront. We've consistently managed multiple long-form video deliveries monthly without quality trade-offs."
+    },
+    {
+      "question": "Do you offer white-label 360 degree video editing services for production companies and marketing agencies?",
+      "answer": "Yes, absolutely. We work as a silent production partner. Deliverables do not carry Video Caddy branding. NDAs are standard. Your clients see only your agency's name on every file we deliver."
+    },
+    {
+      "question": "Which industries do you specialize in for 360-degree video editing, and do you have relevant portfolio examples?",
+      "answer": "We specialize in real estate, hospitality, automotive, e-commerce, and VR training. Each vertical has documented case studies. Portfolio samples and sector-specific examples are shared during the project scoping call."
+    },
+    {
+      "question": "Can we start with a trial project before committing to ongoing 360-degree video editing work?",
+      "answer": "Yes, and we encourage pilot projects to evaluate our 360 degree video editing services. Send us a real project. We will edit it to your actual specs. You can evaluate quality, speed, and communication firsthand."
+    }
+  ]
+}

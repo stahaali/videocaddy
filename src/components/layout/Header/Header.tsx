@@ -14,11 +14,37 @@ export default function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
+  const [menuLeft, setMenuLeft] = useState(0);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const megaAnchorRef = useRef<HTMLDivElement>(null);
+  const closeTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  const dropdownNavItems = headerMegaNav.filter((item) => item.hasDropdown);
-  const activeDropdownItem = dropdownNavItems.find((item) => item.label === activeDropdown);
-  const megaMenuAnchorLabel = dropdownNavItems[0]?.label;
+  const activeDropdownItem = headerMegaNav.find(
+    (item) => item.hasDropdown && item.label === activeDropdown
+  );
+  const megaMenuAnchorLabel = headerMegaNav.find((item) => item.hasDropdown)?.label;
+  const showMegaMenu =
+    Boolean(activeDropdownItem?.columns) && (activeDropdownItem?.columns?.length ?? 0) > 0;
+
+  const clearCloseTimer = () => {
+    if (closeTimerRef.current) {
+      clearTimeout(closeTimerRef.current);
+      closeTimerRef.current = null;
+    }
+  };
+
+  const openDropdown = (label: string) => {
+    clearCloseTimer();
+    setActiveDropdown(label);
+  };
+
+  const scheduleCloseDropdown = () => {
+    clearCloseTimer();
+    closeTimerRef.current = setTimeout(() => {
+      setActiveDropdown(null);
+      closeTimerRef.current = null;
+    }, 180);
+  };
 
   useEffect(() => {
     const handleScroll = () => setScrolled(window.scrollY > 50);
@@ -33,37 +59,59 @@ export default function Header() {
     };
   }, [menuOpen]);
 
+  useEffect(() => {
+    const updateMenuLeft = () => {
+      if (!megaAnchorRef.current) return;
+      setMenuLeft(megaAnchorRef.current.getBoundingClientRect().left);
+    };
+
+    updateMenuLeft();
+    window.addEventListener("resize", updateMenuLeft);
+    return () => window.removeEventListener("resize", updateMenuLeft);
+  }, [showMegaMenu, activeDropdown]);
+
+  useEffect(() => {
+    return () => clearCloseTimer();
+  }, []);
+
   return (
     <>
       <header
         className={cn(
-          "fixed top-0 right-0 left-0 z-[1000] overflow-visible bg-black transition-shadow",
+          "fixed top-0 right-0 left-0 z-[9999] overflow-visible bg-black transition-shadow",
           scrolled && "shadow-[0_4px_24px_rgba(0,0,0,0.6)]"
         )}
-        onMouseLeave={() => setActiveDropdown(null)}
+        onMouseEnter={clearCloseTimer}
+        onMouseLeave={scheduleCloseDropdown}
       >
-        <div className="h-[88px] border-b border-white/[0.08]">
-          <Container className="h-full">
-            <div className="flex h-full items-center justify-between gap-4">
+        <div className="relative z-[1000] h-[88px] overflow-visible border-b border-white/[0.08]">
+          <Container className="h-full overflow-visible">
+            <div className="relative flex h-full items-center justify-between gap-4 overflow-visible">
               <Link href="/" className="shrink-0 hover:opacity-85" aria-label="Video Caddy Home">
                 <Image
                   src={assets.logo}
                   alt="Video Caddy"
                   width={219}
                   height={40}
-                  className="h-10 w-auto max-w-[219px]"
+                  className="h-8 w-auto max-w-[160px] min-[576px]:h-9 min-[576px]:max-w-[190px] min-[768px]:h-10 min-[768px]:max-w-[219px]"
                   priority
                 />
               </Link>
 
-              <nav className={cn("header-main-nav hidden flex-1 items-stretch justify-center gap-1 xl:flex", styles.mainNav)} aria-label="Main navigation">
+              <nav
+                className={cn(
+                  "header-main-nav hidden flex-1 items-stretch justify-center gap-1 min-[1024px]:flex",
+                  styles.mainNav
+                )}
+                aria-label="Main navigation"
+              >
                 {headerMegaNav.map((item) => (
                   <div
                     key={item.label}
+                    ref={item.label === megaMenuAnchorLabel ? megaAnchorRef : undefined}
                     className={styles.navItem}
                     onMouseEnter={() => {
-                      if (item.hasDropdown) setActiveDropdown(item.label);
-                      else setActiveDropdown(null);
+                      if (item.hasDropdown) openDropdown(item.label);
                     }}
                   >
                     <Link
@@ -80,32 +128,12 @@ export default function Header() {
                         <i className="my-icon icon-arrow-bottom nav-caret" aria-hidden="true" />
                       )}
                     </Link>
-
-                    {item.label === megaMenuAnchorLabel && activeDropdownItem?.columns && (
-                      <div className={styles.megaMenu}>
-                        <div className={styles.megaMenuGrid}>
-                          {activeDropdownItem.columns.map((column, colIndex) => (
-                            <div key={colIndex} className={styles.megaMenuColumn}>
-                              <ul className={styles.megaMenuList}>
-                                {column.links.map((link) => (
-                                  <li key={link.label}>
-                                    <Link href={link.href} className={styles.megaMenuLink}>
-                                      {link.label}
-                                    </Link>
-                                  </li>
-                                ))}
-                              </ul>
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-                    )}
                   </div>
                 ))}
               </nav>
 
               <div className="flex shrink-0 items-center gap-4">
-                <div className={cn(styles.menuAreaRightContent, "hidden md:inline-flex")}>
+                <div className={cn(styles.menuAreaRightContent, "hidden min-[768px]:inline-flex")}>
                   <div className={styles.highlight}>
                     <a
                       href={`tel:${contactInfo.phone}`}
@@ -118,7 +146,7 @@ export default function Header() {
                     </a>
                   </div>
                 </div>
-                <div className={cn(styles.searchWrap, "hidden xl:flex")}>
+                <div className={cn(styles.searchWrap, "hidden min-[1024px]:flex")}>
                   <input
                     ref={searchInputRef}
                     type="search"
@@ -139,7 +167,7 @@ export default function Header() {
                 </div>
                 <button
                   type="button"
-                  className="flex h-8 w-8 flex-col justify-center gap-1.5 p-1 xl:hidden"
+                  className="flex h-8 w-8 flex-col justify-center gap-1.5 p-1 min-[1024px]:hidden"
                   onClick={() => setMenuOpen(!menuOpen)}
                   aria-label={menuOpen ? "Close menu" : "Open menu"}
                   aria-expanded={menuOpen}
@@ -162,6 +190,28 @@ export default function Header() {
             </div>
           </Container>
         </div>
+
+        {showMegaMenu && activeDropdownItem?.columns ? (
+          <div className={styles.megaMenuLayer}>
+            <div className={styles.megaMenu} style={{ left: menuLeft }}>
+              <div className={styles.megaMenuGrid}>
+                {activeDropdownItem.columns.map((column, colIndex) => (
+                  <div key={colIndex} className={styles.megaMenuColumn}>
+                    <ul className={styles.megaMenuList}>
+                      {column.links.map((link) => (
+                        <li key={link.label}>
+                          <Link href={link.href} className={styles.megaMenuLink}>
+                            {link.label}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        ) : null}
       </header>
       <MobileMenu isOpen={menuOpen} onClose={() => setMenuOpen(false)} />
     </>

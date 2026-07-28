@@ -1,0 +1,251 @@
+.banner {
+  position: relative;
+  z-index: 0;
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background: url("/assets/images/service-main-bg.webp") center / cover no-repeat;
+  font-family: var(--font-hero);
+  color: #d7d7d7;
+  overflow: hidden;
+}
+
+.bannerSsPage {
+  padding-bottom: 48px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #000;
+}
+
+.bannerSsPage .text h1,
+.bannerSsPage .text p {
+  color: #000;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: -12px;
+  margin-left: -12px;
+}
+
+.col {
+  position: relative;
+  z-index: 0;
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.text h1 {
+  margin: 0;
+  padding-bottom: 12px;
+  font-family: var(--font-hero);
+  font-size: 34px;
+  font-weight: normal;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #d7d7d7;
+  word-break: break-word;
+}
+
+.text h1 span {
+  font-size: 22px;
+}
+
+.text p {
+  margin: 0 0 28px;
+  max-width: 540px;
+  font-family: var(--font-hero);
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 24px;
+  color: #d7d7d7;
+  letter-spacing: normal;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.buttons :global(.btn-all) {
+  color: #fff;
+}
+
+.bannerSsPage .buttons :global(.btn-all:hover),
+.bannerSsPage .buttons :global(a.btn-all.dark-btn:hover) {
+  color: #fff !important;
+}
+
+.videoSection {
+  width: 100%;
+}
+
+.videoWrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.bannerImage {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.col + .col {
+  margin-top: 32px;
+}
+
+/* 576px — large phones */
+@media (min-width: 576px) {
+  .banner {
+    padding-top: 128px;
+    padding-bottom: 64px;
+  }
+
+  .text h1 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .text h1 span {
+    font-size: 26px;
+  }
+
+  .text p {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+}
+
+/* 768px — tablets */
+@media (min-width: 768px) {
+  .banner {
+    padding-top: 140px;
+    padding-bottom: 72px;
+  }
+
+  .bannerSsPage {
+    padding-bottom: 56px;
+  }
+
+  .text h1 {
+    font-size: 48px;
+    line-height: 52px;
+    padding-bottom: 14px;
+  }
+
+  .text h1 span {
+    font-size: 28px;
+  }
+
+  .text p {
+    margin-bottom: 32px;
+    font-size: 17px;
+    line-height: 26px;
+  }
+
+  .buttons {
+    gap: 12px;
+  }
+
+  .col + .col {
+    margin-top: 40px;
+  }
+}
+
+/* 992px — small desktop / landscape tablet: 2-col */
+@media (min-width: 992px) {
+  .banner {
+    padding-top: 160px;
+    padding-bottom: 90px;
+  }
+
+  .bannerSsPage {
+    padding-bottom: 64px;
+  }
+
+  .col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  .col + .col {
+    margin-top: 0;
+  }
+
+  .text h1 {
+    font-size: 52px;
+    line-height: 56px;
+  }
+
+  .text h1 span {
+    font-size: 30px;
+  }
+
+  .text p {
+    margin-bottom: 40px;
+    font-size: 17px;
+    line-height: 26px;
+  }
+}
+
+/* 1024px — desktop nav breakpoint */
+@media (min-width: 1024px) {
+  .banner {
+    padding-top: 170px;
+    padding-bottom: 100px;
+  }
+
+  .bannerSsPage {
+    padding-bottom: 70px;
+  }
+
+  .text h1 {
+    font-size: 58px;
+    line-height: 60px;
+  }
+
+  .text h1 span {
+    font-size: 32px;
+  }
+
+  .text p {
+    margin-bottom: 44px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+/* 1366px — large desktop */
+@media (min-width: 1366px) {
+  .banner {
+    padding-top: 180px;
+    padding-bottom: 120px;
+  }
+
+  .bannerSsPage {
+    padding-bottom: 75px;
+  }
+
+  .text h1 {
+    font-size: 75px;
+    line-height: 65px;
+    padding-bottom: 15px;
+  }
+
+  .text h1 span {
+    font-size: 35px;
+  }
+
+  .text p {
+    margin-bottom: 50px;
+    font-size: 20px;
+    line-height: 29px;
+  }
+}

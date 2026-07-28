@@ -1,0 +1,112 @@
+{
+  "slug": "premiere-pro",
+  "label": "Premiere Pro Editing",
+  "sourceUrl": "https://www.videocaddy.com/premiere-pro-editing.php",
+  "meta": {
+    "title": "Exclusive Video Editing with Adobe Premiere Pro",
+    "description": "Video Caddy offers exclusive video editing services with Adobe Premiere Pro software. Our editing expertise using Mac systems are second to none."
+  },
+  "hero": {
+    "title": "ADOBE PREMIERE PRO",
+    "subtitle": "Video Caddy's vast editing experience with Adobe Premiere Pro ensures your business—large or small—receives the highest quality video editing services. We cater to video production houses and videographers, offering professional Premiere Pro editing to complement your business and deliver high-quality edits with a quick turnaround.",
+    "image": "/assets/images/video-editing/hero/premiere-pro.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": { "label": "Get Started Now", "href": "/contact" },
+    "secondaryCta": { "label": "Portfolio", "href": "/portfolio" }
+  },
+  "intro": [
+    "Adobe Premiere Pro was rebuilt to meet the needs of today's video editors to produce professional products and features. Some key features of the Premiere Pro editing software include the capabilities below."
+  ],
+  "servicesHeader": {
+    "title": "ADOBE PREMIERE PRO PRODUCTS AND FEATURES",
+    "description": "Video Caddy offers professional Premiere Pro editing powered by industry workflows for production houses and videographers."
+  },
+  "services": [
+    {
+      "title": "Audio Clip Mixer",
+      "items": [
+        "Audio Clip Mixer adjusts sound clips for more precision and robust audio production, giving the client the highest quality videos."
+      ]
+    },
+    {
+      "title": "Cloud Collaboration",
+      "items": [
+        "Using the cloud means products can be uploaded for instant access to clients located anywhere for real-time feedback and progress reports."
+      ]
+    },
+    {
+      "title": "Timeline Efficiency",
+      "items": [
+        "Timeline allows more efficient editing using intuitive track targeting and shortcuts, providing faster turnaround time on a finished product."
+      ]
+    },
+    {
+      "title": "Multi-cam Editing",
+      "items": [
+        "Multi-cam edits are performed with a streamlined workflow, offering several views of a scene to tell the product story using multiple shots."
+      ]
+    },
+    {
+      "title": "Cross-platform Compatibility",
+      "items": [
+        "Cross-platform compatibility with Apple software speeds up the editing process without spending time converting clips enabling fast turnaround."
+      ]
+    },
+    {
+      "title": "Photoshop Integration",
+      "items": [
+        "Adobe Photoshop files can be opened directly from the video editing software to be edited in Photoshop, allowing clients ease of accessibility."
+      ]
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Premiere Pro Editing with Video Caddy",
+    "items": [
+      {
+        "title": "Production-House Ready Workflows",
+        "description": "Editors follow Premiere Pro timelines, shared project structures, and review cycles designed for production studios and videographers."
+      },
+      {
+        "title": "Fast Turnaround Without Quality Loss",
+        "description": "Track targeting, multi-cam workflows, and cloud collaboration keep delivery timelines tight while maintaining professional polish."
+      },
+      {
+        "title": "Audio and Visual Precision",
+        "description": "Audio Clip Mixer refinements and color-consistent cuts ensure finished videos meet client and platform standards."
+      },
+      {
+        "title": "Cross-Tool Continuity",
+        "description": "Projects move smoothly across Premiere Pro, Photoshop, and Apple ecosystems without unnecessary format conversion delays."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "EXCLUSIVE VIDEO EDITING WITH ADOBE PREMIERE PRO",
+    "description": "Leverage the diverse video editing experience of the Video Caddy team with the software perks of Adobe Premiere Pro. Contact us today to access our exclusive video editing services with Adobe Premiere Pro!",
+    "cta": { "label": "Contact Us", "href": "/contact" }
+  },
+  "caseStudies": [
+    { "title": "Culinary Video Editing for Popular French Club of Chefs", "href": "/portfolio" },
+    { "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video", "href": "/portfolio" },
+    { "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio", "href": "/portfolio" },
+    { "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment", "href": "/portfolio" },
+    { "title": "Breathing Life into Characters through Character Animation and Storyboarding", "href": "/portfolio" },
+    { "title": "French Translation Company Received an Artistic Storyboard of Their Original Script", "href": "/portfolio" }
+  ],
+  "faqs": [
+    {
+      "question": "What Premiere Pro editing services does Video Caddy provide?",
+      "answer": "We provide professional timeline editing, multi-cam assembly, audio mixing, color refinement, graphics integration, and delivery-ready exports using Adobe Premiere Pro."
+    },
+    {
+      "question": "Can production houses outsource Premiere Pro projects to Video Caddy?",
+      "answer": "Yes. Production houses and videographers routinely outsource Premiere Pro editing for overflow capacity, faster turnaround, and consistent quality across recurring deliverables."
+    },
+    {
+      "question": "How are Premiere Pro projects reviewed and delivered?",
+      "answer": "Projects move through structured review cycles with cloud-friendly collaboration, version control, and final exports formatted for your distribution channels."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "sales-pitch",
+  "label": "Sale Pitch Video Editing",
+  "sourceUrl": "https://www.videocaddy.com/sales-pitch-video-editing.php",
+  "meta": {
+    "title": "Sales Pitch Video Editing Services",
+    "description": "Create an effective sales pitch by enhancing the audio, adding 360° effects, transitions, and title animations with Video Caddy’s sales pitch video editing."
+  },
+  "hero": {
+    "title": "AI-Enabled Sales Pitch Video Editing Services",
+    "subtitle": "Video Caddy's sales pitch video editing services combine AI-assisted editing workflows with expert human reviews for post-production, delivering refined, brand-aligned sales videos with greater consistency. Our editing process is structured to address production challenges, eliminate revision cycles, and support clear visual storytelling across formats and platforms.",
+    "image": "/assets/images/video-editing/hero/sales-pitch.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "VIDEO CADDY OFFERS",
+    "description": "VIDEO CADDY OFFERS"
+  },
+  "services": [
+    {
+      "title": "CORPORATE PRESENTATION SERVICE",
+      "items": [
+        "Video Caddy supports corporate sales teams with structured video editing across multiple sales pitch formats, including Twitter-style, One-Line, The Question, The Pixar, and other scenario-specific formats. Each format is edited with platform context and audience intent in mind, helping ensure that the final output aligns with the sales conversation it is designed to support. Our editing team applies format-specific guidelines reviewed at each production stage to reduce inconsistency across deliverables."
+      ],
+      "image": "/assets/images/video-editing/services/sales-pitch-0.webp"
+    },
+    {
+      "title": "NOISE REDUCTION AND AUDIO EDITING",
+      "items": [
+        "Video Caddy applies AI-assisted audio processing tools supported by human audio editors to identify and reduce unwanted noise that lowers the perceived quality of sales pitch recordings. Our audio editing workflow includes voice enhancement, sound effect insertion, EQ, compression, and audio filtering — each reviewed by an experienced audio editor before delivery. This combined approach helps reduce manual correction cycles while maintaining audio quality standards across varying source file conditions."
+      ],
+      "image": "/assets/images/video-editing/services/sales-pitch-1.webp"
+    },
+    {
+      "title": "MULTILINGUAL AUDIO VIDEO SYNC",
+      "items": [
+        "Video Caddy's multilingual audio-video sync service supports businesses looking to extend the reach of their sales content across language markets. Our workflow includes AI-assisted alignment of voice to visual timelines, followed by human editor review for lip-sync accuracy, dubbing consistency, and overall presentation quality. This process helps reduce manual sync time while ensuring the final multilingual output meets the quality expectations of a professional sales environment."
+      ],
+      "image": "/assets/images/video-editing/services/sales-pitch-2.webp"
+    },
+    {
+      "title": "TITLE ANIMATION SERVICE",
+      "items": [
+        "VCD provides unlimited artistic title animation options to suit everything from minimalistic to over-the-top styles. Includes 3D text, diagonally sliding text, duration control, fast transitions, color, and more."
+      ],
+      "image": "/assets/images/video-editing/services/sales-pitch-3.webp"
+    },
+    {
+      "title": "VIDEO STITCHING SERVICE",
+      "items": [
+        "Video Caddy's video stitching service supports production teams working with multi-source footage, including field-of-view challenges, 360° perspective creation, and multi-clip merging. Our editing workflow includes AI-assisted clip sequencing support to reduce manual arrangement time, with human editors overseeing transitions, rendering quality, and final visual consistency before each deliverable is approved for output."
+      ],
+      "image": "/assets/images/video-editing/services/sales-pitch-4.webp"
+    },
+    {
+      "title": "MULTI-CAM EDITING",
+      "items": [
+        "Video Caddy provides multi-camera editing support for sales pitch productions requiring synchronized shot sequencing, clip alignment, and camera angle management across a single scene. Our multi-cam editing workflow incorporates AI-assisted synchronization tools to reduce manual alignment effort, supported by experienced editors who review cut consistency and sequence integrity throughout the production process."
+      ],
+      "image": "/assets/images/video-editing/services/sales-pitch-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Sale Pitch Video Editing",
+    "items": [
+      {
+        "title": "HIGH-QUALITY SALES VIDEOS",
+        "description": "Video Caddy applies structured editing workflows, supported by AI-assisted quality monitoring, to help improve the visual and audio consistency of each sales video. Human editors conduct reviews at defined production checkpoints to ensure the output meets agreed quality parameters before delivery."
+      },
+      {
+        "title": "CUSTOM VIDEOS FROM MULTIPLE CLIPS",
+        "description": "Video Caddy's editing team supports businesses in consolidating footage from multiple corporate events into a single, cohesive sales pitch video. Our workflow includes AI-assisted clip review to identify usable segments across source files, followed by human-led editing to ensure narrative flow, brand alignment, and output quality meet delivery standards."
+      },
+      {
+        "title": "ADHERENCE TO THE BRAND GUIDELINES",
+        "description": "Video Caddy's editing team works from client-provided brand guidelines, incorporating approved visual elements, typography, colour references, and tone of voice into each sales video deliverable. Our review process includes a brand compliance check at the editing stage to help reduce the likelihood of off-brand outputs reaching the client for final approval."
+      },
+      {
+        "title": "SALES VIDEO PRESENTATIONS",
+        "description": "VCD also helps in creating video presentations by editing the video messages along with other stats/charts/graphs provided by the client."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "WITH VIDEO CADDY, CREATE AN EFFECTIVE SALES PITCH VIDEO",
+    "description": "If your team is managing high volumes of sales video production, dealing with inconsistent output quality, or looking for a structured editing partner with clear delivery and review processes, Video Caddy's sales pitch video editing team is ready to assess your requirements. Speak with our delivery team to discuss project scope, format needs, and workflow expectations before committing to a production engagement.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "cutout",
+  "label": "Cutout Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/cutout-animation.php",
+  "meta": {
+    "title": "Cutout Animation Services",
+    "description": "Video Caddy offers customized cutout animation as part of a stop-motion animation service for advertisement, training, or product awareness campaigns."
+  },
+  "hero": {
+    "title": "CUTOUT ANIMATION SERVICES",
+    "subtitle": "Video Caddy (VCD) offers creative cutout animation services for product promotions, training videos, and awareness creatives. With custom-created 2D characters, props, and scenes, our cutout animations present your message effectively for result-oriented marketing campaigns.",
+    "image": "/assets/images/animation/hero/cutout.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Video Caddy (VCD) offers creative cutout animation services for product promotions, training videos, and awareness creatives. With custom-created 2D characters, props, and scenes, our cutout animations present your message effectively for result-oriented marketing campaigns."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "FULL SCRIPT DEVELOPMENT",
+      "items": [
+        "Transform your marketing message into a compelling script with our experienced writing team."
+      ],
+      "image": "/assets/images/animation/services/cutout-0.webp"
+    },
+    {
+      "title": "PROFESSIONAL STORYBOARDING",
+      "items": [
+        "From script to storyboard, we detail essential aspects of your animation, such as angles and transitions."
+      ],
+      "image": "/assets/images/animation/services/cutout-1.webp"
+    },
+    {
+      "title": "VOICEOVER AND EDITING",
+      "items": [
+        "VCD’s talented voice actors, including a multilingual team, add a distinct flavor to your animations."
+      ],
+      "image": "/assets/images/animation/services/cutout-2.webp"
+    },
+    {
+      "title": "ANIMATION AUDIO",
+      "items": [
+        "Our animators employ top-tier animation tools to create cutout animations with crystal-clear audio effects."
+      ],
+      "image": "/assets/images/animation/services/cutout-3.webp"
+    },
+    {
+      "title": "VFX SERVICES",
+      "items": [
+        "Experience breathtaking sequences as VCD’s skilled team merges stop-motion animation with digital design"
+      ],
+      "image": "/assets/images/animation/services/cutout-4.webp"
+    },
+    {
+      "title": "CHARACTER CREATION",
+      "items": [
+        "Our team crafts unique character models with our sophisticated animation techniques to narrate your brand story."
+      ],
+      "image": "/assets/images/animation/services/cutout-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Cutout Animation",
+    "image": "/assets/images/animation/why/cutout.webp",
+    "items": [
+      {
+        "title": "SAVES YOU TIME & MONEY",
+        "description": "Outsourcing cutout animation to VCD saves time and money, assuring affordable pricing and quick turnarounds."
+      },
+      {
+        "title": "SIMPLIFY PRODUCT DEMOS ILLUSTRATION AND TRAINING EASIER",
+        "description": "Effectively demonstrate product use with customized illustrations and training programs using easy-to-understand animations."
+      },
+      {
+        "title": "EFFECTIVE MEDIUM",
+        "description": "Maximize impact and motivate consumers to take action by evoking an emotional response with impactful cutout animation layouts."
+      },
+      {
+        "title": "CREATIVE INTERACTIVE VIDEOS",
+        "description": "Amplify brand impact with interactive explainer videos using cutout animations for your products and services."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "PARTNER WITH THE CUTOUT ANIMATION SPECIALISTS TO CREATE EFFECTIVE CAMPAIGNS",
+    "description": "Transform your ideas into reality with Video Caddy's top-tier Cutout Animation services. Contact us today to turn your ideas into creative cutout animations with our VCD’s expert animator team!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

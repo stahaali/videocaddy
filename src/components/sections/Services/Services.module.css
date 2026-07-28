@@ -28,6 +28,12 @@
   }
 }
 
+@media (min-width: 1024px) {
+  .grid {
+    gap: 24px;
+  }
+}
+
 @media (min-width: 1080px) {
   .contentBox {
     padding: 45px 10px 44px 50px;

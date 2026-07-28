@@ -1,0 +1,102 @@
+{
+  "slug": "stabilizing",
+  "label": "Video Stabilizing",
+  "sourceUrl": "https://www.videocaddy.com/stabilizing-services.php",
+  "meta": {
+    "title": "Outsource Video Stabilizing Services",
+    "description": "Video Stabilizing Service from a top outsourcing video editing company in India with creative after effects for video editors removing video imperfections."
+  },
+  "hero": {
+    "title": "VIDEO STABILIZING SERVICES",
+    "subtitle": "Video Caddy introduces new video stabilizing services to complement our existing extensive collection of video editing services.",
+    "image": "/assets/images/video-editing/hero/stabilizing.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "VIDEO CADDY OFFERS",
+    "description": "VIDEO CADDY OFFERS"
+  },
+  "services": [
+    {
+      "title": "SMOOTH MOTION",
+      "items": [
+        "While retaining the \"look and feel\" of the original camera movement, Video Caddy can make your final video appear much smoother."
+      ],
+      "image": "/assets/images/video-editing/services/stabilizing-0.webp"
+    },
+    {
+      "title": "NO MOTION",
+      "items": [
+        "This involves removing all camera motion from the shot, often when some of the main object stays within the frame for the entire range being edited."
+      ],
+      "image": "/assets/images/video-editing/services/stabilizing-1.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Video Stabilizing",
+    "items": [
+      {
+        "title": "TEAM AND EXPERTISE",
+        "description": "Video Caddy is proud of our entire team — video operators have at least three years of experience and team supervisors have more than a decade of expertise to help them guide their team."
+      },
+      {
+        "title": "QUALITY",
+        "description": "Video Caddy believes that you should never be asked to sacrifice quality when it comes to your creative videos. We always offer better quality and a faster turnaround while helping you to save money at the same time."
+      },
+      {
+        "title": "SKILLED WORKFORCE",
+        "description": "When Video Caddy is working exclusively for one client, full-time equivalent (FTE) pricing assures staffing for video editing needs at the best price. With indefinite volumes of work, hourly pricing often works best for individuals and videographers."
+      },
+      {
+        "title": "OUTSOURCING YOUR WAY TO BETTER VIDEOS",
+        "description": "High-quality outsourcing is our secret to success with video stabilization services and other specialized video editing services — without hiring any new employees, you can get your video projects completed more quickly and cost-effectively. Contact Video Caddy today to get started."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "PARTNER WITH INDIA’S LEADING VIDEO STABILIZING AGENCY",
+    "description": "We have been a market leader in helping customers create cost-effective videos for more than a decade. As always, Video Caddy offers flexible pricing that allows busy videographers and video production companies to get their video jobs finished in an affordable price while also improving quality of the end product.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

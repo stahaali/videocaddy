@@ -1,0 +1,133 @@
+{
+  "slug": "testimonial",
+  "label": "Testimonial Video Editing",
+  "sourceUrl": "https://www.videocaddy.com/testimonial-video-editing.php",
+  "meta": {
+    "title": "Testimonial Video Editing Services",
+    "description": "Video Caddy delivers the best in testimonial video editing services. Contact us via our website to get your project up and running as soon as possible"
+  },
+  "hero": {
+    "title": "Testimonial Video Editing Services — AI-Augmented, Human-Governed Delivery",
+    "subtitle": "Video Caddy's testimonial video editing services combine AI-assisted workflow processing with human editorial oversight to help businesses produce consistent, brand-aligned testimonial videos — on time and within defined quality standards.",
+    "image": "/assets/images/video-editing/hero/testimonial.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Video Caddy's testimonial video editing services combine AI-assisted workflow processing with human editorial oversight to help businesses produce consistent, brand-aligned testimonial videos — on time and within defined quality standards."
+  ],
+  "servicesHeader": {
+    "title": "VIDEO CADDY OFFERS",
+    "description": "VIDEO CADDY OFFERS"
+  },
+  "services": [
+    {
+      "title": "STRATEGIC PLANNING",
+      "items": [
+        "Our experienced video editing team evaluates your raw testimonial footage alongside your campaign objectives to establish a structured editing plan. AI-assisted content analysis supports initial footage assessment, helping editors identify the strongest testimonial segments before human editorial review and final planning decisions are made."
+      ],
+      "image": "/assets/images/video-editing/services/testimonial-0.webp"
+    },
+    {
+      "title": "NARRATIVE BUILDING",
+      "items": [
+        "Our editors structure your client testimonials into a coherent, brand-aligned narrative that communicates your business values and service delivery. AI-assisted transcript review supports the identification of key themes and recurring sentiment patterns across testimonial recordings, allowing human editors to prioritize the most impactful client statements and shape a storyline consistent with your brand positioning."
+      ],
+      "image": "/assets/images/video-editing/services/testimonial-1.webp"
+    },
+    {
+      "title": "POST-PRODUCTION",
+      "items": [
+        "We offer advanced post-production capabilities, enabling the addition of animations, text, and other graphical elements. We insert your brand identity into your testimonial videos to harness the power of your client’s enthusiasm."
+      ],
+      "image": "/assets/images/video-editing/services/testimonial-2.webp"
+    },
+    {
+      "title": "MARKETING ALIGNMENT",
+      "items": [
+        "Our editors produce testimonial videos structured to support your marketing distribution requirements — including format specifications for landing pages, social media channels, and sales enablement materials. Edited deliverables are reviewed for platform-specific technical standards, with AI-assisted output checks supporting compliance with resolution, aspect ratio, and file format requirements before human editorial sign-off."
+      ],
+      "image": "/assets/images/video-editing/services/testimonial-3.webp"
+    },
+    {
+      "title": "FEEDBACK INTEGRATION",
+      "items": [
+        "Our editors incorporate client-provided feedback, brand guidelines, and supporting reference materials throughout the editing process. AI-assisted version tracking supports the management of revision cycles, helping editors maintain consistency across multiple feedback rounds and reducing the risk of conflicting edits reaching the final delivery stage."
+      ],
+      "image": "/assets/images/video-editing/services/testimonial-4.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Testimonial Video Editing",
+    "items": [
+      {
+        "title": "DATA PROTECTION",
+        "description": "Video Caddy maintains defined data handling protocols for all testimonial footage, raw files, and project assets processed within our editing workflows. Access controls, file transfer protocols, and project confidentiality standards are applied across both AI-assisted processing stages and human editorial review to protect the integrity of your content throughout the engagement."
+      },
+      {
+        "title": "FULL CONTROL",
+        "description": "VCD enables you to retain full control over the scope and delivery parameters of your testimonial video editing engagement. You define the editing standards, brand guidelines, and review checkpoints — our team operates within those parameters, with AI-assisted workflow tools supporting throughput and human editors accountable for every deliverable that reaches your review stage."
+      },
+      {
+        "title": "OPERATIONAL VALUE",
+        "description": "VCD structures its testimonial video editing engagements to support cost-effective delivery without reducing editorial quality. AI-assisted workflow tools help lower manual processing effort at the footage review and assembly stages, allowing our editors to focus time on higher-value tasks — narrative refinement, brand integration, and quality validation. We assess your project scope and delivery requirements to propose an engagement model aligned with your budget and operational expectations."
+      },
+      {
+        "title": "THE POWER OF VIDEO",
+        "description": "Testimonials carry greater weight when communicated via video, allowing the customer to showcase their genuine happiness and satisfaction."
+      },
+      {
+        "title": "EDITORIAL TEAM CAPABILITY",
+        "description": "Video Caddy's testimonial video editing team includes editors with experience across diverse industry sectors and geographic markets. AI-assisted terminology and cultural reference flagging support editors in identifying content that may require localization review, with human editors applying final judgment on narrative adjustments needed to maintain authenticity and cultural appropriateness for your target audience."
+      },
+      {
+        "title": "TRANSLATABILITY",
+        "description": "Visual cues are often more likely to trigger emotions, enabling clearer communication. Our testimonial video editing services ensure they accurately relay the success stories and sincere client reactions with high-quality edits."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "DISCUSS YOUR TESTIMONIAL VIDEO EDITING REQUIREMENTS WITH OUR DELIVERY TEAM",
+    "description": "If you are evaluating testimonial video editing partners and need to understand how our AI-augmented, human-governed delivery model aligns with your production volume, brand standards, and turnaround requirements, our team is available to walk you through our workflow and engagement structure. Request a delivery consultation to discuss your project scope, quality expectations, and operational requirements.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

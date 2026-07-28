@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "cartoon",
+    "url": "https://www.videocaddy.com/storyboard/cartoon-storyboard.php",
+    "label": "Cartoon Storyboard",
+    "finalUrl": "https://www.videocaddy.com/storyboard/cartoon-storyboard.php"
+  },
+  {
+    "slug": "character-creation",
+    "url": "https://www.videocaddy.com/storyboard/character-creation.php",
+    "label": "Character Creation",
+    "finalUrl": "https://www.videocaddy.com/storyboard/character-creation.php"
+  },
+  {
+    "slug": "comic-book",
+    "url": "https://www.videocaddy.com/storyboard/comic-book.php",
+    "label": "Comic Book Storyboard",
+    "finalUrl": "https://www.videocaddy.com/storyboard/comic-book.php"
+  },
+  {
+    "slug": "elearning",
+    "url": "https://www.videocaddy.com/storyboard/e-learning-storyboard.php",
+    "label": "eLearning Storyboard",
+    "finalUrl": "https://www.videocaddy.com/storyboard/e-learning-storyboard.php"
+  },
+  {
+    "slug": "illustration",
+    "url": "https://www.videocaddy.com/storyboard/illustration.php",
+    "label": "Illustration Storyboard",
+    "finalUrl": "https://www.videocaddy.com/storyboard/illustration.php"
+  },
+  {
+    "slug": "photomatic",
+    "url": "https://www.videocaddy.com/storyboard/photomatic-storyboard.php",
+    "label": "Photomatic Storyboard",
+    "finalUrl": "https://www.videocaddy.com/storyboard/photomatic-storyboard.php"
+  },
+  {
+    "slug": "animatics",
+    "url": "https://www.videocaddy.com/storyboard/animatic-services.php",
+    "label": "Storyboard Animatics",
+    "finalUrl": "https://www.videocaddy.com/storyboard/animatic-services.php"
+  },
+  {
+    "slug": "video-game",
+    "url": "https://www.videocaddy.com/storyboard/video-game.php",
+    "label": "Video Game Storyboard",
+    "finalUrl": "https://www.videocaddy.com/storyboard/video-game.php"
+  },
+  {
+    "slug": "index",
+    "url": "https://www.videocaddy.com/storyboard/",
+    "label": "Storyboard Services",
+    "finalUrl": "https://www.videocaddy.com/storyboard/"
+  }
+]

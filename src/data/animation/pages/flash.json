@@ -1,0 +1,117 @@
+{
+  "slug": "flash",
+  "label": "Flash Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/flash.php",
+  "meta": {
+    "title": "Outsource Flash Animation Services",
+    "description": "2D and 3D flash animation services including frame-by-frame animation, motion tween animation, and shape tween animation"
+  },
+  "hero": {
+    "title": "OUTSOURCE FLASH ANIMATION",
+    "subtitle": "Flash technology has revolutionized how content is produced and provided on the Internet and on mobile devices.",
+    "image": "/assets/images/animation/hero/flash.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Flash technology has revolutionized how content is produced and provided on the Internet and on mobile devices."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "FRAME-BY-FRAME ANIMATION",
+      "items": [
+        "For animations in which the image changes in every frame, it is important that the animation is perfectly presented, which is why we offer this service for all projects."
+      ],
+      "image": "/assets/images/animation/services/flash-0.webp"
+    },
+    {
+      "title": "MOTION TWEEN ANIMATION",
+      "items": [
+        "By specifying specific values for an object in each frame of an animation we can create active animations where only certain objects move, streamlining the process for your project."
+      ],
+      "image": "/assets/images/animation/services/flash-1.webp"
+    },
+    {
+      "title": "SHAPE TWEEN ANIMATION",
+      "items": [
+        "Our animators can use Shape Tween techniques to actively change and transform shapes on screen, opening an entirely new array of options for your project."
+      ],
+      "image": "/assets/images/animation/services/flash-2.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Flash Animation",
+    "image": "/assets/images/animation/why/flash.webp",
+    "items": [
+      {
+        "title": "ADHERENCE TO ISO STANDARDS",
+        "description": "Our team follows international standards for quality, turnaround time and training to support the best final product for you."
+      },
+      {
+        "title": "HIGHLY TRAINED STAFF",
+        "description": "Our staff has been carefully selected and is regularly trained to support each member is a perfect match for any project they are assigned to work on."
+      },
+      {
+        "title": "SECURITY FOR YOUR DATA",
+        "description": "Our security systems are designed to protect your data from all loss or unauthorized access."
+      },
+      {
+        "title": "COMPETITIVE RATES TO MATCH YOUR BUDGET",
+        "description": "We strive to offer savings as much as 60% over what you'd pay in-house or to a comparable domestic firm."
+      },
+      {
+        "title": "OUR INFRASTRUCTURE",
+        "description": "To provide steady results regardless of project size or workload, we maintain an additional workforce and use only the newest hardware in Mac and PC desktops and software."
+      },
+      {
+        "title": "IN-HOUSE ANIMATION TALENT",
+        "description": "We hire exceptionally talented Flash animators with existing experience in this field while supporting low rates for you."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "OUTSOURCE FLASH ANIMATION WITH VIDEO CONTENT CREATION EXPERTS",
+    "description": "If you are ready to talk with one of our account specialists about how best to outsource your Flash animation needs, contact Video Caddy today.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

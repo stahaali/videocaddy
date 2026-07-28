@@ -1,0 +1,102 @@
+{
+  "slug": "brochure",
+  "label": "Video Brochure",
+  "sourceUrl": "https://www.videocaddy.com/brochure.php",
+  "meta": {
+    "title": "Video Brochure Design Service",
+    "description": "Custom video brochure service from Video Caddy captures the essence of your brand, product, or service and makes marketing campaigns more effective."
+  },
+  "hero": {
+    "title": "VIDEO BROCHURE DESIGN SERVICE",
+    "subtitle": "Video is undoubtedly the new-generation marketing medium that has the highest rate of brand recall.",
+    "image": "/assets/images/video-editing/hero/brochure.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "VIDEO CADDY OFFERS",
+    "description": "VIDEO CADDY OFFERS"
+  },
+  "services": [
+    {
+      "title": "VIDEO BROCHURE CREATION",
+      "items": [
+        "We analyze the services or product features you offer and then produce a high-quality video brochure based on the specific needs of your target audience. We use a mix of photomontages of facilities and locations, employee audio recordings, management speeches, customer review recordings coupled with a concept color code and logo animations. All available communication material in print, audio, and video will be utilized and adapted to create a comprehensive video brochure."
+      ],
+      "image": "/assets/images/video-editing/services/brochure-0.webp"
+    },
+    {
+      "title": "PRIVATE CLUBS",
+      "items": [
+        "We offer full video brochure editing services for companies in a range of industries as well, whether to update an existing brochure or to create a new brochure that highlights features of a new product or service you offer. We compile the latest information for your brochure, edit animations, cue in a few client interviews, or redo the audio logos to get a fully customized and up-to-date video brochure. We work in tandem with your marketing department or advertising agency to reduce costs and save time."
+      ],
+      "image": "/assets/images/video-editing/services/brochure-1.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Video Brochure",
+    "items": [
+      {
+        "title": "ADHERENCE TO ISO QUALITY STANDARDS",
+        "description": "We maintain strict quality standards that ensure 100% adherence to turnaround time as per the agreed project terms and conditions."
+      },
+      {
+        "title": "CUTTING-EDGE INFRASTRUCTURE",
+        "description": "Maintaining a highly sophisticated infrastructure for video editing and post-production, we use only the licensed version of the software - Adobe Premiere Pro, Final Cut Pro, and Edius Pro to ensure optimal performance."
+      },
+      {
+        "title": "ABSOLUTE DATA SECURITY",
+        "description": "VCD assures taking every possible step to secure clients’ data against theft or unauthorized access."
+      },
+      {
+        "title": "SKILLED TEAM OF VIDEO EDITORS",
+        "description": "With a skilled and experienced team of video editors and QC specialists, VCD delivers projects at the best cost to quality ratio."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "PARTNER WITH VIDEO CADDY FOR CUSTOM VIDEO BROCHURE DESIGNS",
+    "description": "Apart from video brochure services, keeping the requirements of corporates in mind, VCD has been offering a plethora of video editing services such as explainer video animation, whiteboard animation, corporate audio editing, and more.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

@@ -1,0 +1,182 @@
+{
+  "slug": "logo",
+  "label": "Logo Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/logo.php",
+  "meta": {
+    "title": "Logo Animation Services",
+    "description": "Transform static branding into motion with our logo animation services. Video Caddy provides custom animations that capture attention and strengthen identity."
+  },
+  "hero": {
+    "title": "AI-Powered LOGO ANIMATION SERVICES",
+    "subtitle": "AI-assisted logo animation services, combining workflow automation with human oversight to provide brand-consistent assets — built for digital campaigns, broadcast media, and product launches.",
+    "image": "/assets/images/animation/hero/logo.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Maintaining brand consistency across multiple digital formats, campaign types, and delivery timelines can create significant production overhead and quality-control challenges for marketing and creative teams. Our AI-augmented logo animation services address these issues by combining AI-assisted production workflows with human reviews. This approach reduces manual revision cycles, improve brand-guideline adherence, and generates platform-ready animated assets with greater consistency.",
+    "Whether the requirement is a 2D logo animation, a 3D cinematic render, or an After Effects logo animation for a targeted campaign, each project is produced with technical accuracy and creative alignment to your brand standards. Every deliverable is frame-optimized, platform-responsive, and reviewed against your brand guidelines before delivery. The result? Optimized logos that are suitable for digital campaigns, event screens, and product launches.",
+    "If you're interested in augmenting your brand narrative, you may also discover our range of animated video production services to see how different formats can amplify your brand presence."
+  ],
+  "servicesHeader": {
+    "title": "Our Logo Animation Services",
+    "description": "Our customized line of logo animation services is intended to assist companies in effectively, consistently, and impactfully communicating their identities. Our services support that your logo does more than show up; it conveys your story and improves awareness across all touchpoints, whether you're a corporate company, an emerging e-commerce brand, or an early-stage SaaS venture."
+  },
+  "services": [
+    {
+      "title": "2D & 3D Logo Animation",
+      "items": [
+        "Design both clean, modern 2D logos and textured, cinematic 3D logos customized for websites, apps, campaigns, and broadcast media.",
+        "Use subtle movements in 2D and realistic lighting, reflections, and depth in 3D to create a memorable visual impact.",
+        "Apply brand colors, typography, and styles to support animations align seamlessly with your identity.",
+        "Provide scalable, high-resolution files optimized for social media, presentations, commercials, and product videos."
+      ],
+      "image": "/assets/images/animation/services/logo-0.webp"
+    },
+    {
+      "title": "Logo Animation for Social & Brand Experiences",
+      "items": [
+        "Create customized logo intros, outros, and reveals for platforms like Instagram, YouTube, TikTok, product launches, and corporate presentations.",
+        "Extend brand identity with animated typography, icons, and motion graphics that strengthen recognition across digital touchpoints.",
+        "Modernize or reformat existing logo animations, from resolution upgrades (1080p to 4K) to format conversions (MP4 to GIF).",
+        "Provide top-tier, platform-ready animations to boost visibility, engagement, and brand consistency."
+      ],
+      "image": "/assets/images/animation/services/logo-1.webp"
+    },
+    {
+      "title": "Motion Graphics & VFX Logo Animation",
+      "items": [
+        "Develop an advanced After Effects logo animation customized to your brand requirements.",
+        "Use layering, effects, and transitions to bring logos to life.",
+        "Build animations that work seamlessly across web, video, and experiential events.",
+        "support every project is provided with broadcast-ready quality and attention to detail."
+      ],
+      "image": "/assets/images/animation/services/logo-2.webp"
+    },
+    {
+      "title": "AI-Assisted Logo Animation",
+      "items": [
+        "Offer creative, adaptive visuals using logo animation AI tools for faster production.",
+        "Generate multiple design variations to give clients more creative options.",
+        "Balance automation with expert review to support brand consistency.",
+        "Provide quick-turnaround solutions that work well for startups and agencies."
+      ],
+      "image": "/assets/images/animation/services/logo-3.webp"
+    },
+    {
+      "title": "Bespoke Brand Logo Animation",
+      "items": [
+        "Provide custom logo animation services built from the ground up for your brand.",
+        "Use professional storyboarding to visualize concepts before production begins.",
+        "Use distinctive motion patterns, colors, and brand components to add uniqueness.",
+        "Develop customized approaches that are unique compared to those based on templates."
+      ],
+      "image": "/assets/images/animation/services/logo-4.webp"
+    },
+    {
+      "title": "Event, Broadcast & Experiential Logo Animation",
+      "items": [
+        "Provide dynamic logo design services for exhibits, trade events, and conferences.",
+        "Optimize images for digital signs, projectors, and LED walls.",
+        "Make sure animations are made for both live and online audiences in mind.",
+        "Support event organizers with fast delivery and flexible design formats."
+      ],
+      "image": "/assets/images/animation/services/logo-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Logo Animation Services",
+    "image": "/assets/images/animation/why/logo.webp",
+    "items": [
+      {
+        "title": "Creative Storytelling with Precision",
+        "description": "Every animated logo we design is built to communicate your story. Whether it's a 2D, 3D, or After Effects logo animation, our method guarantees brand alignment, clarity, and memorability."
+      },
+      {
+        "title": "Consistency Across All Formats",
+        "description": "From animated logo design services for websites to high-resolution files for events, we adapt every project for multiple formats without losing quality or brand consistency."
+      },
+      {
+        "title": "Innovation that Matches Market Demands",
+        "description": "We combine creativity with technology, ensuring every logo animation strictly follows your brand guidelines, from typography and color usage to tone and visual style. For deeper insights, explore the future of animation trends and see how businesses are reshaping their brand presence."
+      },
+      {
+        "title": "Quality that Builds Trust",
+        "description": "Our dedicated logo animation studio team applies careful attention to timing, transitions, and detail, supporting that every animation signals credibility and strengthens audience trust."
+      },
+      {
+        "title": "Flexible Delivery without Compromise",
+        "description": "We balance speed with quality, providing scalable workflows that meet tight timelines while giving you time for review and refinement."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Make Your Brand Unforgettable with Animated Logos",
+    "description": "If you are evaluating logo animation services for your next campaign, brand refresh, or ongoing production requirement, our team is here to review your brief and recommend a organized delivery approach. We support 2D logo animation, 3D logo animation, After Effects logo animation, and custom animated logo design projects. Every projects we take up will be managed through defined review cycles and brand-guideline validation at every stage.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long is an animated logo?",
+      "answer": "The ideal animated logo design is short and memorable, usually lasting five to ten seconds. This allows your brand to quickly and effectively leave an impact without detracting from the viewing experience."
+    },
+    {
+      "question": "In which file formats do you offer animated logos?",
+      "answer": "We offer intro logo animation files in a number of formats, including MP4, MOV, and GIF, making them simple to use on presentations, websites, and social media."
+    },
+    {
+      "question": "Can you adapt the animation style based on my brand guidelines?",
+      "answer": "Yes, each project is customized to your brand. Whether a clean motion logo design or a more creative animation, we support the style captures your brand’s personality and guidelines."
+    },
+    {
+      "question": "What is the duration required to create a personalized logo animation?",
+      "answer": "It usually takes a few days to two weeks to create a brand logo animation, depending on style and complexity. We blend quality and quickness so that your brand may be seen."
+    },
+    {
+      "question": "How much does professional logo animation cost?",
+      "answer": "The cost of business logo animation depends on animation length, level of detail, and style. We provide transparent quotes so you know exactly what you're getting without surprises."
+    },
+    {
+      "question": "Do you offer revisions if I want changes to my logo animation?",
+      "answer": "Yes. From subtle tweaks to logo motion graphics adjustments, we provide revisions to support the final animation fully aligns with your expectations."
+    }
+  ]
+}

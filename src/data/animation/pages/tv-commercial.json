@@ -1,0 +1,110 @@
+{
+  "slug": "tv-commercial",
+  "label": "TV Commercial Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/tv-commercial.php",
+  "meta": {
+    "title": "TV Commercial Animation",
+    "description": "Animation in 2D or 3D of video content for your next TV commercial from the film and video experts employed by Video Caddy"
+  },
+  "hero": {
+    "title": "TV COMMERCIAL ANIMATION",
+    "subtitle": "TV commercial animation is an immensely powerful form of advertising that requires substantial investment of both time and money.",
+    "image": "/assets/images/animation/hero/tv-commercial.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "TV commercial animation is an immensely powerful form of advertising that requires substantial investment of both time and money."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "COMPREHENSIVE ANIMATION PROCESS",
+      "items": [
+        "There are a number of different ways to present top-tier \"animated TV commercials\", but the final product will ultimately depend on the company or product being promoted and the data you've gathered about your target market and prospective competitors. Our team can take that data and integrate it into highly effective, professional grade animations"
+      ],
+      "image": "/assets/images/animation/services/tv-commercial-0.webp"
+    },
+    {
+      "title": "2D & 3D ANIMATION SERVICES",
+      "items": [
+        "Currently we offer both 2D animation services for simple commercials or low key ads that may be used online as well as on television. We also offer 3D animation services , including character creation, mascot animation and more to support that your final product looks exactly as you have envisioned and as your audience expects."
+      ],
+      "image": "/assets/images/animation/services/tv-commercial-1.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our TV Commercial Animation",
+    "image": "/assets/images/animation/why/tv-commercial.webp",
+    "items": [
+      {
+        "title": "ADHERENCE TO ISO STANDARDS",
+        "description": "Every member of our team adheres to strict ISO quality standards for quality, turnaround time, training and data security. You can rest assured that every project is handled just right."
+      },
+      {
+        "title": "SECURITY FOR YOUR DATA",
+        "description": "Our security systems are designed to protect your data from loss or unauthorized access every step of the process."
+      },
+      {
+        "title": "EXCEPTIONALLY TALENTED ANIMATORS",
+        "description": "Our staff is hired with between 2-5 years of experience in their respective fields and they are regularly trained to support optimal performance at the low rates you need."
+      },
+      {
+        "title": "COMPETITIVE RATES TO MATCH YOUR BUDGET",
+        "description": "We offer highly competitive rates as much as 60% lower than the domestic or in-house cost."
+      },
+      {
+        "title": "24/6 SUPPORT & FAST TURNAROUND TIME",
+        "description": "We offer 24/6 support and rapid turnaround time on all projects to support that you get what you need well within your expected timeline."
+      },
+      {
+        "title": "INFRASTRUCTURE",
+        "description": "Our team is backed up by an additional workforce for sudden spikes in demand, and we also maintain 50Mbps of dedicated internet bandwidth in-house for fast operations."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "top-tier TV COMMERCIAL ANIMATION SERVICES FOR YOUR BUSINESS",
+    "description": "Whatever your TV commercial animation needs, contact the experts of Video Caddy today for professional service you can rely on.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

@@ -31,7 +31,7 @@ export default function Testimonials({ items = testimonials }: TestimonialsProps
   return (
     <section
       id="testimonials"
-      className={styles.section}
+      className={`${styles.section} spacing-section`}
       aria-labelledby="testimonials-title"
     >
       <Container className={styles.inner}>

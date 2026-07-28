@@ -1,0 +1,188 @@
+{
+  "slug": "wedding",
+  "label": "Wedding Video Editing",
+  "sourceUrl": "https://www.videocaddy.com/wedding.php",
+  "meta": {
+    "title": "Wedding Video Editing Services",
+    "description": "Enhance your wedding videos with Video Caddy"
+  },
+  "hero": {
+    "title": "WEDDING VIDEO EDITORS CREATING TIMELESS FILMS",
+    "subtitle": "VCD understands each wedding video creator's unique style. That is why our wedding video makers capture genuine emotions, transforming them through expert wedding movie editing. The result? We create a wedding video that exceeds expectations.",
+    "image": "/assets/images/video-editing/hero/wedding.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [],
+  "servicesHeader": {
+    "title": "OUTSOURCE YOUR EDITING & SAVE TIME",
+    "description": "Schedule a time to chat with us to learn about how we can help you monetize your video production business."
+  },
+  "services": [
+    {
+      "title": "DRONE FOOTAGE EDITING",
+      "items": [
+        "Elevate your wedding videography editing with breathtaking aerial views. We seamlessly integrate drone footage to create stunning cinematic wedding films."
+      ],
+      "image": "/assets/images/video-editing/services/wedding-0.webp"
+    },
+    {
+      "title": "WEDDING HIGHLIGHT REEL CREATION",
+      "items": [
+        "Outsource wedding video editing to us to relive your special day through stunning highlight reels with slow-motion replays of your most memorable moments."
+      ],
+      "image": "/assets/images/video-editing/services/wedding-1.webp"
+    },
+    {
+      "title": "WEDDING FILM EDITING",
+      "items": [
+        "We edit cinematic wedding films to match the unique pace and mood captured by a cinematic wedding videographer."
+      ],
+      "image": "/assets/images/video-editing/services/wedding-2.webp"
+    },
+    {
+      "title": "WEDDING VIDEO POST PRODUCTION",
+      "items": [
+        "Whether the video requires smoothening of light variations or composition cropping, our experienced wedding video makers ensure the synchronization is clean."
+      ],
+      "image": "/assets/images/video-editing/services/wedding-3.webp"
+    },
+    {
+      "title": "WEDDING IMAGE EDITING",
+      "items": [
+        "Enhance your wedding images with expert wedding image editing. Our photo editing services for wedding photographers include stunning wedding photo retouching and photo color grading."
+      ],
+      "image": "/assets/images/video-editing/services/wedding-4.webp"
+    },
+    {
+      "title": "WEDDING ARTWORK CREATION",
+      "items": [
+        "Ask for our stunning wedding album artwork as part of our wedding album creation. Our expert album layout design creates a timeless keepsake"
+      ],
+      "image": "/assets/images/video-editing/services/wedding-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "ELEVATE YOUR WEDDING FILM PRODUCTIONS WITH UNMATCHED EDITING",
+    "items": [
+      {
+        "title": "COMPREHENSIVE WEDDING VIDEO EDITING",
+        "description": "We offer a full range of wedding video editing services, from basic edits to complex cinematic wedding films, tailored to capture the essence of the event."
+      },
+      {
+        "title": "INNOVATIVE WEDDING VIDEO MAKERS AND EDITORS",
+        "description": "As leading wedding editors, we leverage industry-standard platforms such as Adobe Premiere Pro, Final Cut Pro, and DaVinci Resolve."
+      },
+      {
+        "title": "CUSTOMIZED WEDDING MOVIE EDITING",
+        "description": "Every wedding is unique, and our wedding movie editing services ensure that your video reflects personal style and story, capturing the artistic vision of a cinematic wedding videographer."
+      },
+      {
+        "title": "CREATIVE WEDDING ALBUM ARTWORK CREATION",
+        "description": "Enhance wedding memories with our creative wedding album artwork creation and design services, adding a professional touch to your keepsakes."
+      },
+      {
+        "title": "PROFESSIONAL WEDDING PHOTO RETOUCHING",
+        "description": "We provide expert wedding photo retouching services to ensure every image is picture-perfect and ready for sharing or printing."
+      },
+      {
+        "title": "COMPLETE PHOTO EDITING SERVICES FOR WEDDING PHOTOGRAPHERS",
+        "description": "We offer an array of photo editing services for wedding photographers, including wedding photo presets for Lightroom."
+      },
+      {
+        "title": "ATTENTION TO DETAIL WITH PHOTO COLOUR GRADING",
+        "description": "Our photo colour grading services bring out the vibrancy and emotion in your wedding photos, ensuring they look their best."
+      }
+    ]
+  },
+  "process": [
+    {
+      "title": "Step 1: Ensure Compatibility",
+      "description": "Before diving into the editing process, it’s essential to establish compatibility with the editor. This involves a discussion to confirm that the editor’s style matches your vision for the wedding film."
+    },
+    {
+      "title": "Step 2: Submit Your Footage",
+      "description": "Clients are required to either send a physical SSD by mail or upload their footage to a cloud server, ensuring easy access to all the necessary materials for crafting your wedding narrative through our wedding video editing services."
+    },
+    {
+      "title": "Step 3: Share Detailed Wedding Notes",
+      "description": "Provide a set of notes outlining key aspects of your wedding day. Highlight must-have moments, specific scenes to emphasize, or anything you’d prefer to avoid. This helps the editor understand your priorities and expectations and give the right wedding video editing services."
+    },
+    {
+      "title": "Step 4: Organize Your Footage",
+      "description": "To streamline the editing process, organize your footage into clearly labeled folders or a library. Sections such as preparation, ceremony, first look, and reception should be distinct, with audio files properly identified."
+    },
+    {
+      "title": "Step 5: Select Music Tracks",
+      "description": "Include a selection of 5-7 licensed songs that align with the mood and direction you envision for your film. If needed, the editor can choose different songs to enhance the final video’s emotional tone. Our wedding video editing services will ensure that your special day is captured beautifully and edited to perfection."
+    },
+    {
+      "title": "Step 6: Include LUTs and Overlays",
+      "description": "If you have specific color grading preferences, include any LUTs or overlays you’d like the editor to use. The editor is skilled in handling LOG footage to achieve the desired aesthetic. This structured approach ensures a seamless and creative collaboration, resulting in a beautifully tailored wedding film."
+    }
+  ],
+  "midCta": {
+    "title": "TIMELESS WEDDING FILMS WITH PREMIER VIDEO EDITING SERVICES",
+    "description": "Maximize your studio's output with our expert wedding film editing services, designed for high-volume projects. With a focus on compelling storytelling, smooth transitions, and superior audio quality, Video Caddy ensures every wedding video is a masterpiece. Contact us to streamline your workflow and produce wedding videos that stand the test of time.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long does the wedding video editing process take?",
+      "answer": "The process for completing wedding films through our wedding video editing services typically takes between 6 to 8 weeks. Once ready, you’ll receive a private review link via Vimeo. This timeline allows our wedding video editor to ensure meticulous attention to detail and quality."
+    },
+    {
+      "question": "Can I incorporate my favorite songs into the wedding video?",
+      "answer": "Yes, our wedding video editor specializes in providing wedding video editing services that incorporate music as a nuanced art form. We expertly match music tracks with visual moments, ensuring that the emotional impact is maximized. Feel free to suggest songs that resonate with you for inclusion."
+    },
+    {
+      "question": "What formats will my final wedding video be delivered in?",
+      "answer": "Your wedding video, crafted by our experienced wedding filmmaker, will be delivered in various formats: vertical for Instagram Reels, square for Facebook, and horizontal for YouTube. This ensures seamless sharing across your favorite platforms."
+    },
+    {
+      "question": "Is there an option for rush delivery of my wedding film?",
+      "answer": "For those in need of their wedding film sooner, our wedding video editor offers rush delivery options. We can expedite the editing process to deliver your film within a week, ensuring you have your cherished memories as quickly as possible."
+    },
+    {
+      "question": "How many rounds of revisions can I request for my wedding video?",
+      "answer": "You have up to three rounds of revisions to ensure the final product meets your expectations. Our wedding video editing services are designed to capture your special day perfectly. Our wedding video editor values your feedback, which can be provided directly on specific parts of the film via Vimeo, ensuring the best outcome."
+    }
+  ]
+}

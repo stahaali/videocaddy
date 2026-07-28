@@ -41,17 +41,39 @@
 
 @media (min-width: 992px) {
   .rightContent {
-    padding-left: 20%;
+    padding-left: 16%;
   }
 
   .rightContent h2 {
-    font-size: 2.5rem;
+    font-size: 2.25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .rightContent {
+    padding-left: 18%;
+  }
+
+  .rightContent h2 {
+    font-size: 2.35rem;
+  }
+
+  .form {
+    padding: 32px;
   }
 }
 
 @media (min-width: 1080px) {
   .form {
     padding: 35px;
+  }
+
+  .rightContent {
+    padding-left: 20%;
+  }
+
+  .rightContent h2 {
+    font-size: 2.5rem;
   }
 }
 

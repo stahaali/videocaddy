@@ -1,0 +1,9 @@
+export type {
+  VideoEditingCaseStudy as AnimationCaseStudy,
+  VideoEditingFAQ as AnimationFAQ,
+  VideoEditingLink as AnimationLink,
+  VideoEditingPageData as AnimationPageData,
+  VideoEditingProcessStep as AnimationProcessStep,
+  VideoEditingService as AnimationService,
+  VideoEditingWhyItem as AnimationWhyItem,
+} from "@/data/video-editing/types";

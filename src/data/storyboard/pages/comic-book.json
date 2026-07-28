@@ -1,0 +1,112 @@
+{
+  "slug": "comic-book",
+  "label": "Comic Book Storyboard",
+  "sourceUrl": "https://www.videocaddy.com/storyboard/comic-book.php",
+  "meta": {
+    "title": "Creative Comic Storyboarding Services",
+    "description": "Bring your narratives to life with Video Caddy"
+  },
+  "hero": {
+    "title": "COMIC STORYBOARDING SERVICES",
+    "subtitle": "At Video Caddy (VCD), we address the challenges of comic storyboarding—from time constraints to creative complexities—with our cost-effective, top-tier comic storyboarding services. Leveraging our vast expertise, we transform your ideas into vivid storyboards, supporting your narrative is captured seamlessly for print or animation.",
+    "image": "/assets/images/storyboard/hero/comic-book.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "At Video Caddy (VCD), we address the challenges of comic storyboarding—from time constraints to creative complexities—with our cost-effective, top-tier comic storyboarding services. Leveraging our vast expertise, we transform your ideas into vivid storyboards, supporting your narrative is captured seamlessly for print or animation."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "CHARACTER ILLUSTRATION",
+      "items": [
+        "Our expert storyboard artists craft distinctive and expressive character designs to bring your comic book narratives to life."
+      ],
+      "image": "/assets/images/storyboard/services/comic-book-0.webp"
+    },
+    {
+      "title": "KEY PLOT POINT VISUALIZATION",
+      "items": [
+        "We specialize in visually interpreting and emphasizing key plot points to improve storytelling and reader engagement."
+      ],
+      "image": "/assets/images/storyboard/services/comic-book-1.webp"
+    },
+    {
+      "title": "STORYBOARD CUSTOMIZATION",
+      "items": [
+        "Our team supports alignment with your creative vision and project goals by tailoring storyboards to your unique requirements."
+      ],
+      "image": "/assets/images/storyboard/services/comic-book-2.webp"
+    },
+    {
+      "title": "2D & 3D STORYBOARDING",
+      "items": [
+        "From traditional 2D panels to immersive 3D models, we are proficient in creating storyboards across dimensions to meet your project-specific needs."
+      ],
+      "image": "/assets/images/storyboard/services/comic-book-3.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Comic Book Storyboard",
+    "image": "/assets/images/storyboard/why/comic-book.webp",
+    "items": [
+      {
+        "title": "FAST PROJECT COMPLETION",
+        "description": "Our efficient processes support the swift completion of projects, helping you meet your deadlines without compromising quality."
+      },
+      {
+        "title": "OPTIMIZED CONVERSION RATE",
+        "description": "Our expertise in crafting compelling storyboards improves the appeal of your comics, boosting engagement and conversion rates."
+      },
+      {
+        "title": "ROBUST DATA SECURITY",
+        "description": "Our stringent data security measures support your creative assets and intellectual property are always protected."
+      },
+      {
+        "title": "TOP-QUALITY OUTPUT",
+        "description": "VCD is committed to providing top-tier storyboards that accurately capture your vision and elevate the narrative."
+      },
+      {
+        "title": "MINIMAL REVISIONS NEEDED",
+        "description": "Our proficiency in understanding client needs and providing accordingly supports a reduction in the number of revisions, saving time and resources."
+      },
+      {
+        "title": "BUDGET ADHERENCE",
+        "description": "We respect your budget constraints and offer cost-effective solutions without compromising the quality of our storyboard services."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "CRAFT COMPELLING VISUALS WITH Video Caddy'S EXPERT COMIC STORYBOARDING SERVICES",
+    "description": "Transform your narrative into compelling visuals with Video Caddy's expert Comic Storyboarding Services. Experience the perfect blend of creativity, efficiency, and security. Contact us today to elevate comic book visualization!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Visualization and Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

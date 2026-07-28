@@ -1,0 +1,181 @@
+{
+  "slug": "feature-film",
+  "label": "Feature Film Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/feature-film.php",
+  "meta": {
+    "title": "Film Animation Services for Studios & Brands",
+    "description": "Explore professional film animation services for brands. From animated feature film production to movie animation, create screen-ready stories with precision."
+  },
+  "hero": {
+    "title": "Animated Film Production Services",
+    "subtitle": "Drive brand engagement and provide clarity with our professional film animation production.",
+    "image": "/assets/images/animation/hero/feature-film.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Bringing a story to the screen through film animation takes more than technical skill. It calls for narrative discipline, visual consistency, and production experience. From feature film animation to brand-led movie animation, every project demands a clear creative vision and a production partner who understands commercial, educational, and entertainment goals. At Video Caddy, projects are handled as complete storytelling builds, not just animation tasks.",
+    "As a reliable outsourcing partner, Video Caddy offers complete animation solutions for companies and studios, supporting everything from campaign-driven graphics for agencies and SaaS brands to animated films and training materials. Teams can achieve dependability, creative control, and output that meets market standards with an organized production workflow and an emphasis on performance-led visuals."
+  ],
+  "servicesHeader": {
+    "title": "Our Animated Film Production Services",
+    "description": "Our end-to-end film animation services are built to support studios, brands, agencies, and learning platforms with visually rich storytelling and production reliability. From concept to screen-ready delivery, every project is organized to meet commercial, creative, and educational objectives with consistency and scale."
+  },
+  "services": [
+    {
+      "title": "Feature Film Animation",
+      "items": [
+        "Script breakdown, storyboard creation, and cinematic shot planning",
+        "Full-length 2D and 3D animation production pipelines",
+        "Motion refinement by using rotoscoping techniques to improve visual storytelling",
+        "Final compositing, sound sync, color grading, and mastering"
+      ],
+      "image": "/assets/images/animation/services/feature-film-0.webp"
+    },
+    {
+      "title": "Movie Animation for Digital & Entertainment Platforms",
+      "items": [
+        "Concept visualization and narrative structuring for movie animation projects",
+        "Scene layout, background design, and shot sequencing",
+        "Character animation, camera movement, and transition design",
+        "Output formatting for streaming platforms and digital distribution"
+      ],
+      "image": "/assets/images/animation/services/feature-film-1.webp"
+    },
+    {
+      "title": "Explainer & Educational Film Animation",
+      "items": [
+        "Script-based visualization of products, processes, and learning modules",
+        "Motion graphics, diagrams, and step-by-step animation sequences",
+        "Voiceover syncing based on how animated explainers simplify communication for audiences",
+        "UI animation, iconography, and instructional overlays"
+      ],
+      "image": "/assets/images/animation/services/feature-film-2.webp"
+    },
+    {
+      "title": "Character Animation for Short Films & Series",
+      "items": [
+        "Rigging, facial setup, and skeletal animation for characters",
+        "Performance timing based on character animation workflows for short films",
+        "Scene interaction, gesture refinement, and emotional expression",
+        "Shot-by-shot animation cleanup and continuity control"
+      ],
+      "image": "/assets/images/animation/services/feature-film-3.webp"
+    },
+    {
+      "title": "Commercial & Advertising Film Animation",
+      "items": [
+        "Campaign-focused storyboarding and creative direction",
+        "Product, lifestyle, and abstract animation execution",
+        "Visual planning based on animation approaches customized for TV-commercial campaigns",
+        "Multi-format animation delivery for broadcast and digital ads"
+      ],
+      "image": "/assets/images/animation/services/feature-film-4.webp"
+    },
+    {
+      "title": "Studio-Scale Film Animation Outsourcing",
+      "items": [
+        "Resource allocation and dedicated production team deployment",
+        "Asset handling, version control, and workflow tracking",
+        "Long-form and short-form film animation production execution",
+        "Project coordination for complete animation solutions for businesses and studios"
+      ],
+      "image": "/assets/images/animation/services/feature-film-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Animated Film Production Services",
+    "image": "/assets/images/animation/why/feature-film.webp",
+    "items": [
+      {
+        "title": "Strategic Storytelling for Film Animation",
+        "description": "Strategic storytelling built for film animation projects that balance creative intent with commercial goals, supporting feature film animation and organized movie animation workflows across the stages."
+      },
+      {
+        "title": "Precision Motion with Realism",
+        "description": "Precision motion planning guided by using rotoscoping techniques to improve visual storytelling, applied where realism matters in character movement, action continuity, and scene transitions control."
+      },
+      {
+        "title": "Communication-Driven Educational Animation",
+        "description": "Clear communication frameworks shaped by how animated explainers simplify communication for audiences, applied to training films, SaaS education, and knowledge transfers without oversimplifying complex ideas."
+      },
+      {
+        "title": "Performance-First Character Animation",
+        "description": "Performance-driven production built on character animation workflows for short films, covering acting references, timing passes, facial articulation, and scene interaction required for consistent animated movies."
+      },
+      {
+        "title": "Advertising-Ready Film Animation Execution",
+        "description": "Campaign execution aligned with animation approaches customized for TV-commercial campaigns, including brand-safe motion design, product emphasis, broadcast timing standards, and multi-format delivery planning across platforms."
+      },
+      {
+        "title": "Scalable Studio-Grade Production Infrastructure",
+        "description": "Scalable production management supporting animated feature film production through complete animation solutions for businesses and studios, covering team deployment, asset security, workflow control, and governance."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Let’s Build Your Next Film Animation Project",
+    "description": "Work with production teams that understand the discipline behind film animation and animated feature film production. From organized movie animation to full-scale animated movies, with creative benchmarks inspired by Disney film animation, every project is handled with clarity, control, and creative accountability. Contact us today and move your story from concept to screen with confidence.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do you determine the cost of an animation project?",
+      "answer": "Project cost depends on animation style, duration, complexity, number of characters, and whether it involves film animation, movie animation, or full animated feature film production."
+    },
+    {
+      "question": "Can you integrate audio, voiceover, sound effects, music, and handle lip-sync / sound design along with animation?",
+      "answer": "Yes, all projects include voiceovers, sound effects, music scoring, lip-sync, and full sound design as part of the complete animated movie production workflow."
+    },
+    {
+      "question": "What types of animation services do you offer?",
+      "answer": "Services include feature film animation, movie animation, explainer films, character animation, advertising animation, and large-scale studio outsourcing for film animation projects."
+    },
+    {
+      "question": "How much does it cost to outsource film animation?",
+      "answer": "Outsourcing film animation typically varies based on scope, timeline, and production depth, making it more flexible and cost-controlled than maintaining in-house animation teams."
+    },
+    {
+      "question": "What industries or project types do you have experience with?",
+      "answer": "Projects span entertainment, advertising, education, SaaS, and enterprise branding, covering animated movies, product explainers, training films, and long-format feature film animation."
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "virtual-reality",
+  "label": "Virtual Reality Post-Production",
+  "sourceUrl": "https://www.videocaddy.com/virtual-reality.php",
+  "meta": {
+    "title": "Customized Virtual Reality Post-Production Editing Services",
+    "description": "Get virtual reality post-production services that turn raw, 360° footage into polished, high-impact VR experiences for training, demos, and marketing."
+  },
+  "hero": {
+    "title": "Virtual Reality Post-production Services",
+    "subtitle": "Professional virtual reality post production services designed for training, marketing, and simulations with spatial audio, 3D assets, motion graphics, and VFX.",
+    "image": "/assets/images/video-editing/hero/virtual-reality.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Professional virtual reality post production services designed for training, marketing, and simulations with spatial audio, 3D assets, motion graphics, and VFX."
+  ],
+  "servicesHeader": {
+    "title": "Our Virtual Reality Post-production Services",
+    "description": "Our VR post-production solutions are designed to help companies use immersive material for education, training, product visualization, and simulation. We assist in giving each frame clarity, organization, and polish, whether you're creating 360-degree walkthroughs or interactive virtual reality video experiences."
+  },
+  "services": [
+    {
+      "title": "360° Video Stitching and Stabilization",
+      "items": [
+        "Edit and stitch 360° footage for seamless, panoramic playback",
+        "Stabilize footage and remove visual distortions for a smoother experience",
+        "Add spatial audio and ambisonic mixing for immersive training, gaming, or educational experiences",
+        "Deliver high-definition stitched outputs optimized for VR platforms and headsets"
+      ],
+      "image": "/assets/images/video-editing/services/virtual-reality-0.webp"
+    },
+    {
+      "title": "VR Training and Simulation Videos",
+      "items": [
+        "Cut and sequence simulation scenarios for industrial, medical, or military training",
+        "Integrate 3D overlays, voice cues, and user prompts for interaction guidance",
+        "Ensure compatibility with learning management systems and VR hardware",
+        "Provide safety-focused edits to reduce motion discomfort and disorientation"
+      ],
+      "image": "/assets/images/video-editing/services/virtual-reality-1.webp"
+    },
+    {
+      "title": "Virtual Reality Product Demos",
+      "items": [
+        "Highlight product features within an immersive environment",
+        "Overlay specs, callouts, and UI markers using custom graphics",
+        "Include guided narration or voiceover for self-paced exploration",
+        "Ensure responsive playback across desktop, mobile, and VR headsets"
+      ],
+      "image": "/assets/images/video-editing/services/virtual-reality-2.webp"
+    },
+    {
+      "title": "Platform-Specific Optimization",
+      "items": [
+        "Convert VR outputs for Oculus, Vive, PlayStation VR, WebVR, and YouTube VR",
+        "Apply compression and encoding for smooth playback without quality loss",
+        "Optimize latency to maintain stable frame rates and reduce motion lag",
+        "Test across multiple headsets for seamless cross-device compatibility"
+      ],
+      "image": "/assets/images/video-editing/services/virtual-reality-3.png"
+    },
+    {
+      "title": "Virtual Reality Video Editing for Real Estate",
+      "items": [
+        "Build guided property tours from stitched panoramic footage",
+        "Add floorplan overlays, hotspot navigation, and pop-up highlights",
+        "Insert ambient sounds or neighborhood cues to support location context",
+        "Prepare final files for VR platforms, web embeds, and client presentations"
+      ],
+      "image": "/assets/images/video-editing/services/virtual-reality-4.webp"
+    },
+    {
+      "title": "Healthcare and Educational VR Post-Production",
+      "items": [
+        "Edit procedural walk-throughs, patient simulations, or anatomy explorations",
+        "Add labels, markers, and synced narration for educational clarity",
+        "Format videos for VR classrooms, remote training, or hospital use",
+        "Include VR quality validation and compatibility testing to ensure comfort, reduce motion sickness, and guarantee smooth performance across devices."
+      ],
+      "image": "/assets/images/video-editing/services/virtual-reality-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Virtual Reality Post-Production Services",
+    "items": [
+      {
+        "title": "Editing with Business Use in Mind",
+        "description": "We focus on how the content will be used for training, marketing, or simulation. Every frame is edited to support clarity and function."
+      },
+      {
+        "title": "Structure and Flow for 360 VR Experiences",
+        "description": "We ensure that 360 VR videos are easy to follow and well-paced. The goal is to keep viewers engaged without visual confusion or discomfort."
+      },
+      {
+        "title": "Visual Consistency Across Formats",
+        "description": "Your brand visuals stay consistent across platforms and devices. We manage tone, color, pacing, and graphics for a cohesive experience."
+      },
+      {
+        "title": "Technical Precision that Supports Integration",
+        "description": "We deliver clean, ready-to-use files for your existing systems. This ensures reliable virtual reality video production outputs, eliminating the need for rework."
+      },
+      {
+        "title": "Scalable Support for Global Teams",
+        "description": "Whether you're in North America, Europe, or Asia, we adapt to your project timeline. Our team handles both one-off needs and large volumes with consistent quality."
+      },
+      {
+        "title": "Direct Access to Editors Who Understand Your Industry",
+        "description": "You work directly with experienced editors, not generic project managers. We understand the demands of VR content across multiple business sectors."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "VR Editing Expertise, Just a Click Away",
+    "description": "Work with virtual reality post-production editors who understand how businesses operate. We turn your raw 360-degree content into clear, functional virtual reality experiences built for real-world use. Contact us today to make your virtual reality content stand out.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Culinary Video Editing for Popular French Club of Chefs",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Frame-by-Frame Video Editing for Movie-like 360° Wedding Video",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Cinematic Wedding Video Editing for Popular Italian Visual Media Studio",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What types of virtual reality content do you support in post-production?",
+      "answer": "We handle a wide range of VR formats including 360-degree walkthroughs, training simulations, product demos, educational modules, and interactive virtual reality videos across industries like healthcare, real estate, and education."
+    },
+    {
+      "question": "Can you deliver VR post-production files compatible with specific platforms or headsets?",
+      "answer": "Yes. We format and deliver VR-ready files optimized for platforms like Oculus, HTC Vive, and mobile-based VR apps, ensuring smooth playback and integration into your workflow or distribution system."
+    }
+  ]
+}

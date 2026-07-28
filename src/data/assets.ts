@@ -4,6 +4,22 @@ export const assets = {
   logo: `${base}/imgi_1_logo.webp`,
   heroShowreel: `${base}/imgi_7_intro-showreel-2026.webp`,
   bannerBg: `${base}/banner-bg.webp`,
+  serviceMainBg: `${base}/service-main-bg.webp`,
+  cartoonStoryboardBg: `${base}/cartoon-storyboard-bg-banner.webp`,
+  audioEditingBanner: `${base}/audio-editing-banner.webp`,
+  audioEditing: {
+    corporate: `${base}/corporate-audio-editing.webp`,
+    radio: `${base}/radio-program-editing.webp`,
+    music: `${base}/music-editing-and-mixing.webp`,
+    conversion: `${base}/audio-conversion-services.webp`,
+    jingle: `${base}/ad-jingle-creation.webp`,
+    podcast: `${base}/podcast-editing-services.webp`,
+    soundtrack: `${base}/sound-track-pro-editing.webp`,
+    audition: `${base}/adobe-audition-audio-editing.webp`,
+    aiVoice: `${base}/ai-voice-cloning-and-dialogue-correction.webp`,
+    benefit: `${base}/audio-benefit-img.webp`,
+    pageCta: `${base}/ss-page-cta-img.webp`,
+  },
 
   icons: {
     form: `${base}/imgi_3_icon-form.webp`,
@@ -66,7 +82,10 @@ export const assets = {
 
   software: `${base}/imgi_42_video-editing-softwares.webp`,
   editingMan: `${base}/imgi_43_video-editingman.webp`,
+  benefitImg: `${base}/benefit-img.webp`,
+  videoEditing2: `${base}/video-editing2.webp`,
   contactWoman: `${base}/imgi_44_contact-img.webp`,
+  serviceCtaImg: `${base}/service-cta-img.webp`,
 
   successStories: [
     `${base}/imgi_54_hm-cs-banner2.webp`,

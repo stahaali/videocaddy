@@ -1,0 +1,116 @@
+{
+  "slug": "medical",
+  "label": "Medical Animation",
+  "sourceUrl": "https://www.videocaddy.com/animation/medical-animation.php",
+  "meta": {
+    "title": "Comprehensive Medical Animation Services",
+    "description": "Video Caddy’s medical animation services offer an engaging way to showcase complex concepts. Contact us to create top-tier medical animation videos."
+  },
+  "hero": {
+    "title": "AI-Augmented Medical Animation Services",
+    "subtitle": "Get expert medical animation services that combine AI-powered workflow assistance with specialist human reviews to provide accurate, visually precise, and audience-appropriate medical content — without the overhead of managing in-house animation resources.",
+    "image": "/assets/images/animation/hero/medical.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Get expert medical animation services that combine AI-powered workflow assistance with specialist human reviews to provide accurate, visually precise, and audience-appropriate medical content — without the overhead of managing in-house animation resources."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "CONCEPT VISUALIZATION",
+      "items": [
+        "Our medical animators work within AI-assisted scene planning workflows to translate abstract clinical concepts into organized, dynamic animated videos. Human specialist review is applied at each production stage to support anatomical accuracy, procedural clarity, and alignment with your communication objectives — reducing revision cycles and improving final output consistency."
+      ],
+      "image": "/assets/images/animation/services/medical-0.webp"
+    },
+    {
+      "title": "SURGICAL PROCEDURE ANIMATION",
+      "items": [
+        "Our animation professionals recreate surgical scenarios with step-by-step procedural accuracy, covering instrument handling, anatomical landmarks, and technique sequencing. Production is supported by AI-assisted reference and asset workflows, with human medical animation specialists reviewing each sequence for clinical accuracy before delivery. This helps reduce the manual correction effort typically associated with high-complexity surgical content."
+      ],
+      "image": "/assets/images/animation/services/medical-1.webp"
+    },
+    {
+      "title": "MEDICAL DEVICE DEMONSTRATION",
+      "items": [
+        "Our team produces detailed 3D medical animation videos that demonstrate device functionality, clinical application, and operational workflow. AI-assisted 3D asset development supports faster scene construction and iteration, while human review supports product accuracy and compliance with your communication specifications — helping medical device teams reduce the time and internal resources required to produce accurate product demonstration content."
+      ],
+      "image": "/assets/images/animation/services/medical-2.webp"
+    },
+    {
+      "title": "PHARMACEUTICAL MECHANISM ANIMATION",
+      "items": [
+        "Our medical animators produce animated visuals illustrating drug-receptor interaction, mechanism of action, and therapeutic effect pathways. AI-assisted visual referencing supports the initial asset build, while human review supports scientific accuracy and regulatory communication alignment — helping pharmaceutical and life sciences teams provide content that supports sales enablement and patient education objectives."
+      ],
+      "image": "/assets/images/animation/services/medical-3.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Medical Animation",
+    "image": "/assets/images/animation/why/medical.webp",
+    "items": [
+      {
+        "title": "COMPREHENSIVE EXPERTISE",
+        "description": "Our medical animation team combines domain-specific production experience with AI-assisted workflow tools, applied under human specialist oversight. This organized approach supports consistent output quality across healthcare animation projects, from conceptual visualization through to final delivery — reducing the coordination overhead typically associated with outsourced specialist production."
+      },
+      {
+        "title": "INCREASED ENGAGEMENT",
+        "description": "Our medical video animation services help you create simplified and visually appealing content that can engage your audience while supporting your message resonates and drives action."
+      },
+      {
+        "title": "SAVE TIME AND COST",
+        "description": "VCD's medical animation services are organized to help reduce production timelines and operational costs associated with complex medical content creation. AI-assisted production workflows support faster asset development and scene iteration, while human review checkpoints help maintain accuracy — reducing the volume of revision rounds and associated turnaround delays compared to traditional production approaches."
+      },
+      {
+        "title": "COMPETITIVE EDGE",
+        "description": "Presenting medical concepts, device functionality, and clinical procedures in a clear and visually organized format supports stronger audience engagement across sales, education, and training contexts. Our AI-augmented medical animation services help you produce accurate, professionally reviewed content that meets the communication standards expected by healthcare and life sciences audiences — without extending internal resource commitments."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "OVERCOME COMMUNICATION BARRIERS WITH MEDICAL ANIMATION SERVICES",
+    "description": "Complex medical content demands production accuracy, clinical clarity, and reliable delivery governance. If you are evaluating medical animation service providers, our team is available to discuss your project scope, review workflow requirements, and outline how our AI-augmented production process supports your delivery and quality objectives. Schedule a consultation with our medical animation team.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

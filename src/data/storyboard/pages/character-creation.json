@@ -1,0 +1,118 @@
+{
+  "slug": "character-creation",
+  "label": "Character Creation",
+  "sourceUrl": "https://www.videocaddy.com/storyboard/character-creation.php",
+  "meta": {
+    "title": "Character Creation Services",
+    "description": "Video Caddy"
+  },
+  "hero": {
+    "title": "CHARACTER CREATION SERVICES",
+    "subtitle": "Working with several industries, including gaming, advertising, and publishing, our character illustration team at Video Caddy (VCD) is highly adept in a variety of visual enhancement services.",
+    "image": "/assets/images/storyboard/hero/character-creation.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Working with several industries, including gaming, advertising, and publishing, our character illustration team at Video Caddy (VCD) is highly adept in a variety of visual enhancement services."
+  ],
+  "servicesHeader": null,
+  "services": [
+    {
+      "title": "VIDEO GAME CHARACTER CREATION",
+      "items": [
+        "Adhering to the gaming compliances as well as assisting in creating an improved visual experience, our team of illustration specialists assist with character design, animation, audio, and graphics. We conceptualize, design the elements, and develop the characters to take your game to the market."
+      ],
+      "image": "/assets/images/storyboard/services/character-creation-0.webp"
+    },
+    {
+      "title": "CARTOON CHARACTER CREATION",
+      "items": [
+        "We assist in visually communicating your concepts and ideas. We do this by drawing a mock draft of your character and including the initial stick figure. We then apply an understanding of the underlying character structure, include the faces and figures, and break down the existing characters to their basic elements."
+      ],
+      "image": "/assets/images/storyboard/services/character-creation-1.webp"
+    },
+    {
+      "title": "MASCOT CHARACTER CREATION",
+      "items": [
+        "When creating or planning a new comic book production, our team can assist in creating a bridge between the writer and the intended audience by assisting with the scriptwriting and physical layout of frames and panels."
+      ],
+      "image": "/assets/images/storyboard/services/character-creation-2.webp"
+    },
+    {
+      "title": "2D CHARACTER CREATION",
+      "items": [
+        "Our illustrators draw or map out 2D representations of your character creations using leading software and methods customized to your needs. We also offer a thorough project review and discussion phase in order to support complete accuracy."
+      ],
+      "image": "/assets/images/storyboard/services/character-creation-3.webp"
+    },
+    {
+      "title": "3D CHARACTER CREATION",
+      "items": [
+        "We assist you with the production of 3D characters for video games, film and television, advertising, online videos, and more. In order to improve your project goals, our animations help communicate complex messages in an easy-to-understand and visually engaging way."
+      ],
+      "image": "/assets/images/storyboard/services/character-creation-4.webp"
+    },
+    {
+      "title": "BOOK CHARACTER ILLUSTRATION",
+      "items": [
+        "Our illustrators work closely with our clients to refine briefs, supporting you end up with the most beautiful book possible. We assist with character style requirements and create characters for book covers and inners for a number of different book types."
+      ],
+      "image": "/assets/images/storyboard/services/character-creation-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Choose Our Character Creation",
+    "image": "/assets/images/storyboard/why/character-creation.webp",
+    "items": [
+      {
+        "title": "ACCURATE END PRODUCTS",
+        "description": "Our experienced team not only offer a professional end product but support every aspect is accurate and meets any needed compliances."
+      },
+      {
+        "title": "ADVANCED STORYTELLING",
+        "description": "You gain expert product interpretation services that assist you in not only providing quality products but telling the story of your business or brand."
+      },
+      {
+        "title": "EMPATHY AND ENGAGEMENT",
+        "description": "By gaining a quality output provided by experts, your brand will effectively showcase in-depth character creations that people can empathize with allowing for an overall increase in brand recognition and support."
+      },
+      {
+        "title": "TRANSFORM VIEWERS INTO CUSTOMERS",
+        "description": "By using compelling and entertaining characters to explain your product or service, you will boost your viewer conversion rate by 20%."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "EXPERT CHARACTER CREATION FOR ALL YOUR NEEDS",
+    "description": "With over a decade of experience, our illustration team is adept at developing the most appealing character illustrations you are looking for. Contact us - we’re excited to work with you!",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Animated Storyboard by Video Caddy Helped American Studio in Visualization and Calculated Investment",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Breathing Life into Characters through Character Animation and Storyboarding",
+      "href": "/portfolio"
+    },
+    {
+      "title": "French Translation Company Received an Artistic Storyboard of Their Original Script",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": []
+}

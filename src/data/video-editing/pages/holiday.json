@@ -1,0 +1,163 @@
+{
+  "slug": "holiday",
+  "label": "Holiday Vacation Video",
+  "sourceUrl": "https://www.videocaddy.com/holiday.php",
+  "meta": {
+    "title": "Holiday Video Editing Services",
+    "description": "Holiday video editing for travel agencies, tourism boards, and hotels, ensuring brand-aligned visuals through structured reviews and campaign-ready delivery."
+  },
+  "hero": {
+    "title": "Holiday Video Editing Services Powered by AI Tools",
+    "subtitle": "Holiday video editing services for travel brands and tourism marketing teams, structured for campaign delivery, brand governance, and multi-platform distribution.",
+    "image": "/assets/images/video-editing/hero/holiday.webp",
+    "backgroundImage": "/assets/images/cartoon-storyboard-bg-banner.webp",
+    "primaryCta": {
+      "label": "Get Started Now",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Portfolio",
+      "href": "/portfolio"
+    }
+  },
+  "intro": [
+    "Holiday video editing services for travel brands and tourism marketing teams, structured for campaign delivery, brand governance, and multi-platform distribution."
+  ],
+  "servicesHeader": {
+    "title": "Our Holiday Video Editing Services",
+    "description": "Our holiday video editing services are structured for travel agency marketing directors, tourism boards, hotel groups, and influencer management firms that require controlled execution across seasonal campaigns. Each service is defined by approved scope parameters, documented review checkpoints, and platform-ready outputs designed to support campaign delivery without editorial drift or approval-cycle delays. Where AI-assisted tools are applied within workflows, they operate in support of human editorial teams, not as a replacement for governed editorial decision-making."
+  },
+  "services": [
+    {
+      "title": "Campaign-Based Holiday Promotional Videos",
+      "items": [
+        "Edit and structure raw travel footage into approved holiday promotional videos for travel brands aligned to campaign objectives",
+        "Standardize pacing, transitions, music, and brand overlays across multi-location shoots",
+        "Prepare master and cut-down versions for paid, organic, and partner distribution",
+        "Deliver final exports formatted for website, paid ads, and YouTube video placements"
+      ],
+      "image": "/assets/images/video-editing/services/holiday-0.webp"
+    },
+    {
+      "title": "Destination & Tourism Board Marketing",
+      "items": [
+        "Build cohesive destination narratives using licensed footage, on-ground shoots, and archival assets",
+        "Develop a custom travel highlights video for seasonal promotions and event-based campaigns",
+        "Align tone, typography, and color grading to tourism board brand guidelines",
+        "Organize structured holiday marketing video packages for multi-region rollouts"
+      ],
+      "image": "/assets/images/video-editing/services/holiday-1.webp"
+    },
+    {
+      "title": "Hotel & Resort Branded Travel Videos",
+      "items": [
+        "Edit property walkthroughs, amenity showcases, and experience-driven visuals into branded travel video services for hospitality groups",
+        "Integrate lifestyle footage, guest experiences, and promotional messaging within defined brand standards",
+        "Prepare localized variations for franchise properties while maintaining central oversight",
+        "Export digital-ready files optimized for paid campaigns and booking funnels"
+      ],
+      "image": "/assets/images/video-editing/services/holiday-2.webp"
+    },
+    {
+      "title": "Influencer & Agency-Led Travel Video Editing",
+      "items": [
+        "Consolidate multi-creator footage into consistent campaign assets for influencer management agencies",
+        "Apply professional video editing standards across formats, including reels, short-form ads, and long-form edits",
+        "Maintain asset libraries and structured version control for repeat collaborations",
+        "Format final outputs for social distribution, embedded web content, and partner channels"
+      ],
+      "image": "/assets/images/video-editing/services/holiday-3.webp"
+    },
+    {
+      "title": "Immersive & 360 Degree Video Editing",
+      "items": [
+        "Edit and stitch immersive destination footage into campaign-ready 360 degree video assets",
+        "Stabilize panoramic footage and correct exposure variations across environments",
+        "Prepare interactive exports suitable for web integration and experiential showcases",
+        "Ensure quality checks for playback consistency across supported devices"
+      ],
+      "image": "/assets/images/video-editing/services/holiday-4.webp"
+    },
+    {
+      "title": "Enterprise Traveling Film Services",
+      "items": [
+        "Provide structured traveling film services for corporate travel brands and experience companies",
+        "Execute professional holiday video production within defined editorial workflows",
+        "Utilize industry-standard tools, including Final Cut Pro , under controlled review environments",
+        "Deliver secure, deadline-driven outputs as part of a governed vacation video content service model"
+      ],
+      "image": "/assets/images/video-editing/services/holiday-5.webp"
+    }
+  ],
+  "why": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Should Businesses Choose Our Holiday Video Editing Services",
+    "items": [
+      {
+        "title": "Defined Campaign Scope Before Editing Begins",
+        "description": "Approved briefs, runtimes, and formats are finalized before production across all travel video editing engagements."
+      },
+      {
+        "title": "Structured Review & Approval Checkpoints",
+        "description": "Documented review cycles with tracked revisions help reduce rework and approval delays. AI-assisted version tracking tools support checkpoint visibility across campaigns, giving marketing teams and agency partners clearer oversight of edit status, pending reviews, and approved deliverable stages."
+      },
+      {
+        "title": "Brand Governance Across Campaigns",
+        "description": "Centralized brand controls ensure consistency across properties and branded travel video services deliverables."
+      },
+      {
+        "title": "Platform-Ready Technical Deliverables",
+        "description": "Exports optimized for web, paid media, YouTube video, and immersive 360 degree video formats."
+      },
+      {
+        "title": "Secure Workflow & Editorial Transparency",
+        "description": "Controlled asset exchange, documented version histories, and supervised professional video editing processes — supported by AI-assisted logging tools that help maintain audit trail consistency across multi-location campaign deliverables. Human editorial review remains central to every output stage."
+      },
+      {
+        "title": "Enterprise Editing Infrastructure",
+        "description": "Projects executed in Final Cut Pro, supporting scalable holiday marketing video packages and multi-location campaigns."
+      }
+    ]
+  },
+  "process": [],
+  "midCta": {
+    "title": "Discuss Your Holiday Campaign Requirements with Our Delivery Team",
+    "description": "Our holiday video editing services align with established brand governance, tourism marketing frameworks, and agency production calendars through structured intake, controlled edit cycles, and documented quality checks. Supporting holiday promotional videos for travel brands and scalable holiday marketing video packages, our travel video editing services deliver review-ready outputs aligned with distribution standards.",
+    "cta": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "caseStudies": [
+    {
+      "title": "Destination Content Video Editing for a US-Based Travel and Tourism Company",
+      "href": "/portfolio"
+    },
+    {
+      "title": "Video Production and Editing Support for Travel Tech Firm",
+      "href": "/portfolio"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you deliver platform-formatted holiday videos for paid and organic social campaigns?",
+      "answer": "Yes. We produce platform-formatted holiday videos with defined runtimes, aspect ratios, caption placement, and export standards aligned to paid and organic campaign requirements. AI-assisted export review supports format compliance checks before human editors confirm final platform readiness, helping reduce delivery errors across multi-channel campaign rollouts."
+    },
+    {
+      "question": "Can you produce destination promo videos for tour operators?",
+      "answer": "Yes. We structure destination promos using approved messaging, licensed assets, and brand guidelines, delivering review-ready edits suited for digital, web, and partner distribution."
+    },
+    {
+      "question": "Can you create custom travel videos for my agency?",
+      "answer": "We produce custom travel highlights based on approved briefs, footage libraries, and campaign objectives, with defined revision cycles and platform-specific deliverables."
+    },
+    {
+      "question": "What makes Video Caddy’s holiday video editing services operationally reliable for travel brands?",
+      "answer": "Our delivery model is built on defined scope agreements, governed editorial workflows, documented quality-review checkpoints, and structured version control. Where applicable, AI-assisted tools support footage organization and consistency monitoring ahead of human editorial review, helping reduce revision friction and improve output predictability across multi-location travel marketing campaigns."
+    },
+    {
+      "question": "What are your holiday video package prices?",
+      "answer": "Pricing depends on runtime, campaign volume, formats, and revision scope. We provide customized quotes after reviewing footage volume and delivery requirements."
+    }
+  ]
+}
