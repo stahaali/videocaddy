@@ -1,0 +1,155 @@
+.section {
+  background: #fff;
+  color: #1a1a1a;
+}
+
+.content {
+  max-width: 900px;
+}
+
+.block {
+  margin-bottom: 32px;
+}
+
+.block:last-child {
+  margin-bottom: 0;
+}
+
+.heading {
+  margin: 0 0 14px;
+  font-family: var(--font-section);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000;
+}
+
+.paragraph {
+  margin: 0 0 14px;
+  font-family: var(--font-section);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #333;
+}
+
+.paragraph:last-child {
+  margin-bottom: 0;
+}
+
+.list {
+  margin: 0 0 14px;
+  padding: 0 0 0 1.25rem;
+}
+
+.listItem {
+  margin-bottom: 8px;
+  font-family: var(--font-section);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #333;
+}
+
+.bulletTitle {
+  font-weight: 700;
+  color: #000;
+}
+
+.cardsWrap {
+  margin-top: 8px;
+}
+
+.cardsTitle {
+  margin: 0 0 28px;
+  font-family: var(--font-section);
+  font-size: clamp(1.5rem, 3vw, 28px);
+  font-weight: 700;
+  color: #000;
+}
+
+.cardsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.card {
+  padding: 24px;
+  border: 1px solid #e8e8e8;
+  background: #fafafa;
+}
+
+.cardTitle {
+  margin: 0 0 10px;
+  font-family: var(--font-section);
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000;
+}
+
+.cardText {
+  margin: 0;
+  font-family: var(--font-section);
+  font-size: 15px;
+  line-height: 1.65;
+  color: #444;
+}
+
+.cardLink {
+  display: inline-block;
+  margin-top: 14px;
+  font-family: var(--font-section);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-primary-darker, #b8962e);
+  text-decoration: none;
+}
+
+.cardLink:hover {
+  text-decoration: underline;
+}
+
+.glossary {
+  margin: 0;
+  max-width: 900px;
+}
+
+.glossaryItem {
+  padding: 20px 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.glossaryItem:first-child {
+  padding-top: 0;
+}
+
+.term {
+  margin: 0 0 8px;
+  font-family: var(--font-section);
+  font-size: 17px;
+  font-weight: 700;
+  color: #000;
+}
+
+.definition {
+  margin: 0;
+  font-family: var(--font-section);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #333;
+}
+
+@media (max-width: 991px) {
+  .cardsGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 575px) {
+  .cardsGrid {
+    grid-template-columns: 1fr;
+  }
+}

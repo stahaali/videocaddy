@@ -7,6 +7,8 @@ import styles from "./Testimonials.module.css";
 
 interface TestimonialsProps {
   items?: Testimonial[];
+  /** Max quotes to show. Defaults to 3 for homepage/section embeds. */
+  limit?: number;
 }
 
 function StarRating() {
@@ -25,8 +27,8 @@ function StarRating() {
   );
 }
 
-export default function Testimonials({ items = testimonials }: TestimonialsProps) {
-  const visibleItems = items.slice(0, 3);
+export default function Testimonials({ items = testimonials, limit = 3 }: TestimonialsProps) {
+  const visibleItems = items.slice(0, limit);
 
   return (
     <section

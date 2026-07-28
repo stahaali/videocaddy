@@ -3,44 +3,14 @@
 import Image from "next/image";
 import Link from "next/link";
 import Container from "@/components/shared/Container/Container";
-import { contactInfo } from "@/data/navigation";
+import { contactInfo, footerLinks } from "@/data/navigation";
 import { assets } from "@/data/assets";
 import styles from "./Footer.module.css";
 
 const footerColumns = [
-  {
-    title: "LINK",
-    links: [
-      { label: "Home", href: "/" },
-      { label: "About Us", href: "/about" },
-      { label: "Testimonials", href: "/#testimonials" },
-      { label: "Price", href: "/pricing" },
-      { label: "Case Study", href: "/portfolio" },
-      { label: "Contact Us", href: "/contact" },
-    ],
-  },
-  {
-    title: "FEATURES",
-    links: [
-      { label: "Security", href: "/about" },
-      { label: "Quality", href: "/about" },
-      { label: "TAT", href: "/about" },
-      { label: "Benefits", href: "/about" },
-      { label: "Blog", href: "/about" },
-      { label: "Portfolio", href: "/portfolio" },
-    ],
-  },
-  {
-    title: "PORTFOLIO",
-    links: [
-      { label: "Video Editing", href: "/services" },
-      { label: "Audio Editing", href: "/audio-editing" },
-      { label: "Animation", href: "/services" },
-      { label: "Story Board", href: "/services" },
-      { label: "Articles", href: "/about" },
-      { label: "Glossary", href: "/about" },
-    ],
-  },
+  { title: "LINK", links: footerLinks.link },
+  { title: "FEATURES", links: footerLinks.features },
+  { title: "PORTFOLIO", links: footerLinks.portfolio },
 ];
 
 const socialLinks = [

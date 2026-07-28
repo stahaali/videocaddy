@@ -167,6 +167,30 @@ export const contactInfo = {
 };
 
 export const footerLinks = {
+  link: [
+    { label: "Home", href: "/" },
+    { label: "About Us", href: "/about" },
+    { label: "Testimonials", href: "/testimonials" },
+    { label: "Price", href: "/pricing" },
+    { label: "Case Study", href: "/case-studies" },
+    { label: "Contact Us", href: "/contact" },
+  ],
+  features: [
+    { label: "Security", href: "/security" },
+    { label: "Quality", href: "/quality" },
+    { label: "TAT", href: "/tat" },
+    { label: "Benefits", href: "/benefits" },
+    { label: "Blog", href: "/blog" },
+    { label: "Portfolio", href: "/portfolio" },
+  ],
+  portfolio: [
+    { label: "Video Editing", href: "/video-editing/corporate" },
+    { label: "Audio Editing", href: "/audio-editing" },
+    { label: "Animation", href: "/animation" },
+    { label: "Story Board", href: "/storyboard" },
+    { label: "Articles", href: "/articles" },
+    { label: "Glossary", href: "/glossary" },
+  ],
   services: [
     { label: "Video Editing", href: "/video-editing/corporate" },
     { label: "Audio Editing", href: "/audio-editing" },
