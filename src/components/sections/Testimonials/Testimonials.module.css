@@ -194,7 +194,7 @@
   }
 }
 
-@media (min-width: 1080px) {
+@media (min-width: 1366px) {
   .headerCol {
     padding: 32px 48px;
   }
@@ -202,12 +202,71 @@
   .quoteCol {
     padding: 32px 48px;
   }
-}
 
-@media (min-width: 1366px) {
   .testimonialBox {
     min-height: 280px;
     padding: 40px 30px;
+  }
+}
+
+/* iPad Pro / 1024px — prevent header title/quote/watermark overlap */
+@media (min-width: 1024px) and (max-width: 1365px) {
+  .headerRow {
+    grid-template-columns: minmax(0, 1.7fr) minmax(64px, auto) minmax(150px, 0.95fr);
+    column-gap: 8px;
+  }
+
+  .headerCol {
+    padding: 28px 20px;
+  }
+
+  .headingCol {
+    padding-right: 12px;
+    min-width: 0;
+  }
+
+  .title {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+
+  .titleLine {
+    white-space: normal;
+  }
+
+  .quoteCol {
+    padding: 24px 8px;
+  }
+
+  .quoteIcon {
+    width: 84px;
+  }
+
+  .watermarkCol {
+    padding: 24px 12px;
+    min-width: 0;
+    overflow: visible;
+  }
+
+  .lightText {
+    padding: 10% 0 0 !important;
+    font-size: 28px !important;
+    line-height: 1 !important;
+    white-space: nowrap;
+    word-break: normal;
+  }
+
+  .section::after {
+    width: 38%;
+  }
+
+  .testimonialGrid {
+    gap: 20px;
+  }
+
+  .testimonialBox {
+    min-height: 260px;
+    padding: 32px 22px;
   }
 }
 
@@ -248,7 +307,13 @@
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 1023px) {
+  .lightText {
+    font-size: 50px !important;
+  }
+}
+
+@media (min-width: 1366px) {
   .lightText {
     font-size: 50px !important;
   }

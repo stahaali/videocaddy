@@ -30,7 +30,10 @@ export default function Hero() {
   }, []);
 
   return (
-    <section className="relative min-h-screen overflow-hidden bg-black pt-[88px]" aria-label="Hero">
+    <section
+      className="home-hero relative min-h-screen overflow-hidden bg-black pt-[88px]"
+      aria-label="Hero"
+    >
       <div className="absolute inset-0 z-0">
         <Image
           src={heroData.bannerBg}
@@ -50,7 +53,7 @@ export default function Hero() {
         />
       </div>
 
-      <div className="relative z-[2] flex min-h-[calc(100vh-88px)] w-full items-center py-8 pb-12">
+      <div className="home-hero-inner relative z-[2] flex min-h-[calc(100vh-88px)] w-full items-center py-8 pb-12">
         <Container>
           <div className="flex w-full flex-col gap-10 lg:gap-12">
             <div ref={headingRef} className="banner-heading w-full">
